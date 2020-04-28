@@ -17,7 +17,7 @@ hero_media = "home_figure.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "white"
+  # color = "navy"
   
   # Background gradient.
   gradient_start = "#4bb4e3" 
@@ -31,7 +31,7 @@ hero_media = "home_figure.png"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-text_color_light = false
+  text_color_light = true
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
@@ -48,10 +48,11 @@ text_color_light = false
 
 # Note. An optional note to show underneath the links.
 #[cta_note]
-#  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" #data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+#  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
 **Welcome to the Drögemöller Lab**
 
 Our lab focuses on using genomics to develop safer and more effective treatments for pediatric and maternal populations
+
 
