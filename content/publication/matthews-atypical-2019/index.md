@@ -1,0 +1,13 @@
+---
+title: "Atypical cerebral palsy: genomics analysis enables precision medicine"
+date: 2019-01-01
+publishDate: 2020-04-28T19:29:29.516926Z
+authors: ["Allison M. Matthews", "Ingrid Blydt-Hansen", "Basmah Al-Jabri", "John Andersen", "Maja Tarailo-Graovac", "Magda Price", "Katherine Selby", "Michelle Demos", "Mary Connolly", "Britt Drögemoller", "Casper Shyr", "Jill Mwenifumbo", "Alison M. Elliott", "Jessica Lee", "Aisha Ghani", "Sylvia Stöckler", "Ramona Salvarinova", "Hilary Vallance", "Graham Sinclair", "Colin J. Ross", "Wyeth W. Wasserman", "Margaret L. McKinnon", "Gabriella A. Horvath", "Helly Goez", "Clara D. van Karnebeek", "United for Metabolic Diseases TIDE BC", "the CAUSES Study"]
+publication_types: ["2"]
+abstract: "PURPOSE: The presentation and etiology of cerebral palsy (CP) are heterogeneous. Diagnostic evaluation can be a prolonged and expensive process that might remain inconclusive. This study aimed to determine the diagnostic yield and impact on management of next-generation sequencing (NGS) in 50 individuals with atypical CP (ACP). METHODS: Patient eligibility criteria included impaired motor function with onset at birth or within the first year of life, and one or more of the following: severe intellectual disability, progressive neurological deterioration, other abnormalities on neurological examination, multiorgan disease, congenital anomalies outside of the central nervous system, an abnormal neurotransmitter profile, family history, brain imaging findings not typical for cerebral palsy. Previous assessment by a neurologist and/or clinical geneticist, including biochemical testing, neuroimaging, and chromosomal microarray, did not yield an etiologic diagnosis. RESULTS: A precise molecular diagnosis was established in 65% of the 50 patients. We also identified candidate disease genes without a current OMIM disease designation. Targeted intervention was enabled in eight families (~15%). CONCLUSION: NGS enabled a molecular diagnosis in ACP cases, ending the diagnostic odyssey, improving genetic counseling and personalized management, all in all enhancing precision medicine practices."
+featured: false
+publication: "*Genetics in Medicine: Official Journal of the American College of Medical Genetics*"
+tags: ["Female", "Adult", "Humans", "Male", "Genetic Association Studies", "High-Throughput Nucleotide Sequencing", "Child", "Genomics", "treatment", "Cerebral Palsy", "cerebral palsy (CP)", "intellectual disability (ID)", "molecular diagnosis", "Molecular Diagnostic Techniques", "next-generation sequencing (NGS)", "Precision Medicine"]
+doi: "10.1038/s41436-018-0376-y"
+---
+
