@@ -20,9 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: The Drögemöller Lab uses large-scale genomic and computational analyses to guide the development of novel treatment strategies that offer maximum benefit and minimal harm. This research is focused specifically on vulnerable and understudied populations (e.g. pediatric and maternal populations) as therapeutic agents are often not designed and tested with these patients in mind. 
 
-Research Focus:
+interests:
 - Genomics
-- Biocinformatics/Computational Biology
+- Bioinformatics
 - Pharmacogenomics
 - Precision Medicine
 
@@ -72,4 +72,6 @@ email: ""
 #- Visitors
 ---
 
-The Drögemöller Lab uses large-scale genomic and computational analyses to guide the development of novel treatment strategies that offer maximum benefit and minimal harm. This research is focused specifically on vulnerable and understudied populations (e.g. pediatric and maternal populations) as therapeutic agents are often not designed and tested with these patients in mind.
+The Drögemöller Lab uses large-scale genomic and computational analyses to guide the development of novel treatment strategies that offer maximum benefit and minimal harm. 
+
+This research is focused specifically on vulnerable and understudied populations (e.g. pediatric and maternal populations) as therapeutic agents are often not designed and tested with these patients in mind.
