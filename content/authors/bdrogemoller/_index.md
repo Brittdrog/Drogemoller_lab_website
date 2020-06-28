@@ -1,31 +1,33 @@
 ---
-# Display name
+# Display name (add your name here)
 title: Britt Drögemöller
 
-# Username (this should match the folder name)
+# Username (this should match the folder name) (add your initial and surname)
 authors:
 - bdrogemoller
 
-# Is this the primary user of the site?
+# Is this the primary user of the site? (keep as is)
 superuser: true
 
-# Role/position
+# Role/position (add your position)
 role: Assistant Professor
 #Tier 2 Canadian Research Chair in Pharmacogenomics and Precision Medicine
 
-# Organizations/Affiliations
+# Organizations/Affiliations (add your institution and web address)
 organizations:
 - name: University of Manitoba
   url: "http://umanitoba.ca/medicine/biochem/"
 
-# Short bio (displayed in user profile at end of posts)
-bio: Dr. Britt Drögemöller joined the Department of Biochemistry & Medical Genetics at the University of Manitoba as an Assistant Professor in 2020. Dr. Drögemöller’s research utilizes genomic and bioinformatic analyses to identify genetic variants underlying severe adverse drug reactions to therapeutic treatments. Building on this research, Dr. Drögemöller has also been involved in the identification of variants that cause rare and potentially treatable inborn errors of metabolism. 
+# Short bio (displayed in user profile at end of posts) (add info about yourself)
+bio: Dr. Britt Drögemöller joined the Department of Biochemistry & Medical Genetics at the University of Manitoba as an Assistant Professor in 2020. Dr. Drögemöller’s research uses genomic and bioinformatic analyses to improve our understanding of how genetic variation contributes to human disease and the treatment thereof.
 
+#Add info about your interests in bullet form (this can also be non-academic)
 #interests:
 #- Pediatric & Maternal Populations
 #- Pharmacogenomics & Precision Medicine
 
 
+#Add info about your education
 education:
   courses:
   - course: Postdoctoral Fellowship
@@ -39,6 +41,9 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#edit twitter link or comment out
+#edit google scholar link or comment out
+#edit github link or comment out
 social:
 - icon: envelope
   icon_pack: fas
@@ -63,11 +68,11 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Principal Investigator
+#user_groups:
+#- Principal Investigator
 #- Lab members
 #- Visitors
 #- Alumni
 ---
 
-Dr. Britt Drögemöller joined the Department of Biochemistry & Medical Genetics at the University of Manitoba as an Assistant Professor in 2020. Dr. Drögemöller’s research utilizes genomic and bioinformatic analyses to identify genetic variants underlying severe adverse drug reactions to therapeutic treatments. Building on this research, Dr. Drögemöller has also been involved in the identification of variants that cause rare and potentially treatable inborn errors of metabolism. 
+Dr. Britt Drögemöller joined the Department of Biochemistry & Medical Genetics at the University of Manitoba as an Assistant Professor in 2020. Dr. Drögemöller’s research uses genomic and bioinformatic analyses to improve our understanding of how genetic variation contributes to human disease and the treatment thereof. 
