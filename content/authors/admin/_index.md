@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Department of Biochemsitry & Medical Genetics
+role: Drögemöller Lab
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://umanitoba.ca/medicine/biochem/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: The Drögemöller Lab uses large-scale genomic and computational analyses to guide the development of novel treatment strategies that offer maximum benefit and minimal harm. This research is focused specifically on vulnerable and understudied populations (e.g. pediatric and maternal populations) as therapeutic agents are often not designed and tested with these patients in mind. 
+bio: The Drögemöller Lab uses large-scale genomic and computational analyses to guide the development of novel treatment strategies that offer maximum benefit and minimal harm. This research is focused specifically on vulnerable and understudied populations (e.g. pediatric and maternal populations) as therapeutic agents are often not designed and tested with these patients in mind.
 
 interests:
 - Genomics
@@ -67,7 +67,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
+# user_groups:
+#- Principal Investigator
+#- Students
 #- Researchers
 #- Visitors
 ---
