@@ -19,7 +19,7 @@ organizations:
   url: "http://umanitoba.ca/medicine/biochem/"
 
 # Short bio (displayed in user profile at end of posts) (add info about yourself)
-bio: Dr. Britt Drögemöller joined the Department of Biochemistry & Medical Genetics at the University of Manitoba as an Assistant Professor in 2020. Dr. Drögemöller’s research uses genomic and bioinformatic analyses to improve our understanding of how genetic variation contributes to human disease and the treatment thereof.
+bio: Dr. Britt Drögemöller is an Assistant Professor in the Department of Biochemistry & Medical Genetics at the University of Manitoba and a Research Scientist at The Children’s Hospital Research Institute of Manitoba. Dr. Britt Drögemöller received her PhD from Stellenbosch University in South Africa in 2013. She continued her training in pharmacogenomics and precision medicine at the University of British Columbia, where she completed a postdoctoral fellowship at the Canadian Pharmacogenomics Network for Drug Safety.
 
 #Add info about your interests in bullet form (this can also be non-academic)
 #interests:
@@ -28,14 +28,14 @@ bio: Dr. Britt Drögemöller joined the Department of Biochemistry & Medical Gen
 
 
 #Add info about your education
-education:
-  courses:
-  - course: Postdoctoral Fellowship
-    institution: University of British Columbia, Canada
-    year: 2014-2020
-  - course: PhD in Genetics
-    institution: Stellenbosch University, South Africa
-    year: 2010-2013
+#education:
+#  courses:
+#  - course: Postdoctoral Fellowship
+#    institution: University of British Columbia, Canada
+#    year: 2014-2020
+#  - course: PhD in Genetics
+#    institution: Stellenbosch University, South Africa
+#    year: 2010-2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -75,4 +75,4 @@ email: ""
 #- Alumni
 ---
 
-Dr. Britt Drögemöller joined the Department of Biochemistry & Medical Genetics at the University of Manitoba as an Assistant Professor in 2020. Dr. Drögemöller’s research uses genomic and bioinformatic analyses to improve our understanding of how genetic variation contributes to human disease and the treatment thereof. 
+Dr. Britt Drögemöller is an Assistant Professor in the Department of Biochemistry & Medical Genetics at the University of Manitoba and a Research Scientist at The Children’s Hospital Research Institute of Manitoba. Dr. Britt Drögemöller received her PhD from Stellenbosch University in South Africa in 2013. She continued her training in pharmacogenomics and precision medicine at the University of British Columbia, where she completed a postdoctoral fellowship at the Canadian Pharmacogenomics Network for Drug Safety.
