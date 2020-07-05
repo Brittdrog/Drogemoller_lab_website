@@ -2,7 +2,7 @@
 # Display name (add your name here)
 title: Britt Drögemöller
 
-# Username (this should match the folder name) (add your initial and surname)
+# Username (this should match the folder name and should be your initial and surname)
 authors:
 - bdrogemoller
 
@@ -13,21 +13,21 @@ superuser: true
 role: Assistant Professor
 #Tier 2 Canadian Research Chair in Pharmacogenomics and Precision Medicine
 
-# Organizations/Affiliations (add your institution and web address)
+# Organizations/Affiliations (add your name and web address, if you have one)
 organizations:
-- name: University of Manitoba
-  url: "http://umanitoba.ca/medicine/biochem/"
+- name: Britt Drögemöller
+  url: "http://brittdrogemoller.com/"
 
 # Short bio (displayed in user profile at end of posts) (add info about yourself)
-bio: Dr. Britt Drögemöller is an Assistant Professor in the Department of Biochemistry & Medical Genetics at the University of Manitoba and a Research Scientist at The Children’s Hospital Research Institute of Manitoba. Dr. Britt Drögemöller received her PhD from Stellenbosch University in South Africa in 2013. She continued her training in pharmacogenomics and precision medicine at the University of British Columbia, where she completed a postdoctoral fellowship at the Canadian Pharmacogenomics Network for Drug Safety.
+bio: Dr. Britt Drögemöller is an Assistant Professor in the Department of Biochemistry & Medical Genetics at the University of Manitoba and a Research Scientist at The Children’s Hospital Research Institute of Manitoba. 
 
-#Add info about your interests in bullet form (this can also be non-academic)
+#Add info about your interests in bullet form (this can also be non-academic) 
 #interests:
 #- Pediatric & Maternal Populations
 #- Pharmacogenomics & Precision Medicine
 
 
-#Add info about your education
+#Add info about your education 
 #education:
 #  courses:
 #  - course: Postdoctoral Fellowship
@@ -47,7 +47,7 @@ bio: Dr. Britt Drögemöller is an Assistant Professor in the Department of Bioc
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:britt.drogemoller@umanitoba.ca"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/brittdrog
@@ -75,4 +75,4 @@ email: ""
 #- Alumni
 ---
 
-Dr. Britt Drögemöller is an Assistant Professor in the Department of Biochemistry & Medical Genetics at the University of Manitoba and a Research Scientist at The Children’s Hospital Research Institute of Manitoba. Dr. Britt Drögemöller received her PhD from Stellenbosch University in South Africa in 2013. She continued her training in pharmacogenomics and precision medicine at the University of British Columbia, where she completed a postdoctoral fellowship at the Canadian Pharmacogenomics Network for Drug Safety.
+Dr. Britt Drögemöller is an Assistant Professor in the Department of Biochemistry & Medical Genetics at the University of Manitoba and a Research Scientist at The Children’s Hospital Research Institute of Manitoba. Dr. Drögemöller received her PhD from Stellenbosch University in South Africa in 2013. She continued her training in pharmacogenomics and precision medicine at the University of British Columbia, where she completed a postdoctoral fellowship at the Canadian Pharmacogenomics Network for Drug Safety. 
