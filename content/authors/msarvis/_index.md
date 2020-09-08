@@ -49,6 +49,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:sarvism@myumanitoba.ca"
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/MackenzieSarvis
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
