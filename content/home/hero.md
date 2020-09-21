@@ -17,7 +17,7 @@ hero_media = "home_figure.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "navy"
   
   # Background gradient.
   gradient_start = "#4bb4e3" 
@@ -53,6 +53,6 @@ hero_media = "home_figure.png"
 
 **Welcome to the Drögemöller Lab**
 
-Our lab focuses on using genomics to develop safer and more effective treatments for pediatric and maternal populations
+Our lab focuses on using genomics and computational analyses to develop safer and more effective treatments
 
 
