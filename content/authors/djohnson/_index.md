@@ -66,6 +66,7 @@ social:
 #- Lab members
 #- Visitors
 #- Alumni
+user_groups: ["Alumni"]
 ---
 
 Danielle Johnson is a PhD student at the University of Liverpool, UK, who has been awarded a Mitacs Globalink internship in the Drögemöller lab. She previously completed her MRes at King's College London and a BSc in Medical Sciences at the University of Exeter. She previously worked on the STAMPEDE trial at the Medical Research Council, London.

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position (add your position)
-#role: MSc Student
+role: MSc Student
 
 # Organizations/Affiliations (add your name and web address, if you have one)
 organizations:
@@ -55,9 +55,9 @@ social:
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
+user_groups:
 #- Principal Investigator
-#- Lab members
+- Lab members
 #- Visitors
 #- Alumni
 ---
