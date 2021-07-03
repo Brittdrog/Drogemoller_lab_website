@@ -14,8 +14,8 @@ role: Mitacs-Globalink UK-Canada PhD exchange student
 #Tier 2 Canadian Research Chair in Pharmacogenomics and Precision Medicine
 
 # Organizations/Affiliations (add your name and web address, if you have one)
-#organizations:
-#- name: Britt Drögemöller
+organizations:
+- name: Danielle Johnson
 # url: "http://brittdrogemoller.com/"
 
 # Short bio (displayed in user profile at end of posts) (add info about yourself)

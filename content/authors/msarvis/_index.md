@@ -1,6 +1,6 @@
 ---
 # Display name (add your name here)
-title: MacKenzie Sarvis
+title: MacKenzie Wilke
 
 # Username (this should match the folder name and should be your initial and surname)
 authors:
@@ -14,10 +14,10 @@ role: MSc Student
 
 # Organizations/Affiliations (add your name and web address, if you have one)
 organizations:
-- name: Mackenzie Sarvis
+- name: Mackenzie Wilke
 
 # Short bio (displayed in user profile at end of posts) (add info about yourself)
-bio: MacKenzie Sarvis is a MSc student in the Department of Biochemistry & Medical Genetics at the University of Manitoba. 
+bio: MacKenzie Wilke is a MSc student in the Department of Biochemistry & Medical Genetics at the University of Manitoba. 
 
 #Add info about your interests in bullet form (this can also be non-academic) 
 interests:
@@ -62,4 +62,4 @@ user_groups:
 #- Alumni
 ---
 
-MacKenzie Sarvis is a MSc student in the Department of Biochemistry & Medical Genetics at the University of Manitoba. MacKenzie has graduated with her BSc (Hons) in Genetics from the University of Manitoba in 2020. She completed an undergraduate thesis on identifying genes associated with autism spectrum disorder through Hardy-Weinberg disequilibrium and her MSc project will focus on developing a polygenic risk score in order to aid with the prediction and prevention of cisplatin-induced ototoxicity.
+MacKenzie Wilke is a MSc student in the Department of Biochemistry & Medical Genetics at the University of Manitoba. MacKenzie has graduated with her BSc (Hons) in Genetics from the University of Manitoba in 2020. She completed an undergraduate thesis on identifying genes associated with autism spectrum disorder through Hardy-Weinberg disequilibrium and her MSc project will focus on developing a polygenic risk score in order to aid with the prediction and prevention of cisplatin-induced ototoxicity.

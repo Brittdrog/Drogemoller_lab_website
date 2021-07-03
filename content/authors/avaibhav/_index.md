@@ -14,7 +14,7 @@ role: Summer Research Student
 
 # Organizations/Affiliations (add your name and web address, if you have one)
 organizations:
-#name: Vaibhav
+- name: Vaibhav
 
 # Short bio (displayed in user profile at end of posts) (add info about yourself)
 bio: Vaibhav is an undergraduate student at the University of Manitoba pursuing a Major in Microbiology. He will be working under the supervision of Dr. Dr?gem?ller, mining cisplatin-induced gene expression and cytotoxicity data to identify genes of relevance to cisplatin-induced ototoxicity.
