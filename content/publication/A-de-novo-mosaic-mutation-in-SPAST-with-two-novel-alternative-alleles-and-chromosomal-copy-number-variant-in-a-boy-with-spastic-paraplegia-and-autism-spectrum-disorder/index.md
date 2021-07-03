@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "A De Novo Mosaic Mutation in SPAST With Two Novel Alternative Alleles and Chromosomal Copy Number Variant in a Boy With Spastic Paraplegia and Autism Spectrum Disorder"
+title: "A de novo mosaic mutation in SPAST with two novel alternative alleles and chromosomal copy number variant in a boy with spastic paraplegia and autism spectrum disorder"
 authors: ["Allison Matthews", "Maja Tarailo-Graovac", "Magda Price", "Ingrid Blydt-Hansen", "Aisha Ghani", "Britt Drögemöller", "Wendy Robinson", "Colin Ross", "Wyeth Wasserman", "Hal Siden", "Clara van Karnebeek"]
 date: 2017-08-01
 doi: "10.1016/j.ejmg.2017.07.015"

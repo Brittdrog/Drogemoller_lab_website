@@ -1,5 +1,5 @@
 ---
-title: "A Systematic Comparison of Pharmacogene Star Allele Calling Bioinformatics Algorithms: A Focus on CYP2D6 Genotyping"
+title: "A systematic comparison of pharmacogene star allele calling bioinformatics algorithms: A focus on CYP2D6 genotyping"
 date: 2020-08-03
 publishDate: 2020-07-20T19:29:29.522139Z
 authors: ["David Twesigomwe", "Galen Wright", "Britt Drögemöller", "Jorge da Rocha", "Zané Lombard", "Scott Hazelhurst"]

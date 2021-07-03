@@ -1,5 +1,5 @@
 ---
-title: "StellarPGx: A Nextflow Pipeline for Calling Star Alleles in Cytochrome P450 Genes"
+title: "StellarPGx: A nextflow pipeline for calling star alleles in cytochrome P450 genes"
 authors: ["David Twesigomwe", "Britt Drögemöller", "Galen Wright", "Azra Siddiqui", "Jorge da Rocha", "Zané Lombard", "Scott Hazelhurst"]
 date: 2021-01-25
 doi: "10.1002/cpt.2173"

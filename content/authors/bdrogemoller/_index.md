@@ -75,6 +75,4 @@ email: ""
 #- Alumni
 ---
 
-Dr. Britt Drögemöller is an Assistant Professor in the Department of Biochemistry & Medical Genetics at the University of Manitoba. Dr. Drögemöller holds a Canada Research Chair in Pharmacogenomics and Precision Medicine and is appointed as a Research Scientist at The Children’s Hospital Foundation of Manitoba and an Adjunct Scientist in the Research Institute in Oncology and Hematology. 
-
-Dr. Drögemöller received her PhD from Stellenbosch University in South Africa in 2013. She continued her training in pharmacogenomics and precision medicine at the University of British Columbia, where she completed a postdoctoral fellowship at the Canadian Pharmacogenomics Network for Drug Safety. 
+Dr. Britt Drögemöller is an Assistant Professor in the Department of Biochemistry & Medical Genetics at the University of Manitoba. Dr. Drögemöller holds a Canada Research Chair in Pharmacogenomics and Precision Medicine and is appointed as a Research Scientist at The Children’s Hospital Foundation of Manitoba (CHRIM) and at the CancerCare Manitoba Research Institute. 
