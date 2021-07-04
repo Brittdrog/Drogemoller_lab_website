@@ -21,10 +21,11 @@ subtitle = ""
                  "Alumni"]
 
 [design]
+  show_social = false
+  
   # Show user's organizations/affiliations?
   show_organizations = true
-  # Show user's social networking links? (true/false)
-  show_social= false
+  
   # Show user's interests? (true/false)
   show_interests = false
   
