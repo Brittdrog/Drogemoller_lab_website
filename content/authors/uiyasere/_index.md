@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position (add your position)
-role: Summer Research Assistant
+role: Summer Research Student
 
 # Organizations/Affiliations (add your name and web address, if you have one)
 organizations:
