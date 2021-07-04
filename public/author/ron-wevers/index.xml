@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ron Wevers | Drögemöller Lab</title>
+    <link>/author/ron-wevers/</link>
+      <atom:link href="/author/ron-wevers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ron Wevers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ron Wevers</title>
+      <link>/author/ron-wevers/</link>
+    </image>
+    
+    <item>
+      <title>Bi-allelic GOT2 mutations cause a treatable malate-aspartate shuttle-related encephalopathy</title>
+      <link>/publication/van-karnebeek-bi-allelic-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/van-karnebeek-bi-allelic-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PLPHP deficiency: clinical, genetic, biochemical, and mechanistic insights</title>
+      <link>/publication/johnstone-plphp-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/johnstone-plphp-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sialic acid catabolism by N-acetylneuraminate pyruvate lyase is essential for muscle function</title>
+      <link>/publication/wen-sialic-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wen-sialic-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exome sequencing and the management of neurometabolic disorders</title>
+      <link>/publication/tarailo-graovac-exome-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tarailo-graovac-exome-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cytosolic phosphoenolpyruvate carboxykinase deficiency presenting with acute liver failure following gastroenteritis</title>
+      <link>/publication/santra-cytosolic-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/santra-cytosolic-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

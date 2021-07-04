@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mary Anne Preece | Drögemöller Lab</title>
+    <link>/author/mary-anne-preece/</link>
+      <atom:link href="/author/mary-anne-preece/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mary Anne Preece</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mary Anne Preece</title>
+      <link>/author/mary-anne-preece/</link>
+    </image>
+    
+    <item>
+      <title>Cytosolic phosphoenolpyruvate carboxykinase deficiency presenting with acute liver failure following gastroenteritis</title>
+      <link>/publication/santra-cytosolic-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/santra-cytosolic-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedigree | Drögemöller Lab</title>
+    <link>/tag/pedigree/</link>
+      <atom:link href="/tag/pedigree/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pedigree</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Pedigree</title>
+      <link>/tag/pedigree/</link>
+    </image>
+    
+    <item>
+      <title>Length of Uninterrupted CAG, Independent of Polyglutamine Size, Results in Increased Somatic Instability, Hastening Onset of Huntington Disease</title>
+      <link>/publication/wright-length-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-length-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cytosolic phosphoenolpyruvate carboxykinase deficiency presenting with acute liver failure following gastroenteritis</title>
+      <link>/publication/santra-cytosolic-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/santra-cytosolic-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De novo dominant variants affecting the motor domain of KIF1A are a cause of PEHO syndrome</title>
+      <link>/publication/langlois-novo-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/langlois-novo-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extended haplotype studies in South African and Dutch variegate porphyria families carrying the recurrent p.R59W mutation confirm a common ancestry</title>
+      <link>/publication/van-tuyll-van-serooskerken-extended-2012/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/van-tuyll-van-serooskerken-extended-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

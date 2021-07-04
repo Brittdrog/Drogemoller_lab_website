@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kristen Gibson | Drögemöller Lab</title>
+    <link>/author/kristen-gibson/</link>
+      <atom:link href="/author/kristen-gibson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kristen Gibson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Kristen Gibson</title>
+      <link>/author/kristen-gibson/</link>
+    </image>
+    
+    <item>
+      <title>Identification of novel adenosine deaminase 2 gene variants and varied clinical phenotype in pediatric vasculitis</title>
+      <link>/publication/gibson-identification-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/gibson-identification-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

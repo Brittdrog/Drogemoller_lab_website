@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gittan Kollberg | Drögemöller Lab</title>
+    <link>/author/gittan-kollberg/</link>
+      <atom:link href="/author/gittan-kollberg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gittan Kollberg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Gittan Kollberg</title>
+      <link>/author/gittan-kollberg/</link>
+    </image>
+    
+    <item>
+      <title>Identification of a large intronic transposal insertion in SLC17A5 causing sialic acid storage disease</title>
+      <link>/publication/tarailo-graovac-identification-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/tarailo-graovac-identification-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

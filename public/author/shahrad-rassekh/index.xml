@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shahrad Rassekh | Drögemöller Lab</title>
+    <link>/author/shahrad-rassekh/</link>
+      <atom:link href="/author/shahrad-rassekh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shahrad Rassekh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Shahrad Rassekh</title>
+      <link>/author/shahrad-rassekh/</link>
+    </image>
+    
+    <item>
+      <title>Pharmacogenomics of cisplatin-induced ototoxicity: Successes, shortcomings, and future avenues of research</title>
+      <link>/publication/drogemoller-pharmacogenomics-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-pharmacogenomics-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pharmacogenomics of vincristine-induced peripheral neuropathy implicates pharmacokinetic and inherited neuropathy genes</title>
+      <link>/publication/wright-pharmacogenomics-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-pharmacogenomics-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

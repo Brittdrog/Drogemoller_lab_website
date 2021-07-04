@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maja Tarailo-Graovac | Drögemöller Lab</title>
+    <link>/author/maja-tarailo-graovac/</link>
+      <atom:link href="/author/maja-tarailo-graovac/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maja Tarailo-Graovac</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Maja Tarailo-Graovac</title>
+      <link>/author/maja-tarailo-graovac/</link>
+    </image>
+    
+    <item>
+      <title>Atypical cerebral palsy: genomics analysis enables precision medicine</title>
+      <link>/publication/matthews-atypical-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/matthews-atypical-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bi-allelic GOT2 mutations cause a treatable malate-aspartate shuttle-related encephalopathy</title>
+      <link>/publication/van-karnebeek-bi-allelic-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/van-karnebeek-bi-allelic-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deficiency of perforin and hCNT1, a novel inborn error of pyrimidine metabolism, associated with a rapidly developing lethal phenotype due to multi-organ failure</title>
+      <link>/publication/perez-torras-deficiency-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/perez-torras-deficiency-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PLPHP deficiency: clinical, genetic, biochemical, and mechanistic insights</title>
+      <link>/publication/johnstone-plphp-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/johnstone-plphp-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gain-of-function KCNJ6 mutation in a severe hyperkinetic movement disorder phenotype</title>
+      <link>/publication/horvath-gain-function-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/horvath-gain-function-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome sequencing reveals a novel genetic mechanism underlying dihydropyrimidine dehydrogenase deficiency: A novel missense variant c.1700G&gt;A and a large intragenic inversion in DPYD spanning intron 8 to intron 12</title>
+      <link>/publication/van-kuilenburg-genome-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/van-kuilenburg-genome-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Germline de novo mutations in ATP1A1 cause renal hypomagnesemia, refractory seizures, and intellectual disability</title>
+      <link>/publication/schlingmann-germline-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/schlingmann-germline-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sialic acid catabolism by N-acetylneuraminate pyruvate lyase is essential for muscle function</title>
+      <link>/publication/wen-sialic-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wen-sialic-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitochondrial complex III deficiency with ketoacidosis and hyperglycemia mimicking neonatal diabetes</title>
+      <link>/publication/anastasio-mitochondrial-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/anastasio-mitochondrial-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Further validation of the SIGMAR1 c.151&#43;1G&gt;T mutation as cause of distal hereditary motor neuropathy</title>
+      <link>/publication/lee-further-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/lee-further-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exome sequencing and the management of neurometabolic disorders</title>
+      <link>/publication/tarailo-graovac-exome-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tarailo-graovac-exome-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De novo dominant variants affecting the motor domain of KIF1A are a cause of PEHO syndrome</title>
+      <link>/publication/langlois-novo-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/langlois-novo-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

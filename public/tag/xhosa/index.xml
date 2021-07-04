@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xhosa | Drögemöller Lab</title>
+    <link>/tag/xhosa/</link>
+      <atom:link href="/tag/xhosa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xhosa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Xhosa</title>
+      <link>/tag/xhosa/</link>
+    </image>
+    
+    <item>
+      <title>Characterization of the genetic variation present in CYP3A4 in three South African populations</title>
+      <link>/publication/drogemoller-characterization-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-characterization-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

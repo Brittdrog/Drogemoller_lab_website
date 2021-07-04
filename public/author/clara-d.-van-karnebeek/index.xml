@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clara D. van Karnebeek | Drögemöller Lab</title>
+    <link>/author/clara-d.-van-karnebeek/</link>
+      <atom:link href="/author/clara-d.-van-karnebeek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clara D. van Karnebeek</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Clara D. van Karnebeek</title>
+      <link>/author/clara-d.-van-karnebeek/</link>
+    </image>
+    
+    <item>
+      <title>Atypical cerebral palsy: genomics analysis enables precision medicine</title>
+      <link>/publication/matthews-atypical-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/matthews-atypical-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exome Sequencing and the Management of Neurometabolic Disorders</title>
+      <link>/publication/tarailo-graovac-exome-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tarailo-graovac-exome-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cytosolic phosphoenolpyruvate carboxykinase deficiency presenting with acute liver failure following gastroenteritis</title>
+      <link>/publication/santra-cytosolic-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/santra-cytosolic-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benzoxazines | Drögemöller Lab</title>
+    <link>/tag/benzoxazines/</link>
+      <atom:link href="/tag/benzoxazines/index.xml" rel="self" type="application/rss+xml" />
+    <description>Benzoxazines</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Benzoxazines</title>
+      <link>/tag/benzoxazines/</link>
+    </image>
+    
+    <item>
+      <title>CYP2B6*6 and CYP2B6*18 Predict Long-Term Efavirenz Exposure Measured in Hair Samples in HIV-Positive South African Women</title>
+      <link>/publication/rohrich-cyp-2-b-66-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rohrich-cyp-2-b-66-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

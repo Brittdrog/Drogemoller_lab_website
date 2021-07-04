@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephen Scherer | Drögemöller Lab</title>
+    <link>/author/stephen-scherer/</link>
+      <atom:link href="/author/stephen-scherer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stephen Scherer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Stephen Scherer</title>
+      <link>/author/stephen-scherer/</link>
+    </image>
+    
+    <item>
+      <title>Glutaminase deficiency caused by short tandem repeat expansion in GLS</title>
+      <link>/publication/van-kuilenburg-glutaminase-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/van-kuilenburg-glutaminase-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Length of uninterrupted CAG, independent of polyglutamine size, results in increased somatic instability, hastening onset of Huntington Disease</title>
+      <link>/publication/wright-length-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-length-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

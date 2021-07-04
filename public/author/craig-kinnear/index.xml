@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Craig Kinnear | Drögemöller Lab</title>
+    <link>/author/craig-kinnear/</link>
+      <atom:link href="/author/craig-kinnear/index.xml" rel="self" type="application/rss+xml" />
+    <description>Craig Kinnear</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Craig Kinnear</title>
+      <link>/author/craig-kinnear/</link>
+    </image>
+    
+    <item>
+      <title>Association of MB-COMT polymorphisms with schizophrenia-susceptibility and symptom severity in an African cohort</title>
+      <link>/publication/wright-association-2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-association-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

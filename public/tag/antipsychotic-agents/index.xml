@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antipsychotic Agents | Drögemöller Lab</title>
+    <link>/tag/antipsychotic-agents/</link>
+      <atom:link href="/tag/antipsychotic-agents/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antipsychotic Agents</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Antipsychotic Agents</title>
+      <link>/tag/antipsychotic-agents/</link>
+    </image>
+    
+    <item>
+      <title>Fine-mapping of antipsychotic response genome-wide association studies reveals novel regulatory mechanisms</title>
+      <link>/publication/ovenden-fine-mapping-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ovenden-fine-mapping-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The identification of novel genetic variants associated with antipsychotic treatment response outcomes in first-episode schizophrenia patients</title>
+      <link>/publication/drogemoller-identification-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-identification-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patterns of variation influencing antipsychotic treatment outcomes in South African first-episode schizophrenia patients</title>
+      <link>/publication/drogemoller-patterns-2014/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-patterns-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next-generation sequencing of pharmacogenes: a critical analysis focusing on schizophrenia treatment</title>
+      <link>/publication/drogemoller-next-generation-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-next-generation-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

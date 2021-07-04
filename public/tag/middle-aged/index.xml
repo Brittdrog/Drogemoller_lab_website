@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Middle Aged | Drögemöller Lab</title>
+    <link>/tag/middle-aged/</link>
+      <atom:link href="/tag/middle-aged/index.xml" rel="self" type="application/rss+xml" />
+    <description>Middle Aged</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Middle Aged</title>
+      <link>/tag/middle-aged/</link>
+    </image>
+    
+    <item>
+      <title>Length of Uninterrupted CAG, Independent of Polyglutamine Size, Results in Increased Somatic Instability, Hastening Onset of Huntington Disease</title>
+      <link>/publication/wright-length-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-length-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outcome Definition Influences the Relationship Between Genetic Polymorphisms of ERCC1, ERCC2, SLC22A2 and Cisplatin Nephrotoxicity in Adult Testicular Cancer Patients</title>
+      <link>/publication/zazuli-outcome-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/zazuli-outcome-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Further Investigation of the Role of ACYP2 and WFS1 Pharmacogenomic Variants in the Development of Cisplatin-Induced Ototoxicity in Testicular Cancer Patients</title>
+      <link>/publication/drogemoller-further-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-further-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CYP2B6*6 and CYP2B6*18 Predict Long-Term Efavirenz Exposure Measured in Hair Samples in HIV-Positive South African Women</title>
+      <link>/publication/rohrich-cyp-2-b-66-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rohrich-cyp-2-b-66-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of predictive CYP2C19 genotyping assays relative to measured phenotype in a South African cohort</title>
+      <link>/publication/dodgen-evaluation-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dodgen-evaluation-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

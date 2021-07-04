@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robin A. Emsley | Drögemöller Lab</title>
+    <link>/author/robin-a.-emsley/</link>
+      <atom:link href="/author/robin-a.-emsley/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robin A. Emsley</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Robin A. Emsley</title>
+      <link>/author/robin-a.-emsley/</link>
+    </image>
+    
+    <item>
+      <title>Fine-mapping of antipsychotic response genome-wide association studies reveals novel regulatory mechanisms</title>
+      <link>/publication/ovenden-fine-mapping-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ovenden-fine-mapping-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole-genome resequencing in pharmacogenomics: moving away from past disparities to globally representative applications</title>
+      <link>/publication/drogemoller-whole-genome-2011/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-whole-genome-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

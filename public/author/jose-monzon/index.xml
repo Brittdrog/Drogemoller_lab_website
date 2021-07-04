@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jose Monzon | Drögemöller Lab</title>
+    <link>/author/jose-monzon/</link>
+      <atom:link href="/author/jose-monzon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jose Monzon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jose Monzon</title>
+      <link>/author/jose-monzon/</link>
+    </image>
+    
+    <item>
+      <title>CYP2D6 as a treatment decision aid for ER-positive non-metastatic breast cancer patients: a systematic review with accompanying clinical practice guidelines</title>
+      <link>/publication/drogemoller-cyp-2-d-6-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-cyp-2-d-6-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outcome definition influences the relationship between genetic polymorphisms of ERCC1, ERCC2, SLC22A2 and cisplatin nephrotoxicity in adult testicular cancer patients</title>
+      <link>/publication/zazuli-outcome-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/zazuli-outcome-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Further investigation of the role of ACYP2 and WFS1 pharmacogenomic variants in the development of cisplatin-induced ototoxicity in testicular cancer patients</title>
+      <link>/publication/drogemoller-further-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-further-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

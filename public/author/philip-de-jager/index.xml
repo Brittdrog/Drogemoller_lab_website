@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philip De Jager | Drögemöller Lab</title>
+    <link>/author/philip-de-jager/</link>
+      <atom:link href="/author/philip-de-jager/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philip De Jager</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Philip De Jager</title>
+      <link>/author/philip-de-jager/</link>
+    </image>
+    
+    <item>
+      <title>Common variation near IRF6 is associated with IFN-β-induced liver injury in multiple sclerosis</title>
+      <link>/publication/kowalec-common-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/kowalec-common-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

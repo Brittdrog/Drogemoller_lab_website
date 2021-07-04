@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Casper Shyr | Drögemöller Lab</title>
+    <link>/author/casper-shyr/</link>
+      <atom:link href="/author/casper-shyr/index.xml" rel="self" type="application/rss+xml" />
+    <description>Casper Shyr</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Casper Shyr</title>
+      <link>/author/casper-shyr/</link>
+    </image>
+    
+    <item>
+      <title>Atypical cerebral palsy: genomics analysis enables precision medicine</title>
+      <link>/publication/matthews-atypical-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/matthews-atypical-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gain-of-function KCNJ6 mutation in a severe hyperkinetic movement disorder phenotype</title>
+      <link>/publication/horvath-gain-function-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/horvath-gain-function-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Further validation of the SIGMAR1 c.151&#43;1G&gt;T mutation as cause of distal hereditary motor neuropathy</title>
+      <link>/publication/lee-further-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/lee-further-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exome sequencing and the management of neurometabolic disorders</title>
+      <link>/publication/tarailo-graovac-exome-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tarailo-graovac-exome-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cytosolic phosphoenolpyruvate carboxykinase deficiency presenting with acute liver failure following gastroenteritis</title>
+      <link>/publication/santra-cytosolic-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/santra-cytosolic-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

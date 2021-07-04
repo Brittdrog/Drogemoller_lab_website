@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonel Olckers | Drögemöller Lab</title>
+    <link>/author/antonel-olckers/</link>
+      <atom:link href="/author/antonel-olckers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antonel Olckers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Antonel Olckers</title>
+      <link>/author/antonel-olckers/</link>
+    </image>
+    
+    <item>
+      <title>Characterization of the genetic variation present in CYP3A4 in three South African populations</title>
+      <link>/publication/drogemoller-characterization-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-characterization-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

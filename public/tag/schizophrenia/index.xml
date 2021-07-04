@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schizophrenia | Drögemöller Lab</title>
+    <link>/tag/schizophrenia/</link>
+      <atom:link href="/tag/schizophrenia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Schizophrenia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Schizophrenia</title>
+      <link>/tag/schizophrenia/</link>
+    </image>
+    
+    <item>
+      <title>Fine-mapping of antipsychotic response genome-wide association studies reveals novel regulatory mechanisms</title>
+      <link>/publication/ovenden-fine-mapping-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ovenden-fine-mapping-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The identification of novel genetic variants associated with antipsychotic treatment response outcomes in first-episode schizophrenia patients</title>
+      <link>/publication/drogemoller-identification-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-identification-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patterns of variation influencing antipsychotic treatment outcomes in South African first-episode schizophrenia patients</title>
+      <link>/publication/drogemoller-patterns-2014/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-patterns-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next-generation sequencing of pharmacogenes: a critical analysis focusing on schizophrenia treatment</title>
+      <link>/publication/drogemoller-next-generation-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-next-generation-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association of MB-COMT polymorphisms with schizophrenia-susceptibility and symptom severity in an African cohort</title>
+      <link>/publication/wright-association-2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-association-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychiatric genetics in South Africa: cutting a rough diamond</title>
+      <link>/publication/wright-psychiatric-2011/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-psychiatric-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elucidation of CYP2D6 genetic diversity in a unique African population: implications for the future application of pharmacogenetics in the Xhosa population</title>
+      <link>/publication/wright-elucidation-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-elucidation-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genetic Predisposition to Disease | Drögemöller Lab</title>
+    <link>/tag/genetic-predisposition-to-disease/</link>
+      <atom:link href="/tag/genetic-predisposition-to-disease/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genetic Predisposition to Disease</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Genetic Predisposition to Disease</title>
+      <link>/tag/genetic-predisposition-to-disease/</link>
+    </image>
+    
+    <item>
+      <title>Association Between SLC16A5 Genetic Variation and Cisplatin-Induced Ototoxic Effects in Adult Patients With Testicular Cancer</title>
+      <link>/publication/drogemoller-association-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-association-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association of MB-COMT polymorphisms with schizophrenia-susceptibility and symptom severity in an African cohort</title>
+      <link>/publication/wright-association-2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-association-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychiatric genetics in South Africa: cutting a rough diamond</title>
+      <link>/publication/wright-psychiatric-2011/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-psychiatric-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

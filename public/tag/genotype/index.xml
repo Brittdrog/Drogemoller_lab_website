@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genotype | Drögemöller Lab</title>
+    <link>/tag/genotype/</link>
+      <atom:link href="/tag/genotype/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genotype</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Genotype</title>
+      <link>/tag/genotype/</link>
+    </image>
+    
+    <item>
+      <title>CYP2D6 as a treatment decision aid for ER-positive non-metastatic breast cancer patients: a systematic review with accompanying clinical practice guidelines</title>
+      <link>/publication/drogemoller-cyp-2-d-6-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-cyp-2-d-6-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glutaminase Deficiency Caused by Short Tandem Repeat Expansion in GLS</title>
+      <link>/publication/van-kuilenburg-glutaminase-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/van-kuilenburg-glutaminase-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Further Investigation of the Role of ACYP2 and WFS1 Pharmacogenomic Variants in the Development of Cisplatin-Induced Ototoxicity in Testicular Cancer Patients</title>
+      <link>/publication/drogemoller-further-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-further-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome sequencing reveals a novel genetic mechanism underlying dihydropyrimidine dehydrogenase deficiency: A novel missense variant c.1700GtextgreaterA and a large intragenic inversion in DPYD spanning intron 8 to intron 12</title>
+      <link>/publication/van-kuilenburg-genome-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/van-kuilenburg-genome-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exome Sequencing and the Management of Neurometabolic Disorders</title>
+      <link>/publication/tarailo-graovac-exome-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tarailo-graovac-exome-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of predictive CYP2C19 genotyping assays relative to measured phenotype in a South African cohort</title>
+      <link>/publication/dodgen-evaluation-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dodgen-evaluation-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patterns of variation influencing antipsychotic treatment outcomes in South African first-episode schizophrenia patients</title>
+      <link>/publication/drogemoller-patterns-2014/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-patterns-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association of MB-COMT polymorphisms with schizophrenia-susceptibility and symptom severity in an African cohort</title>
+      <link>/publication/wright-association-2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-association-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of the genetic profile of CYP2C19 in two South African populations</title>
+      <link>/publication/drogemoller-characterization-2010/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-characterization-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elucidation of CYP2D6 genetic diversity in a unique African population: implications for the future application of pharmacogenetics in the Xhosa population</title>
+      <link>/publication/wright-elucidation-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-elucidation-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

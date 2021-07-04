@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liezl Koen | Drögemöller Lab</title>
+    <link>/author/liezl-koen/</link>
+      <atom:link href="/author/liezl-koen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liezl Koen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Liezl Koen</title>
+      <link>/author/liezl-koen/</link>
+    </image>
+    
+    <item>
+      <title>Characterization of the genetic variation present in CYP3A4 in three South African populations</title>
+      <link>/publication/drogemoller-characterization-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-characterization-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association of MB-COMT polymorphisms with schizophrenia-susceptibility and symptom severity in an African cohort</title>
+      <link>/publication/wright-association-2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-association-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of the genetic profile of CYP2C19 in two South African populations</title>
+      <link>/publication/drogemoller-characterization-2010/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-characterization-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elucidation of CYP2D6 genetic diversity in a unique African population: implications for the future application of pharmacogenetics in the Xhosa population</title>
+      <link>/publication/wright-elucidation-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-elucidation-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

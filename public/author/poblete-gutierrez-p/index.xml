@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poblete-Gutiérrez P | Drögemöller Lab</title>
+    <link>/author/poblete-gutierrez-p/</link>
+      <atom:link href="/author/poblete-gutierrez-p/index.xml" rel="self" type="application/rss+xml" />
+    <description>Poblete-Gutiérrez P</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Poblete-Gutiérrez P</title>
+      <link>/author/poblete-gutierrez-p/</link>
+    </image>
+    
+    <item>
+      <title>Extended haplotype studies in South African and Dutch variegate porphyria families carrying the recurrent p.R59W mutation confirm a common ancestry</title>
+      <link>/publication/van-tuyll-van-serooskerken-extended-2012/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/van-tuyll-van-serooskerken-extended-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

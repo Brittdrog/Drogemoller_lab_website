@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DNA | Drögemöller Lab</title>
+    <link>/tag/dna/</link>
+      <atom:link href="/tag/dna/index.xml" rel="self" type="application/rss+xml" />
+    <description>DNA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>DNA</title>
+      <link>/tag/dna/</link>
+    </image>
+    
+    <item>
+      <title>Exome Sequencing and the Management of Neurometabolic Disorders</title>
+      <link>/publication/tarailo-graovac-exome-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tarailo-graovac-exome-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The identification of novel genetic variants associated with antipsychotic treatment response outcomes in first-episode schizophrenia patients</title>
+      <link>/publication/drogemoller-identification-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-identification-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CYP2B6*6 and CYP2B6*18 Predict Long-Term Efavirenz Exposure Measured in Hair Samples in HIV-Positive South African Women</title>
+      <link>/publication/rohrich-cyp-2-b-66-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rohrich-cyp-2-b-66-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next-generation sequencing of pharmacogenes: a critical analysis focusing on schizophrenia treatment</title>
+      <link>/publication/drogemoller-next-generation-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-next-generation-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

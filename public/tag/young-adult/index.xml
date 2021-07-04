@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Young Adult | Drögemöller Lab</title>
+    <link>/tag/young-adult/</link>
+      <atom:link href="/tag/young-adult/index.xml" rel="self" type="application/rss+xml" />
+    <description>Young Adult</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Young Adult</title>
+      <link>/tag/young-adult/</link>
+    </image>
+    
+    <item>
+      <title>Sialic acid catabolism by N-acetylneuraminate pyruvate lyase is essential for muscle function</title>
+      <link>/publication/wen-sialic-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wen-sialic-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association Between SLC16A5 Genetic Variation and Cisplatin-Induced Ototoxic Effects in Adult Patients With Testicular Cancer</title>
+      <link>/publication/drogemoller-association-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-association-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-mapping of antipsychotic response genome-wide association studies reveals novel regulatory mechanisms</title>
+      <link>/publication/ovenden-fine-mapping-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ovenden-fine-mapping-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exome Sequencing and the Management of Neurometabolic Disorders</title>
+      <link>/publication/tarailo-graovac-exome-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tarailo-graovac-exome-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CYP2B6*6 and CYP2B6*18 Predict Long-Term Efavirenz Exposure Measured in Hair Samples in HIV-Positive South African Women</title>
+      <link>/publication/rohrich-cyp-2-b-66-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rohrich-cyp-2-b-66-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

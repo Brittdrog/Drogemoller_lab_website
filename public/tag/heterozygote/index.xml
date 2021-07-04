@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heterozygote | Drögemöller Lab</title>
+    <link>/tag/heterozygote/</link>
+      <atom:link href="/tag/heterozygote/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heterozygote</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Heterozygote</title>
+      <link>/tag/heterozygote/</link>
+    </image>
+    
+    <item>
+      <title>Genome sequencing reveals a novel genetic mechanism underlying dihydropyrimidine dehydrogenase deficiency: A novel missense variant c.1700GtextgreaterA and a large intragenic inversion in DPYD spanning intron 8 to intron 12</title>
+      <link>/publication/van-kuilenburg-genome-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/van-kuilenburg-genome-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Germline De Novo Mutations in ATP1A1 Cause Renal Hypomagnesemia, Refractory Seizures, and Intellectual Disability</title>
+      <link>/publication/schlingmann-germline-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/schlingmann-germline-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extended haplotype studies in South African and Dutch variegate porphyria families carrying the recurrent p.R59W mutation confirm a common ancestry</title>
+      <link>/publication/van-tuyll-van-serooskerken-extended-2012/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/van-tuyll-van-serooskerken-extended-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

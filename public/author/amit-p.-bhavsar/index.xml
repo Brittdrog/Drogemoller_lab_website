@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amit P. Bhavsar | Drögemöller Lab</title>
+    <link>/author/amit-p.-bhavsar/</link>
+      <atom:link href="/author/amit-p.-bhavsar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amit P. Bhavsar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Amit P. Bhavsar</title>
+      <link>/author/amit-p.-bhavsar/</link>
+    </image>
+    
+    <item>
+      <title>Pharmacogenomics of Cisplatin-Induced Ototoxicity: Successes, Shortcomings, and Future Avenues of Research</title>
+      <link>/publication/drogemoller-pharmacogenomics-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-pharmacogenomics-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Common variation near IRF6 is associated with IFN-β-induced liver injury in multiple sclerosis</title>
+      <link>/publication/kowalec-common-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/kowalec-common-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association Between SLC16A5 Genetic Variation and Cisplatin-Induced Ototoxic Effects in Adult Patients With Testicular Cancer</title>
+      <link>/publication/drogemoller-association-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-association-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exome Sequencing and the Management of Neurometabolic Disorders</title>
+      <link>/publication/tarailo-graovac-exome-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tarailo-graovac-exome-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

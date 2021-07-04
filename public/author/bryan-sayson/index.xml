@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bryan Sayson | Drögemöller Lab</title>
+    <link>/author/bryan-sayson/</link>
+      <atom:link href="/author/bryan-sayson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bryan Sayson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Bryan Sayson</title>
+      <link>/author/bryan-sayson/</link>
+    </image>
+    
+    <item>
+      <title>Exome sequencing and the management of neurometabolic disorders</title>
+      <link>/publication/tarailo-graovac-exome-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tarailo-graovac-exome-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De novo dominant variants affecting the motor domain of KIF1A are a cause of PEHO syndrome</title>
+      <link>/publication/langlois-novo-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/langlois-novo-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Systemic Vasculitis | Drögemöller Lab</title>
+    <link>/tag/systemic-vasculitis/</link>
+      <atom:link href="/tag/systemic-vasculitis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Systemic Vasculitis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Systemic Vasculitis</title>
+      <link>/tag/systemic-vasculitis/</link>
+    </image>
+    
+    <item>
+      <title>Identification of Novel Adenosine Deaminase 2 Gene Variants and Varied Clinical Phenotype in Pediatric Vasculitis</title>
+      <link>/publication/gibson-identification-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/gibson-identification-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

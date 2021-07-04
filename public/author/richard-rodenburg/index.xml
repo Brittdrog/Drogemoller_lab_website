@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard Rodenburg | Drögemöller Lab</title>
+    <link>/author/richard-rodenburg/</link>
+      <atom:link href="/author/richard-rodenburg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Richard Rodenburg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Richard Rodenburg</title>
+      <link>/author/richard-rodenburg/</link>
+    </image>
+    
+    <item>
+      <title>Bi-allelic GOT2 mutations cause a treatable malate-aspartate shuttle-related encephalopathy</title>
+      <link>/publication/van-karnebeek-bi-allelic-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/van-karnebeek-bi-allelic-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cytosolic phosphoenolpyruvate carboxykinase deficiency presenting with acute liver failure following gastroenteritis</title>
+      <link>/publication/santra-cytosolic-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/santra-cytosolic-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

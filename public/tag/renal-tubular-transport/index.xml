@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Renal Tubular Transport | Drögemöller Lab</title>
+    <link>/tag/renal-tubular-transport/</link>
+      <atom:link href="/tag/renal-tubular-transport/index.xml" rel="self" type="application/rss+xml" />
+    <description>Renal Tubular Transport</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Renal Tubular Transport</title>
+      <link>/tag/renal-tubular-transport/</link>
+    </image>
+    
+    <item>
+      <title>Germline De Novo Mutations in ATP1A1 Cause Renal Hypomagnesemia, Refractory Seizures, and Intellectual Disability</title>
+      <link>/publication/schlingmann-germline-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/schlingmann-germline-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

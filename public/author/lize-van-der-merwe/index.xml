@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lize van der Merwe | Drögemöller Lab</title>
+    <link>/author/lize-van-der-merwe/</link>
+      <atom:link href="/author/lize-van-der-merwe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lize van der Merwe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Lize van der Merwe</title>
+      <link>/author/lize-van-der-merwe/</link>
+    </image>
+    
+    <item>
+      <title>Fine-mapping of antipsychotic response genome-wide association studies reveals novel regulatory mechanisms</title>
+      <link>/publication/ovenden-fine-mapping-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ovenden-fine-mapping-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The identification of novel genetic variants associated with antipsychotic treatment response outcomes in first-episode schizophrenia patients</title>
+      <link>/publication/drogemoller-identification-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-identification-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CYP2B6*6 and CYP2B6*18 predict long-term efavirenz exposure measured in hair samples in HIV-positive South African women</title>
+      <link>/publication/rohrich-cyp-2-b-66-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rohrich-cyp-2-b-66-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patterns of variation influencing antipsychotic treatment outcomes in South African first-episode schizophrenia patients</title>
+      <link>/publication/drogemoller-patterns-2014/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-patterns-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association of MB-COMT polymorphisms with schizophrenia-susceptibility and symptom severity in an African cohort</title>
+      <link>/publication/wright-association-2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-association-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

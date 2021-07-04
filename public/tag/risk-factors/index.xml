@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Risk Factors | Drögemöller Lab</title>
+    <link>/tag/risk-factors/</link>
+      <atom:link href="/tag/risk-factors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Risk Factors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Risk Factors</title>
+      <link>/tag/risk-factors/</link>
+    </image>
+    
+    <item>
+      <title>Genome-Wide Association Studies of Drug-Induced Liver Injury Make Progress Beyond the HLA Region</title>
+      <link>/publication/wright-genome-wide-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-genome-wide-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association Between SLC16A5 Genetic Variation and Cisplatin-Induced Ototoxic Effects in Adult Patients With Testicular Cancer</title>
+      <link>/publication/drogemoller-association-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-association-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

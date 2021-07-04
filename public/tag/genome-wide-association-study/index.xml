@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genome-Wide Association Study | Drögemöller Lab</title>
+    <link>/tag/genome-wide-association-study/</link>
+      <atom:link href="/tag/genome-wide-association-study/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genome-Wide Association Study</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Genome-Wide Association Study</title>
+      <link>/tag/genome-wide-association-study/</link>
+    </image>
+    
+    <item>
+      <title>Genome-Wide Association Studies of Drug-Induced Liver Injury Make Progress Beyond the HLA Region</title>
+      <link>/publication/wright-genome-wide-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-genome-wide-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Common variation near IRF6 is associated with IFN-β-induced liver injury in multiple sclerosis</title>
+      <link>/publication/kowalec-common-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/kowalec-common-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic variation in CFH predicts phenytoin-induced maculopapular exanthema in European-descent patients</title>
+      <link>/publication/mccormack-genetic-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mccormack-genetic-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-mapping of antipsychotic response genome-wide association studies reveals novel regulatory mechanisms</title>
+      <link>/publication/ovenden-fine-mapping-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ovenden-fine-mapping-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The identification of novel genetic variants associated with antipsychotic treatment response outcomes in first-episode schizophrenia patients</title>
+      <link>/publication/drogemoller-identification-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-identification-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

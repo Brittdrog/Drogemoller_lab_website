@@ -18,11 +18,11 @@
   url = "#people"
   weight = 3
 
+[[main]]
+  name = "News"
+  url = "#post"
+  weight = 29
 
-#[[main]]
-#  name = "News"
-#  url = "#blank"
-#  weight = 29
 
 # [[main]]
 #  name = "Projects"

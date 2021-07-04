@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genetic Variation | Drögemöller Lab</title>
+    <link>/tag/genetic-variation/</link>
+      <atom:link href="/tag/genetic-variation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genetic Variation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Genetic Variation</title>
+      <link>/tag/genetic-variation/</link>
+    </image>
+    
+    <item>
+      <title>CYP2D6 as a treatment decision aid for ER-positive non-metastatic breast cancer patients: a systematic review with accompanying clinical practice guidelines</title>
+      <link>/publication/drogemoller-cyp-2-d-6-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-cyp-2-d-6-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Common variation near IRF6 is associated with IFN-β-induced liver injury in multiple sclerosis</title>
+      <link>/publication/kowalec-common-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/kowalec-common-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Further Investigation of the Role of ACYP2 and WFS1 Pharmacogenomic Variants in the Development of Cisplatin-Induced Ototoxicity in Testicular Cancer Patients</title>
+      <link>/publication/drogemoller-further-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-further-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic variation in CFH predicts phenytoin-induced maculopapular exanthema in European-descent patients</title>
+      <link>/publication/mccormack-genetic-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mccormack-genetic-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-mapping of antipsychotic response genome-wide association studies reveals novel regulatory mechanisms</title>
+      <link>/publication/ovenden-fine-mapping-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ovenden-fine-mapping-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Considerations for rare variants in drug metabolism genes and the clinical implications</title>
+      <link>/publication/drogemoller-considerations-2014/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-considerations-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next-generation sequencing of pharmacogenes: a critical analysis focusing on schizophrenia treatment</title>
+      <link>/publication/drogemoller-next-generation-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-next-generation-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elucidation of CYP2D6 genetic diversity in a unique African population: implications for the future application of pharmacogenetics in the Xhosa population</title>
+      <link>/publication/wright-elucidation-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-elucidation-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

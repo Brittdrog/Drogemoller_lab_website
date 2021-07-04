@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Albert Viel-Oliva | Drögemöller Lab</title>
+    <link>/author/albert-viel-oliva/</link>
+      <atom:link href="/author/albert-viel-oliva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Albert Viel-Oliva</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Albert Viel-Oliva</title>
+      <link>/author/albert-viel-oliva/</link>
+    </image>
+    
+    <item>
+      <title>Deficiency of perforin and hCNT1, a novel inborn error of pyrimidine metabolism, associated with a rapidly developing lethal phenotype due to multi-organ failure</title>
+      <link>/publication/perez-torras-deficiency-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/perez-torras-deficiency-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

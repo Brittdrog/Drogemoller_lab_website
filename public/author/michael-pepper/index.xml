@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Pepper | Drögemöller Lab</title>
+    <link>/author/michael-pepper/</link>
+      <atom:link href="/author/michael-pepper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Pepper</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Michael Pepper</title>
+      <link>/author/michael-pepper/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of predictive CYP2C19 genotyping assays relative to measured phenotype in a South African cohort</title>
+      <link>/publication/dodgen-evaluation-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dodgen-evaluation-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction of the AmpliChip CYP450 test to a South African cohort: a platform comparative prospective cohort study</title>
+      <link>/publication/dodgen-introduction-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/dodgen-introduction-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pharmacogenomic research in South Africa: Lessons learned and future opportunities in the rainbow nation</title>
+      <link>/publication/warnich-pharmacogenomic-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/warnich-pharmacogenomic-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
