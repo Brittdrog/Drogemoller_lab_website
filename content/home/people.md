@@ -15,20 +15,18 @@ subtitle = ""
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Principal Investigator",
                  "Lab members",
-                 "Alumni"]
-
-#                 "Students",
+#                 "Grad Students",
 #                 "Administration",
 #                 "Visitors",
+                 "Alumni"]
 
 [design]
+  # Show user's social networking links? (true/false)
   show_social = false
-  
-  # Show user's organizations/affiliations?
-  show_organizations = true
-  
+
   # Show user's interests? (true/false)
   show_interests = false
+  show_organizations = true
   
 
 [design.background]
@@ -38,11 +36,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-   color = "black"
+  color = "black"
   
   # Background gradient.
-  # gradient_start = "Navy"
-  # gradient_end = "DeepSkyBlue"
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
