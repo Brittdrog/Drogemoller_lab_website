@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position (add your position)
-role: MSc Student
+role: Samah Ahmed <br> MSc Student
 
 # Organizations/Affiliations (add your name and web address, if you have one)
-organizations:
-- name: Samah Ahmed
+#organizations:
+#- name: Samah Ahmed
 
 # Short bio (displayed in user profile at end of posts) (add info about yourself)
 bio: Samah Ahmed is a MSc student in the Department of Biochemistry & Medical Genetics at the University of Manitoba. 

@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position (add your position)
-role: Summer Research Student
+role: Urim Iyasere <br> Summer Research Student
 
 # Organizations/Affiliations (add your name and web address, if you have one)
-organizations:
-- name: Urim Iyasere
+#organizations:
+#- name: Urim Iyasere
 
 # Short bio (displayed in user profile at end of posts) (add info about yourself)
 bio: Urim Iyasere is a Genetics student at the Univeristy of Manitoba. 

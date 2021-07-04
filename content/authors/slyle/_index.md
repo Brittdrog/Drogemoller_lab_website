@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position (add your position)
-role: Co-op Student
+role: Sarah Lyle <br> Co-op Student
 
 # Organizations/Affiliations (add your name and web address, if you have one)
-organizations:
-- name: Sarah Lyle
+#organizations:
+#- name: Sarah Lyle
 
 # Short bio (displayed in user profile at end of posts) (add info about yourself)
 bio: Sarah is a Genetics Honour Co-op Student at the University of Manitoba. 
