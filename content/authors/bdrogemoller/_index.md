@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position (add your position)
-role: Britt Drögemöller <br> Assistant Professor, Canada Research Chair in Pharmacogenomics and Precision Medicine
+role: Britt Drögemöller <br> Assistant Professor <br> Canada Research Chair <br> in Pharmacogenomics and Precision Medicine
 
 #role: [ { "Britt Drögemöller, <br>Assistant Professor, Canada Research Chair in Pharmacogenomics and Precision Medicine" }]
 
