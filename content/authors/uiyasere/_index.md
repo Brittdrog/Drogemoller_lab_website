@@ -54,9 +54,9 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 #- Principal Investigator
-- Lab members
+# - Lab members
 #- Visitors
-#- Alumni
+- Alumni
 ---
 
 Urim Iyasere is an undergraduate student at the Univeristy of Manitoba currently pursing a Genetic Hons Co-op degree. Urim's summer project will focus on identifying  genes that are relevant to cisplatin-induced ototoxicity.

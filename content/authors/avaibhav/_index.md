@@ -48,9 +48,9 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 #- Principal Investigator
-- Lab members
+# - Lab members
 #- Visitors
-#- Alumni
+- Alumni
 ---
 
 Vaibhav is an undergraduate student at the University of Manitoba pursuing a Major in Microbiology. He will be working under the supervision of Dr. Drögemöller, mining cisplatin-induced gene expression and cytotoxicity data to identify genes of relevance to cisplatin-induced ototoxicity.
