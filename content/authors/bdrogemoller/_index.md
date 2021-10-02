@@ -21,7 +21,7 @@ role: Britt Drögemöller <br> Assistant Professor <br> Canada Research Chair <b
 #  url: "http://brittdrogemoller.com/"
 
 # Short bio (displayed in user profile at end of posts) (add info about yourself)
-bio: Dr. Britt Drögemöller is an Assistant Professor in the Department of Biochemistry & Medical Genetics at the University of Manitoba and a Research Scientist at The Children’s Hospital Research Institute of Manitoba. 
+#bio: Dr. Britt Drögemöller is an Assistant Professor in the Department of Biochemistry & Medical Genetics at the University of Manitoba and a Research Scientist at The Children’s Hospital Research Institute of Manitoba. 
 
 #Add info about your interests in bullet form (this can also be non-academic) 
 #interests:

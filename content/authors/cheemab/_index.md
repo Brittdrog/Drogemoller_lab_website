@@ -7,7 +7,7 @@ authors:
 - bcheema
 
 # Is this the primary user of the site? (keep as is)
-superuser: true
+superuser: false
 
 # Role/position (add your position)
 role: Bilal Cheema <br> Honours Student
