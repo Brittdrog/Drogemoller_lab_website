@@ -7,7 +7,7 @@ authors:
 - slyle
 
 # Is this the primary user of the site? (keep as is)
-superuser: true
+superuser: false
 
 # Role/position (add your position)
 role: Sarah Lyle <br> Co-op Student

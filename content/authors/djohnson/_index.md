@@ -7,7 +7,7 @@ authors:
 - djohnson
 
 # Is this the primary user of the site? (keep as is)
-superuser: true
+superuser: false
 
 # Role/position (add your position)
 role: Danielle Johnson <br> Mitacs-Globalink UK-Canada PhD exchange student

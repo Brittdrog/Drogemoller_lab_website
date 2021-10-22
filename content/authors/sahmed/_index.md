@@ -7,7 +7,7 @@ authors:
 - sahmed
 
 # Is this the primary user of the site? (keep as is)
-superuser: true
+superuser: false
 
 # Role/position (add your position)
 role: Samah Ahmed <br> MSc Student

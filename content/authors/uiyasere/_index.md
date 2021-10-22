@@ -7,7 +7,7 @@ authors:
 - uiyasere
 
 # Is this the primary user of the site? (keep as is)
-superuser: true
+superuser: false
 
 # Role/position (add your position)
 role: Urim Iyasere <br> Summer Research Student
