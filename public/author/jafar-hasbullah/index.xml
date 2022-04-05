@@ -5,12 +5,20 @@
     <link>/author/jafar-hasbullah/</link>
       <atom:link href="/author/jafar-hasbullah/index.xml" rel="self" type="application/rss+xml" />
     <description>Jafar Hasbullah</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Jafar Hasbullah</title>
       <link>/author/jafar-hasbullah/</link>
     </image>
+    
+    <item>
+      <title>Transcriptome-wide association study uncovers the role of essential genes in anthracycline-induced cardiotoxicity</title>
+      <link>/publication/transcriptome-wide-association-study-uncovers-the-role-of-essential-genes-in-anthracycline-induced-cardiotoxicity/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/transcriptome-wide-association-study-uncovers-the-role-of-essential-genes-in-anthracycline-induced-cardiotoxicity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analyses of adverse drug reactions-nationwide active surveillance network: Canadian Pharmacogenomics Network for Drug Safety database</title>

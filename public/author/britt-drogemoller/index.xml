@@ -5,12 +5,60 @@
     <link>/author/britt-drogemoller/</link>
       <atom:link href="/author/britt-drogemoller/index.xml" rel="self" type="application/rss+xml" />
     <description>Britt Drögemöller</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Britt Drögemöller</title>
       <link>/author/britt-drogemoller/</link>
     </image>
+    
+    <item>
+      <title>Secondary biogenic amine deficiencies: Genetic etiology, therapeutic interventions and clinical effects</title>
+      <link>/publication/secondary-biogenic-amine-deficiencies-genetic-etiology-therapeutic-interventions-and-clinical-effects/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/secondary-biogenic-amine-deficiencies-genetic-etiology-therapeutic-interventions-and-clinical-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptome-wide association study uncovers the role of essential genes in anthracycline-induced cardiotoxicity</title>
+      <link>/publication/transcriptome-wide-association-study-uncovers-the-role-of-essential-genes-in-anthracycline-induced-cardiotoxicity/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/transcriptome-wide-association-study-uncovers-the-role-of-essential-genes-in-anthracycline-induced-cardiotoxicity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adult GAMT deficiency: A literature review and report of two siblings</title>
+      <link>/publication/adult-gamt-deficiency-a-literature-review-and-report-of-two-siblings/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/adult-gamt-deficiency-a-literature-review-and-report-of-two-siblings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating disease and drug related phenotypes for improved identification of pharmacogenomic variants</title>
+      <link>/publication/integrating-disease-and-drug-related-phenotypes-for-improved-identification-of-pharmacogenomic-variants/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/integrating-disease-and-drug-related-phenotypes-for-improved-identification-of-pharmacogenomic-variants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StellarPGx: A nextflow pipeline for calling star alleles in cytochrome P450 genes</title>
+      <link>/publication/stellarpgx-a-nextflow-pipeline-for-calling-star-alleles-in-cytochrome-p450-genes/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/stellarpgx-a-nextflow-pipeline-for-calling-star-alleles-in-cytochrome-p450-genes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systematic comparison of pharmacogene star allele calling bioinformatics algorithms: A focus on CYP2D6 genotyping</title>
+      <link>/publication/a-systematic-comparison-of-pharmacogene-star-allele-calling-bioinformatics-algorithms-a-focus-on-cyp2d6-genotyping/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/a-systematic-comparison-of-pharmacogene-star-allele-calling-bioinformatics-algorithms-a-focus-on-cyp2d6-genotyping/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analyses of adverse drug reactions-nationwide active surveillance network: Canadian Pharmacogenomics Network for Drug Safety database</title>
@@ -153,6 +201,14 @@
       <link>/publication/wen-sialic-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/publication/wen-sialic-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A de novo mosaic mutation in SPAST with two novel alternative alleles and chromosomal copy number variant in a boy with spastic paraplegia and autism spectrum disorder</title>
+      <link>/publication/a-de-novo-mosaic-mutation-in-spast-with-two-novel-alternative-alleles-and-chromosomal-copy-number-variant-in-a-boy-with-spastic-paraplegia-and-autism-spectrum-disorder/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/a-de-novo-mosaic-mutation-in-spast-with-two-novel-alternative-alleles-and-chromosomal-copy-number-variant-in-a-boy-with-spastic-paraplegia-and-autism-spectrum-disorder/</guid>
       <description></description>
     </item>
     

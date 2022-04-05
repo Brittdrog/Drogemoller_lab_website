@@ -5,12 +5,20 @@
     <link>/author/amit-bhavsar/</link>
       <atom:link href="/author/amit-bhavsar/index.xml" rel="self" type="application/rss+xml" />
     <description>Amit Bhavsar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Amit Bhavsar</title>
       <link>/author/amit-bhavsar/</link>
     </image>
+    
+    <item>
+      <title>Transcriptome-wide association study uncovers the role of essential genes in anthracycline-induced cardiotoxicity</title>
+      <link>/publication/transcriptome-wide-association-study-uncovers-the-role-of-essential-genes-in-anthracycline-induced-cardiotoxicity/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/transcriptome-wide-association-study-uncovers-the-role-of-essential-genes-in-anthracycline-induced-cardiotoxicity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pharmacogenomics of cisplatin-induced ototoxicity: Successes, shortcomings, and future avenues of research</title>

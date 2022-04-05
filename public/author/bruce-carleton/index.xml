@@ -5,12 +5,28 @@
     <link>/author/bruce-carleton/</link>
       <atom:link href="/author/bruce-carleton/index.xml" rel="self" type="application/rss+xml" />
     <description>Bruce Carleton</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Bruce Carleton</title>
       <link>/author/bruce-carleton/</link>
     </image>
+    
+    <item>
+      <title>Transcriptome-wide association study uncovers the role of essential genes in anthracycline-induced cardiotoxicity</title>
+      <link>/publication/transcriptome-wide-association-study-uncovers-the-role-of-essential-genes-in-anthracycline-induced-cardiotoxicity/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/transcriptome-wide-association-study-uncovers-the-role-of-essential-genes-in-anthracycline-induced-cardiotoxicity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating disease and drug related phenotypes for improved identification of pharmacogenomic variants</title>
+      <link>/publication/integrating-disease-and-drug-related-phenotypes-for-improved-identification-of-pharmacogenomic-variants/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/integrating-disease-and-drug-related-phenotypes-for-improved-identification-of-pharmacogenomic-variants/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CYP2D6 as a treatment decision aid for ER-positive non-metastatic breast cancer patients: a systematic review with accompanying clinical practice guidelines</title>

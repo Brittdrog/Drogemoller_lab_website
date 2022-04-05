@@ -1,16 +1,162 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Drögemöller Lab</title>
+    <title>Latest News | Drögemöller Lab</title>
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <description>Latest News</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Posts</title>
+      <title>Latest News</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Congrats to Samah for being awarded a Rady Faculty of Health Sciences Graduate Studentship!</title>
+      <link>/post/22-02-04-samah_rady/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/post/22-02-04-samah_rady/</guid>
+      <description>&lt;p&gt;Samah will be exploring the use of new phenotyping strategies to uncover genes and pathways underlying age-related hearing loss&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The first article from the Drögemöller Lab is out!</title>
+      <link>/post/22-01-01-publication/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/post/22-01-01-publication/</guid>
+      <description>&lt;p&gt;A great start to 2022, with the publication of our first article! Under the joint leadership of Danielle, MacKenzie and Sarah, we performed a systematic review and analysis of the current use of polygenic scores in pharmacogenomics&lt;/p&gt;
+&lt;p&gt;Some key find from this work are highlighted below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The development of PGx PGS is limited by a lack of large PGx cohorts. To overcome these challenges current studies are using PGS derived from non-drug related phenotypes. Large PGx consortiums are required to overcome these sample size limitations.&lt;/li&gt;
+&lt;li&gt;A wide range of methods are currently being used to develop PGx PGS. Inconsistencies in reporting of methods complicates replication of findings. Future publications should adhere to PGS reporting standards: &lt;a href=&#34;https://www.nature.com/articles/s41586-021-03243-6&#34;&gt;https://www.nature.com/articles/s41586-021-03243-6&lt;/a&gt;
+&lt;img src=&#34;/img/PRS-RS.jpg&#34; alt=&#34;&#34;&gt;&lt;/li&gt;
+&lt;li&gt;A lack of representation of authors from across the globe is contributing to the lack of diversity in participants that are included in PGx PGS research. We need to do better as a global community to prevent this research from increasing already existing health disparities
+&lt;img src=&#34;/img/map.jpg&#34; alt=&#34;&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Read more here: &lt;a href=&#34;https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.2520&#34;&gt;https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.2520&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>We have had a busy month of conferences!</title>
+      <link>/post/21-10-22-meetings/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/post/21-10-22-meetings/</guid>
+      <description>&lt;p&gt;Congrats to MacKenzie Wilke and Sarah Lyle for representing Canada at the &lt;em&gt;Pharmacogenomics Global Research Network Meeting&lt;/em&gt; and both receiving top abstract awards! Also to MacKenzie for receiving a silver award in the &lt;em&gt;Child Health Research Days Conference&lt;/em&gt; (MSc category).
+&lt;img src=&#34;/img/PGRN.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Bilal Cheema, who has joined the lab for a Honour&#39;s project, and Deanne Nixie Miao, who is working part-time as a technician in the lab!</title>
+      <link>/post/21-09-01-welcome_bilal_deanne/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/post/21-09-01-welcome_bilal_deanne/</guid>
+      <description>&lt;p&gt;We are thrilled to have you join the lab!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>After more than a year of working together virtually, the vaccinated Drögemöller Lab finally had the opportunity to celebrate in person!</title>
+      <link>/post/21-08-14-in-person-social/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/post/21-08-14-in-person-social/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/lablunch.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;It was great to have the Wright Lab join us!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Drögemöller Lab is extremely thankful for support from various funding agencies!</title>
+      <link>/post/21-07-01-grants/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/post/21-07-01-grants/</guid>
+      <description>&lt;p&gt;In the last few months the Drögemöller Lab has received funding from &lt;strong&gt;CIHR&lt;/strong&gt; (Operating Grant: Early Career Investigators in Maternal, Reproductive, Child &amp;amp; Youth Health); &lt;strong&gt;Research Manitoba&lt;/strong&gt; (New Investigator Operating Grant) and the &lt;strong&gt;Health Sciences Centre Foundation&lt;/strong&gt; (General Operating Grant). We appreciate your support!&lt;/p&gt;
+&lt;p&gt;These funds will be used to support work aimed at predicting and preventing hearing loss caused by the chemotherapeutic agent, cisplatin. These funds will allow us to develop polygenic risk scores to predict cisplatin-induced ototoxicity; use genomics-driven drug repurposing to identify novel otoprotectants to prevent and cisplatin-induced ototoxicity; and harness single cell RNA sequencing to identify cisplatin-induced changes in gene expression that occur in murine inner ear cells.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Samah Ahmed, who will be joining the lab as an MSc student!</title>
+      <link>/post/21-06-01-welcome_samah/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>/post/21-06-01-welcome_samah/</guid>
+      <description>&lt;p&gt;Congrats on receiving the International Graduate Student Entrance Scholarship, Samah! Samah will be working on using single cell sequencing and GWAS to gain insight into the genomics of hearing loss traits.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Urim Iyasere and Vaibhav, who will be joining the lab as summer students!</title>
+      <link>/post/21-05-01-welcome_urim-vaibhav/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>/post/21-05-01-welcome_urim-vaibhav/</guid>
+      <description>&lt;p&gt;Congrats on receiving the CancerCare Manitoba Research Institute and Children’s Hospital Research Institute of Manitoba (CHRIM) Undergraduate Summer Studentships!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Congratulations to Sarah Lyle for completing her Genetics Honours project!</title>
+      <link>/post/21-04-30-congrats_sarah/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/post/21-04-30-congrats_sarah/</guid>
+      <description>&lt;p&gt;In addition to Sarah completing her Honours project focusing on the genetics of polycystic ovary syndrome, we are also thrilled that Sarah will be staying on in the lab as a Co-op student!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>To celebrate everyone&#39;s hard work over the last couple of months we took part in a Heist</title>
+      <link>/post/21-04-09-escape-room/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/post/21-04-09-escape-room/</guid>
+      <description>&lt;p&gt;Thanks to some very clever people in the lab, we successfully completed this escape room game (despite &amp;ldquo;helpful&amp;rdquo; contributions from the PI)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/escape.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Big congratulations to MacKenzie Sarvis for being awarded the CIHR-CGS-M and for being accepted into the Visual and Automated Disease Analytics Graduate Training Program!</title>
+      <link>/post/21-04-01-congrats_mackenzie/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/post/21-04-01-congrats_mackenzie/</guid>
+      <description>&lt;p&gt;We are really proud of all of MacKenzie&amp;rsquo;s hard work!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Danielle Johnson, who will be joining the lab as a Mitacs-Globalink UK-Canada PhD exchange student!</title>
+      <link>/post/21-02-01-welcome_danielle/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/post/21-02-01-welcome_danielle/</guid>
+      <description>&lt;p&gt;Danielle will be joining us remotely from the UK to perform a systematic review of the use of polygenic risk scores in the field of pharmacogenomics.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Drögemöller and Wright labs receive Carnegie African Diaspora Fellowships for their Graduate Training and Collaborative Research in Neurogenomics and Precision Medicine application</title>
+      <link>/post/20-09-01-carnegie/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/post/20-09-01-carnegie/</guid>
+      <description>&lt;p&gt;This funding has been provided to support a collaboration between the University of Manitoba and Stellenbosch University in South Africa to develop (i) a genomics analysis pipeline for the improved diagnosis and treatment of neurological diseases in Manitoba and South Africa and (ii) workshops aimed at training graduate students in Neurogenomics &amp;amp; Precision Medicine at the University of Manitoba, Canada and Stellenbosch University, South Africa.&lt;/p&gt;
+&lt;p&gt;Advances in genomic technologies and related analyses provide unprecedented opportunities for the field of precision medicine. Importantly, these advances have resulted in improvements in the diagnosis and treatment of neurological diseases. Unfortunately, African individuals have been under-represented in genomics research. Highlighting these disparities, it has been shown that although European descent individuals make up only 16% of the global population, they represent approximately 79% of participants that are included in genome-wide association studies. By developing international collaborations, as well as innovative graduate training strategies that merge the fields of neurogenomics and precision medicine, strategies can be developed to improve the diagnosis and treatment of neurological diseases in the context of Africa.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MacKenzie Sarvis is officially the first graduate student in the Drögemöller lab!</title>
+      <link>/post/20-09-01-welcome_mackenzie/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/post/20-09-01-welcome_mackenzie/</guid>
+      <description>&lt;p&gt;MacKenzie will be working on developing a polygenetic risk score to predict chemotherapy-induced ototoxicity (hearing loss) and using drug repurposing analyses to identify otoprotectants to prevent this debilitating adverse drug reaction.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Sarah Lyle, who will be joining the lab for her Genetics Honours project!</title>
+      <link>/post/20-09-01-welcome_sarah/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/post/20-09-01-welcome_sarah/</guid>
+      <description>&lt;p&gt;Sarah will be using transcriptome-wide association analyses to identify genes that contribute to polycystic ovary syndrome.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome to MacKenzie Sarvis, the lab&#39;s first student!</title>
+      <link>/post/20-06-01-first_summer_student/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/20-06-01-first_summer_student/</guid>
+      <description>&lt;p&gt;Excited to have MacKenzie Sarvis join the Drögemöller lab as a summer student&lt;/p&gt;</description>
+    </item>
     
   </channel>
 </rss>

@@ -5,12 +5,100 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>2</title>
       <link>/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>PharmVar GeneFocus: CYP3A5</title>
+      <link>/publication/pharmvar_genefocus-cyp3a5/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/pharmvar_genefocus-cyp3a5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A pharmacogenomic investigation of the cardiac safety profile of ondansetron in children and pregnant women</title>
+      <link>/publication/a-pharmacogenomic-investigation-of-the-cardiac-safety-profile-of-ondansetron-in-children-and-pregnant-women/</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/a-pharmacogenomic-investigation-of-the-cardiac-safety-profile-of-ondansetron-in-children-and-pregnant-women/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patient-specific genetic factors predict treatment failure in sofosbuvir-treated patients with chronic hepatitis C</title>
+      <link>/publication/patient-specific-genetic-factors-predict-treatment-failure-in-sofosbuvir-treated-patients-with-chronic-hepatitis-c/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/patient-specific-genetic-factors-predict-treatment-failure-in-sofosbuvir-treated-patients-with-chronic-hepatitis-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systematic review and analysis of the use of polygenic scores in pharmacogenomics</title>
+      <link>/publication/a-systematic-review-and-analysis-of-the-use-of-polygenic-scores-in-pharmacogenomics/</link>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/a-systematic-review-and-analysis-of-the-use-of-polygenic-scores-in-pharmacogenomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secondary biogenic amine deficiencies: Genetic etiology, therapeutic interventions and clinical effects</title>
+      <link>/publication/secondary-biogenic-amine-deficiencies-genetic-etiology-therapeutic-interventions-and-clinical-effects/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/secondary-biogenic-amine-deficiencies-genetic-etiology-therapeutic-interventions-and-clinical-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptome-wide association study uncovers the role of essential genes in anthracycline-induced cardiotoxicity</title>
+      <link>/publication/transcriptome-wide-association-study-uncovers-the-role-of-essential-genes-in-anthracycline-induced-cardiotoxicity/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/transcriptome-wide-association-study-uncovers-the-role-of-essential-genes-in-anthracycline-induced-cardiotoxicity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Extent and Impact of Variation in ADME Genes in Sub-Saharan African Populations</title>
+      <link>/publication/the-extent-and-impact-of-variation-in-adme-genes-in-sub-saharan-african-populations/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/the-extent-and-impact-of-variation-in-adme-genes-in-sub-saharan-african-populations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adult GAMT deficiency: A literature review and report of two siblings</title>
+      <link>/publication/adult-gamt-deficiency-a-literature-review-and-report-of-two-siblings/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/adult-gamt-deficiency-a-literature-review-and-report-of-two-siblings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating disease and drug related phenotypes for improved identification of pharmacogenomic variants</title>
+      <link>/publication/integrating-disease-and-drug-related-phenotypes-for-improved-identification-of-pharmacogenomic-variants/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/integrating-disease-and-drug-related-phenotypes-for-improved-identification-of-pharmacogenomic-variants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StellarPGx: A nextflow pipeline for calling star alleles in cytochrome P450 genes</title>
+      <link>/publication/stellarpgx-a-nextflow-pipeline-for-calling-star-alleles-in-cytochrome-p450-genes/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/stellarpgx-a-nextflow-pipeline-for-calling-star-alleles-in-cytochrome-p450-genes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systematic comparison of pharmacogene star allele calling bioinformatics algorithms: A focus on CYP2D6 genotyping</title>
+      <link>/publication/a-systematic-comparison-of-pharmacogene-star-allele-calling-bioinformatics-algorithms-a-focus-on-cyp2d6-genotyping/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/a-systematic-comparison-of-pharmacogene-star-allele-calling-bioinformatics-algorithms-a-focus-on-cyp2d6-genotyping/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CYP2D6 as a treatment decision aid for ER-positive non-metastatic breast cancer patients: a systematic review with accompanying clinical practice guidelines</title>
@@ -169,6 +257,14 @@
       <link>/publication/drogemoller-association-2017/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       <guid>/publication/drogemoller-association-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A de novo mosaic mutation in SPAST with two novel alternative alleles and chromosomal copy number variant in a boy with spastic paraplegia and autism spectrum disorder</title>
+      <link>/publication/a-de-novo-mosaic-mutation-in-spast-with-two-novel-alternative-alleles-and-chromosomal-copy-number-variant-in-a-boy-with-spastic-paraplegia-and-autism-spectrum-disorder/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/a-de-novo-mosaic-mutation-in-spast-with-two-novel-alternative-alleles-and-chromosomal-copy-number-variant-in-a-boy-with-spastic-paraplegia-and-autism-spectrum-disorder/</guid>
       <description></description>
     </item>
     

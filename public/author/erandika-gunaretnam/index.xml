@@ -5,12 +5,20 @@
     <link>/author/erandika-gunaretnam/</link>
       <atom:link href="/author/erandika-gunaretnam/index.xml" rel="self" type="application/rss+xml" />
     <description>Erandika Gunaretnam</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Erandika Gunaretnam</title>
       <link>/author/erandika-gunaretnam/</link>
     </image>
+    
+    <item>
+      <title>Transcriptome-wide association study uncovers the role of essential genes in anthracycline-induced cardiotoxicity</title>
+      <link>/publication/transcriptome-wide-association-study-uncovers-the-role-of-essential-genes-in-anthracycline-induced-cardiotoxicity/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/transcriptome-wide-association-study-uncovers-the-role-of-essential-genes-in-anthracycline-induced-cardiotoxicity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Association between SLC16A5 genetic variation and cisplatin-induced ototoxic effects in adult patients with testicular cancer</title>

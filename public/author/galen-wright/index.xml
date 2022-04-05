@@ -5,12 +5,44 @@
     <link>/author/galen-wright/</link>
       <atom:link href="/author/galen-wright/index.xml" rel="self" type="application/rss+xml" />
     <description>Galen Wright</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Galen Wright</title>
       <link>/author/galen-wright/</link>
     </image>
+    
+    <item>
+      <title>Transcriptome-wide association study uncovers the role of essential genes in anthracycline-induced cardiotoxicity</title>
+      <link>/publication/transcriptome-wide-association-study-uncovers-the-role-of-essential-genes-in-anthracycline-induced-cardiotoxicity/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/transcriptome-wide-association-study-uncovers-the-role-of-essential-genes-in-anthracycline-induced-cardiotoxicity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating disease and drug related phenotypes for improved identification of pharmacogenomic variants</title>
+      <link>/publication/integrating-disease-and-drug-related-phenotypes-for-improved-identification-of-pharmacogenomic-variants/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/integrating-disease-and-drug-related-phenotypes-for-improved-identification-of-pharmacogenomic-variants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StellarPGx: A nextflow pipeline for calling star alleles in cytochrome P450 genes</title>
+      <link>/publication/stellarpgx-a-nextflow-pipeline-for-calling-star-alleles-in-cytochrome-p450-genes/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/stellarpgx-a-nextflow-pipeline-for-calling-star-alleles-in-cytochrome-p450-genes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systematic comparison of pharmacogene star allele calling bioinformatics algorithms: A focus on CYP2D6 genotyping</title>
+      <link>/publication/a-systematic-comparison-of-pharmacogene-star-allele-calling-bioinformatics-algorithms-a-focus-on-cyp2d6-genotyping/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/a-systematic-comparison-of-pharmacogene-star-allele-calling-bioinformatics-algorithms-a-focus-on-cyp2d6-genotyping/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analyses of adverse drug reactions-nationwide active surveillance network: Canadian Pharmacogenomics Network for Drug Safety database</title>
