@@ -17,22 +17,22 @@ role: Bilal Cheema <br> Honours Student
 #- name: Bilal Cheema
 
 # Short bio (displayed in user profile at end of posts) (add info about yourself)
-bio: Bilal is a 3rd year Genetics Student at the University of Manitoba. 
+#bio: Bilal is a 3rd year Genetics Student at the University of Manitoba. 
 
 #Add info about your interests in bullet form (this can also be non-academic) 
-interests:
-- Immunology
-- Oncogenomics
-- Pharmacogenomics & Precision Medicine
-- Computational Biology
+#interests:
+#- Immunology
+#- Oncogenomics
+#- Pharmacogenomics & Precision Medicine
+#- Computational Biology
 
 
 #Add info about your education 
-education:
-  courses:
-  - course: BSc Major in Genetics
-    institution: University of Manitoba, Canada
-    year: 2018-2023
+#education:
+#  courses:
+#  - course: BSc Major in Genetics
+#    institution: University of Manitoba, Canada
+#    year: 2018-2023
 
 
 # Social/Academic Networking
@@ -51,9 +51,9 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 #- Principal Investigator
-- Lab members
+#- Lab members
 #- Visitors
-#- Alumni
+- Alumni
 ---
 
-Bilal is an undergraduate student at the University of Manitoba pursuing a Bachelors in Genetics. Bilal's project will focus on determining how the landscape of human genomics research is changing and if the global research community adequately represented in this research.
+Bilal completed a Genetics Honours project in the Drögemöller Lab which focused on determining how the landscape of human genomics research is changing and if the global research community adequately represented in this research.

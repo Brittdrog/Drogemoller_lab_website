@@ -17,20 +17,20 @@ role: Vaibhav <br> Summer Research Student
 #- name: Vaibhav
 
 # Short bio (displayed in user profile at end of posts) (add info about yourself)
-bio: Vaibhav is an undergraduate student at the University of Manitoba pursuing a Major in Microbiology. He will be working under the supervision of Dr. Dr?gem?ller, mining cisplatin-induced gene expression and cytotoxicity data to identify genes of relevance to cisplatin-induced ototoxicity.
+#bio: Vaibhav is an undergraduate student at the University of Manitoba pursuing a Major in Microbiology. He will be working under the supervision of Dr. Dr?gem?ller, mining cisplatin-induced gene expression and cytotoxicity data to identify genes of relevance to cisplatin-induced ototoxicity.
 
 #Add info about your interests in bullet form (this can also be non-academic) 
-interests:
-- Bioinformatics
-- Pharmacogenetics
-- Cancer cell biology
+#interests:
+#- Bioinformatics
+#- Pharmacogenetics
+#- Cancer cell biology
 
 #Add info about your education 
-education:
-  courses:
-  - course: BSc Majors in Microbiology
-    institution: University of Manitoba, Canada
-    year: 2018-2021
+#education:
+#  courses:
+#  - course: BSc Majors in Microbiology
+#    institution: University of Manitoba, Canada
+#    year: 2018-2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -53,4 +53,4 @@ user_groups:
 - Alumni
 ---
 
-Vaibhav is an undergraduate student at the University of Manitoba pursuing a Major in Microbiology. He will be working under the supervision of Dr. Drögemöller, mining cisplatin-induced gene expression and cytotoxicity data to identify genes of relevance to cisplatin-induced ototoxicity.
+Vaibhav performed a summer studentship in the Drögemöller Lab which was focused on mining cisplatin-induced gene expression and cytotoxicity data to identify genes of relevance to cisplatin-induced ototoxicity.

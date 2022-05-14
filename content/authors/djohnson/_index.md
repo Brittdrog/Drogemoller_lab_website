@@ -19,24 +19,24 @@ role: Danielle Johnson <br> Mitacs-Globalink UK-Canada PhD exchange student
 # url: "http://brittdrogemoller.com/"
 
 # Short bio (displayed in user profile at end of posts) (add info about yourself)
-bio: Danielle Johnson is a PhD student at the University of Liverpool, UK, who has been awarded a Mitacs Globalink internship in the Drögemöller lab.
+#bio: Danielle Johnson is a PhD student at the University of Liverpool, UK, who has been awarded a Mitacs Globalink internship in the Drögemöller lab.
 
 #Add info about your interests in bullet form (this can also be non-academic) 
-interests:
-- Trial design
-- Methodology
-- Pharmacogenetics
+#interests:
+#- Trial design
+#- Methodology
+#- Pharmacogenetics
 
 #Add info about your education 
-education:
-  courses:
-  - course: PhD in pharmacogenetics
-    institution: University of Liverpool, UK
-    year: 2017-2021
+#education:
+#  courses:
+#  - course: PhD in pharmacogenetics
+#    institution: University of Liverpool, UK
+#    year: 2017-2021
   
-  - course: BSc in Medical Sciences
-    institution: University of Exeter, UK
-    year: 2010-2014
+#  - course: BSc in Medical Sciences
+#    institution: University of Exeter, UK
+#    year: 2010-2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,4 +69,4 @@ social:
 user_groups: ["Alumni"]
 ---
 
-Danielle Johnson is a PhD student at the University of Liverpool, UK, who has been awarded a Mitacs Globalink internship in the Drögemöller lab. She previously completed her MRes at King's College London and a BSc in Medical Sciences at the University of Exeter. She previously worked on the STAMPEDE trial at the Medical Research Council, London.
+Danielle Johnson performed a a Mitacs-Globalink UK-Canada PhD exchange in the Drögemöller Lab focusing on performing a systematic review and analysis of the use of polygenic scores in pharmacogenomics. 

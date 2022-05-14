@@ -17,23 +17,23 @@ role: Urim Iyasere <br> Summer Research Student
 #- name: Urim Iyasere
 
 # Short bio (displayed in user profile at end of posts) (add info about yourself)
-bio: Urim Iyasere is a Genetics student at the Univeristy of Manitoba. 
+#bio: Urim Iyasere is a Genetics student at the Univeristy of Manitoba. 
 
 #Add info about your interests in bullet form (this can also be non-academic) 
-interests:
-- Computational Biology
-- Pharmacogenomics & Precision Medicine
-- Bioinformatics & Biostatistics
-- Languages
-- Music
+#interests:
+#- Computational Biology
+#- Pharmacogenomics & Precision Medicine
+#- Bioinformatics & Biostatistics
+#- Languages
+#- Music
 
 
 #Add info about your education 
-education:
-  courses:
-  - course: BSc Hons Co-op in Genetics
-    institution: University of Manitoba, Canada
-    year: 2018-2023
+#education:
+#  courses:
+#  - course: BSc Hons Co-op in Genetics
+#    institution: University of Manitoba, Canada
+#    year: 2018-2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -59,4 +59,4 @@ user_groups:
 - Alumni
 ---
 
-Urim Iyasere is an undergraduate student at the Univeristy of Manitoba currently pursing a Genetic Hons Co-op degree. Urim's summer project will focus on identifying  genes that are relevant to cisplatin-induced ototoxicity.
+Urim Iyasere performed a summer studentship in the Drögemöller Lab, which focused on using murine scRNAseq data to identify  genes that are relevant to cisplatin-induced ototoxicity.
