@@ -69,4 +69,4 @@ social:
 user_groups: ["Alumni"]
 ---
 
-Danielle Johnson performed a a Mitacs-Globalink UK-Canada PhD exchange in the Drögemöller Lab focusing on performing a systematic review and analysis of the use of polygenic scores in pharmacogenomics. 
+Danielle Johnson completed a Mitacs-Globalink UK-Canada PhD exchange in the Drögemöller Lab, which focused on performing a systematic review and analysis of the use of polygenic scores in pharmacogenomics. 
