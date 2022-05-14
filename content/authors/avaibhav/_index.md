@@ -53,4 +53,4 @@ user_groups:
 - Alumni
 ---
 
-Vaibhav performed a summer studentship in the Drögemöller Lab which was focused on mining cisplatin-induced gene expression and cytotoxicity data to identify genes of relevance to cisplatin-induced ototoxicity.
+Vaibhav performed a summer studentship in the Drögemöller Lab, which was focused on mining cisplatin-induced gene expression and cytotoxicity data to identify genes of relevance to cisplatin-induced ototoxicity.

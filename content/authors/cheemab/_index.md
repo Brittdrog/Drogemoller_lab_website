@@ -56,4 +56,4 @@ user_groups:
 - Alumni
 ---
 
-Bilal completed a Genetics Honours project in the Drögemöller Lab which focused on determining how the landscape of human genomics research is changing and if the global research community adequately represented in this research.
+Bilal completed a Genetics Honours project in the Drögemöller Lab, which focused on determining how the landscape of human genomics research is changing and if the global research community adequately represented in this research.
