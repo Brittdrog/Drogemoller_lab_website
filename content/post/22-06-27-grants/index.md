@@ -1,5 +1,5 @@
 ---
-title: The Drögemöller Lab is extremely thankful to have been awarded an NSERC Discovery Grant! 
+title: The Drögemöller Lab is grateful to have received an NSERC Discovery Grant! 
 date: 2022-06-27
 ---
 
