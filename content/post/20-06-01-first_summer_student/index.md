@@ -5,5 +5,4 @@ date: 2020-06-01
 
 Excited to have MacKenzie Sarvis join the Drögemöller lab as a summer student
 
-<!--more-->
 

@@ -1,5 +1,5 @@
 ---
-title: Big congratulations to MacKenzie Sarvis for being awarded the FGS Research Completion scholarship! 
+title: Big congratulations to MacKenzie Wilke for being awarded the FGS Research Completion scholarship! 
 date: 2022-05-27
 ---
 
