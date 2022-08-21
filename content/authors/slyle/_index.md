@@ -10,29 +10,29 @@ authors:
 superuser: false
 
 # Role/position (add your position)
-role: Sarah Lyle <br> Lab Technician
+role: Sarah Lyle <br> Hons student > Co-op student > Lab Technician
 
 # Organizations/Affiliations (add your name and web address, if you have one)
 #organizations:
 #- name: Sarah Lyle
 
 # Short bio (displayed in user profile at end of posts) (add info about yourself)
-bio: Sarah was Genetics Honour Co-op Student at the University of Manitoba. 
+#bio: Sarah was Genetics Honour Co-op Student at the University of Manitoba. 
 
 #Add info about your interests in bullet form (this can also be non-academic) 
-interests:
-- Public Health 
-- Epidemiology
-- Pharmacogenomics & Precision Medicine
-- Infectious Disease
+#interests:
+#- Public Health 
+#- Epidemiology
+#- Pharmacogenomics & Precision Medicine
+#- Infectious Disease
 
 
 #Add info about your education 
-education:
-  courses:
-  - course: BSc Hons Co-op in Genetics
-    institution: University of Manitoba, Canada
-    year: 2016-2021
+#education:
+#  courses:
+#  - course: BSc Hons Co-op in Genetics
+#    institution: University of Manitoba, Canada
+#    year: 2016-2021
 
 
 # Social/Academic Networking
@@ -51,9 +51,9 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 #- Principal Investigator
-- Lab members
+#- Lab members
 #- Visitors
-#- Alumni
+- Alumni
 ---
 
 Sarah was a Genetic Honours Co-op student in the Drögemöller lab, where she focused on identifying genetic variants associated with polycystic ovary syndrome and their role in treatment outcomes of patients. In her current role as a lab technician, she is developing polygenic scores that can be applied in the context of pharmacogenomics.
