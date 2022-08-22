@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (add your position)
-role: Danielle Johnson <br> Mitacs-Globalink UK-Canada PhD exchange student
+role: Danielle Johnson <br> Mitacs-Globalink UK-Canada PhD Exchange Student
 #Tier 2 Canadian Research Chair in Pharmacogenomics and Precision Medicine
 
 # Organizations/Affiliations (add your name and web address, if you have one)
