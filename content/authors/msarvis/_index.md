@@ -57,9 +57,9 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 #- Principal Investigator
-- Lab members
+#- Lab members
 #- Visitors
-#- Alumni
+- Alumni
 ---
 
 MacKenzie Wilke is a MSc student in the Department of Biochemistry & Medical Genetics at the University of Manitoba. MacKenzie has graduated with her BSc (Hons) in Genetics from the University of Manitoba in 2020. She completed an undergraduate thesis on identifying genes associated with autism spectrum disorder through Hardy-Weinberg disequilibrium and her MSc project will focus on developing a polygenic risk score in order to aid with the prediction and prevention of cisplatin-induced ototoxicity.
