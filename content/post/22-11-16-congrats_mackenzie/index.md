@@ -1,5 +1,5 @@
 ---
-title: Congratulations to MacKenzie for completing her MSc Thesis!
+title: Congratulations to MacKenzie for successfully defending her MSc Thesis!
 date: 2022-11-16
 ---
 
