@@ -17,26 +17,26 @@ role: Mackenzie Wilke <br> Summer student > MSc Student
 #- name: Mackenzie Wilke
 
 # Short bio (displayed in user profile at end of posts) (add info about yourself)
-bio: MacKenzie Wilke is a MSc student in the Department of Biochemistry & Medical Genetics at the University of Manitoba. 
+#bio: MacKenzie Wilke is a MSc student in the Department of Biochemistry & Medical Genetics at the University of Manitoba. 
 
 #Add info about your interests in bullet form (this can also be non-academic) 
-interests:
-- Bioinformatics 
-- Evolutionary Genetics
-- Rare Diseases
-- Pharmacogenomics & Precision Medicine
-- Dancing
+#interests:
+#- Bioinformatics 
+#- Evolutionary Genetics
+#- Rare Diseases
+#- Pharmacogenomics & Precision Medicine
+#- Dancing
 
 
 #Add info about your education 
-education:
-  courses:
-  - course: MSc in Computational Biology
-    institution: University of Manitoba, Canada
-    year: 2020-2022
-  - course: BSc Hons in Genetics
-    institution: University of Manitoba, Canada
-    year: 2015-2020
+#education:
+#  courses:
+#  - course: MSc in Computational Biology
+#    institution: University of Manitoba, Canada
+#    year: 2020-2022
+#  - course: BSc Hons in Genetics
+#    institution: University of Manitoba, Canada
+#    year: 2015-2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
