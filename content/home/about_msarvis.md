@@ -2,7 +2,7 @@
 # About widget.
 widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 4  # Order that this section will appear in.
 
 #Edit this to show your title
