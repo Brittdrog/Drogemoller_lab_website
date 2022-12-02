@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (add your position)
-role: Vaibhav <br> Summer Research Student
+role: Vaibhav <br> Summer Student
 
 # Organizations/Affiliations (add your name and web address, if you have one)
 #organizations:
