@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (add your position)
-role: Bilal Cheema <br> Honours Student
+role: Bilal Cheema <br> Genetics Honours Student
 
 # Organizations/Affiliations (add your name and web address, if you have one)
 #organizations:
