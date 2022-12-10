@@ -17,7 +17,7 @@ role: Deanne Nixie Miao <br> MSc Student
 #- name: Sarah Lyle
 
 # Short bio (displayed in user profile at end of posts) (add info about yourself)
-bio: Deanne Nixie Miao is a Lab Technician in the Department of Biochemistry and Medical Genetics at the University of Manitoba. 
+bio: Deanne Nixie Miao is an MSc student in the Department of Biochemistry and Medical Genetics at the University of Manitoba. 
 
 #Add info about your interests in bullet form (this can also be non-academic) 
 interests:
@@ -56,4 +56,9 @@ user_groups:
 #- Alumni
 ---
 
-Deanne Nixie Miao graduated with a BSc Honors in Genetics at the University of Manitoba. She completed an undergraduate thesis on characterizing the development of bones in hyaluronidase-2 KO and CON mouse embryos. She is currently a Lab Technician in the Department of Biochemistry and Medical Genetics in Dr. Triggs-Raine's and Dr. Drögemöller's lab.
+Deanne Nixie Miao is a MSc student in the Department of Biochemistry & Medical Genetics at the University of Manitoba. Deanne graduated with a BSc Honors in Genetics at the University of Manitoba in 2021. Her MSc focuses on identifying genetic variants and genes involved in pathways underlying cisplatin-induced ototoxicity through GWAS and scRNAseq analyses.
+
+
+**Awards/fellowships:** 
+- Rady Faculty of Health Sciences Graduate Studentship
+

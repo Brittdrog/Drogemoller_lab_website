@@ -61,8 +61,12 @@ user_groups:
 #- Alumni
 ---
 
-Samah Ahmed is a MSc student in the Department of Biochemistry & Medical Genetics at the University of Manitoba. Samah has graduated with her B.Pharm from the University of Khartoum in 2010. Her MSc project will focus on identifying genetic variants and genes involved in pathways underlying hearing through GWAS and scRNAseq analyses.
+Samah Ahmed is a MSc student in the Department of Biochemistry & Medical Genetics at the University of Manitoba. Samah graduated with her B.Pharm from the University of Khartoum in 2010. Her MSc project focuses on using automated phenotyping strategies and large-scale genomic analyses to uncover genes and pathways invovled in age-related hearing loss.
 
-**Awards/fellowships:** Rady Faculty of Health Sciences studentship, Visual and Automated Disease Analytics Graduate Training Program, Research Manitoba Masters Studentship (declined)
+
+**Awards/fellowships:** 
+- Rady Faculty of Health Sciences Graduate Studentship
+- Visual and Automated Disease Analytics Graduate Training Program Studentship
+- Research Manitoba Masters Studentship (declined)
 
 

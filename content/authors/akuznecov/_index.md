@@ -50,4 +50,4 @@ user_groups:
 #- Alumni
 ---
 
-Avital Kuznecov is an undergraduate student at the University of Manitoba pursuing a BSc in Genetics. Her project will focus on preforming a Genome-Wide Association Study to identify genetic factors influencing Hidden Hearing Loss. 
+Avital Kuznecov is an undergraduate student at the University of Manitoba pursuing a BSc in Genetics. Her project focuses identifying genetic variants influencing hidden hearing loss through the use of GWAS. 
