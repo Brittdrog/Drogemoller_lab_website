@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Drögemöller Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Drögemöller Lab</title>
@@ -13,7 +13,102 @@
     </image>
     
     <item>
-      <title>Big congratulations to MacKenzie Sarvis for being awarded the FGS Research Completion scholarship!</title>
+      <title>Characterization of CYP2D6 Pharmacogenetic Variation in Sub-Saharan African Populations</title>
+      <link>/publication/characterization-of-cyp2d6-pharmacogenetic-variation-in-sub-saharan-african-populations/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/characterization-of-cyp2d6-pharmacogenetic-variation-in-sub-saharan-african-populations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Congrats to Deanne for being awarded a Rady Faculty of Health Sciences Graduate Studentship!</title>
+      <link>/post/22-12-01-congrats_deanne/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/post/22-12-01-congrats_deanne/</guid>
+      <description>&lt;p&gt;Deanne will be using scRNAseq to examine cisplatin-induced changes in gene expression that occur in the inner ear&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Congratulations to MacKenzie for successfully defending her MSc Thesis!</title>
+      <link>/post/22-11-16-congrats_mackenzie/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/post/22-11-16-congrats_mackenzie/</guid>
+      <description>&lt;p&gt;You did an outstanding job and we are so proud of all the hard work you put into your MSc
+&lt;img src=&#34;/img/mackenzie_msc.jpg&#34; alt=&#34;&#34;&gt;&lt;img src=&#34;/img/hat.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deanne and Feryal represent the Drögemöller Lab at the CancerCare Research Day!</title>
+      <link>/post/22-10-25-conferences/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/post/22-10-25-conferences/</guid>
+      <description>&lt;p&gt;They did an awesome job presenting on how polygenic risk scores can be used to predict chemotherapy-related adverse drug reactions!
+&lt;img src=&#34;/img/CC_Deanne.jpg&#34; alt=&#34;&#34;&gt;&lt;img src=&#34;/img/CC_Feryal.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dr Drögemöller attends the University of Alberta Medical Genetics Research Day!</title>
+      <link>/post/22-10-19-conferences/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/post/22-10-19-conferences/</guid>
+      <description>&lt;p&gt;It was great to give a keynote presentation and have dinner with some of the trainees!
+&lt;img src=&#34;/img/UofA.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MacKenzie and Sarah represent the Drögemöller Lab at CSPT in Montreal!</title>
+      <link>/post/22-09-07-conferences/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/post/22-09-07-conferences/</guid>
+      <description>&lt;p&gt;Great to see them presenting at their first in person conference!
+&lt;img src=&#34;/img/CSPT.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>It has been a busy start to Deanne&#39;s MSc!</title>
+      <link>/post/22-09-01-welcome_deanne/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/post/22-09-01-welcome_deanne/</guid>
+      <description>&lt;p&gt;Great to see Deanne attend the Jax hearing workshop and spend a week with Drs. Alain Dabdoub and Emilia Luca at Sunnybrook Research Institute. Congrats for receiving funding from the NIH to attend the Jax course!
+&lt;img src=&#34;/img/jax_poster.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Avital, who will be joining the lab for her Genetics Honours project!</title>
+      <link>/post/22-09-01-welcome_avital/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/post/22-09-01-welcome_avital/</guid>
+      <description>&lt;p&gt;Avital will be looking into the genetics of hidden hearing loss&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>After two years of working in the lab, we are really sad to say goodbye to Sarah</title>
+      <link>/post/22-07-30-sarah-farewell/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/post/22-07-30-sarah-farewell/</guid>
+      <description>&lt;p&gt;We wish you all the best for the future! It was great to celebrate together one more time!
+&lt;img src=&#34;/img/activate.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Drögemöller Lab is grateful to have received an NSERC Discovery Grant!</title>
+      <link>/post/22-06-27-grants/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/post/22-06-27-grants/</guid>
+      <description>&lt;p&gt;These funds will be used to support work aimed at understanding the genomics of age-related hearing impairment through the use of automated phenotyping strategies and single cell RNA sequencing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>More congratulations to MacKenzie Wilke for being awarded the Caroline A. Cope award for excellence in oncology research!</title>
+      <link>/post/22-06-20-congrats_mackenzie/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/post/22-06-20-congrats_mackenzie/</guid>
+      <description>&lt;p&gt;We are so proud of the contributions you are making to this field of research!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Big congratulations to MacKenzie Wilke for being awarded the FGS Research Completion scholarship!</title>
       <link>/post/22-05-29-congrats_mackenzie/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       <guid>/post/22-05-29-congrats_mackenzie/</guid>
@@ -66,10 +161,18 @@
     </item>
     
     <item>
-      <title>More congratulations are in order for Samah, who has also been accepted into the Visual and Automated Disease Analytics Graduate Training Program!</title>
+      <title>More congratulations are in order for Samah for being awarded a Research Manitoba MSc studentship (declined) and for being accepted into the Visual and Automated Disease Analytics Graduate Training Program!</title>
       <link>/post/22-04-05-samah_vada/</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
       <guid>/post/22-04-05-samah_vada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PharmVar GeneFocus: CYP3A5</title>
+      <link>/publication/pharmvar_genefocus-cyp3a5/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/pharmvar_genefocus-cyp3a5/</guid>
       <description></description>
     </item>
     
@@ -84,12 +187,28 @@
     </item>
     
     <item>
+      <title>A pharmacogenomic investigation of the cardiac safety profile of ondansetron in children and pregnant women</title>
+      <link>/publication/a-pharmacogenomic-investigation-of-the-cardiac-safety-profile-of-ondansetron-in-children-and-pregnant-women/</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/a-pharmacogenomic-investigation-of-the-cardiac-safety-profile-of-ondansetron-in-children-and-pregnant-women/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Congrats to Samah for being awarded a Rady Faculty of Health Sciences Graduate Studentship!</title>
       <link>/post/22-02-04-samah_rady/</link>
       <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/post/22-02-04-samah_rady/</guid>
       <description>&lt;p&gt;Samah will be exploring the use of new phenotyping strategies to uncover genes and pathways underlying age-related hearing loss&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Patient-specific genetic factors predict treatment failure in sofosbuvir-treated patients with chronic hepatitis C</title>
+      <link>/publication/patient-specific-genetic-factors-predict-treatment-failure-in-sofosbuvir-treated-patients-with-chronic-hepatitis-c/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/patient-specific-genetic-factors-predict-treatment-failure-in-sofosbuvir-treated-patients-with-chronic-hepatitis-c/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -112,12 +231,28 @@
     </item>
     
     <item>
+      <title>A systematic review and analysis of the use of polygenic scores in pharmacogenomics</title>
+      <link>/publication/a-systematic-review-and-analysis-of-the-use-of-polygenic-scores-in-pharmacogenomics/</link>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/a-systematic-review-and-analysis-of-the-use-of-polygenic-scores-in-pharmacogenomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>We have had a busy month of conferences!</title>
       <link>/post/21-10-22-meetings/</link>
       <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/post/21-10-22-meetings/</guid>
       <description>&lt;p&gt;Congrats to MacKenzie Wilke and Sarah Lyle for representing Canada at the &lt;em&gt;Pharmacogenomics Global Research Network Meeting&lt;/em&gt; and both receiving top abstract awards! Also to MacKenzie for receiving a silver award in the &lt;em&gt;Child Health Research Days Conference&lt;/em&gt; (MSc category).
 &lt;img src=&#34;/img/PGRN.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Novel variant in glycophorin c gene protects against ribavirin-induced anemia during chronic hepatitis C treatment</title>
+      <link>/publication/novel_variant_in_glycophorin_c_gene_protects_against_ribavirin_induced_anemia_during_chronic_hepatitis_c-_treatment/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/novel_variant_in_glycophorin_c_gene_protects_against_ribavirin_induced_anemia_during_chronic_hepatitis_c-_treatment/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -139,12 +274,36 @@
     </item>
     
     <item>
+      <title>TCERG1L allelic variation is associated with cisplatin-induced hearing loss in childhood cancer, a PanCareLIFE study</title>
+      <link>/publication/tcerg1l_allelic_variation_is_associated_with_cisplatin_induced_hearing_loss_in_childhood_cancer_a_pancarelife_study/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/tcerg1l_allelic_variation_is_associated_with_cisplatin_induced_hearing_loss_in_childhood_cancer_a_pancarelife_study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secondary biogenic amine deficiencies: Genetic etiology, therapeutic interventions and clinical effects</title>
+      <link>/publication/secondary-biogenic-amine-deficiencies-genetic-etiology-therapeutic-interventions-and-clinical-effects/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/secondary-biogenic-amine-deficiencies-genetic-etiology-therapeutic-interventions-and-clinical-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Drögemöller Lab is extremely thankful for support from various funding agencies!</title>
       <link>/post/21-07-01-grants/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>/post/21-07-01-grants/</guid>
       <description>&lt;p&gt;In the last few months the Drögemöller Lab has received funding from &lt;strong&gt;CIHR&lt;/strong&gt; (Operating Grant: Early Career Investigators in Maternal, Reproductive, Child &amp;amp; Youth Health); &lt;strong&gt;Research Manitoba&lt;/strong&gt; (New Investigator Operating Grant) and the &lt;strong&gt;Health Sciences Centre Foundation&lt;/strong&gt; (General Operating Grant). We appreciate your support!&lt;/p&gt;
 &lt;p&gt;These funds will be used to support work aimed at predicting and preventing hearing loss caused by the chemotherapeutic agent, cisplatin. These funds will allow us to develop polygenic risk scores to predict cisplatin-induced ototoxicity; use genomics-driven drug repurposing to identify novel otoprotectants to prevent and cisplatin-induced ototoxicity; and harness single cell RNA sequencing to identify cisplatin-induced changes in gene expression that occur in murine inner ear cells.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Transcriptome-wide association study uncovers the role of essential genes in anthracycline-induced cardiotoxicity</title>
+      <link>/publication/transcriptome-wide-association-study-uncovers-the-role-of-essential-genes-in-anthracycline-induced-cardiotoxicity/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/transcriptome-wide-association-study-uncovers-the-role-of-essential-genes-in-anthracycline-induced-cardiotoxicity/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -174,6 +333,22 @@
     </item>
     
     <item>
+      <title>The Extent and Impact of Variation in ADME Genes in Sub-Saharan African Populations</title>
+      <link>/publication/the-extent-and-impact-of-variation-in-adme-genes-in-sub-saharan-african-populations/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/the-extent-and-impact-of-variation-in-adme-genes-in-sub-saharan-african-populations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adult GAMT deficiency: A literature review and report of two siblings</title>
+      <link>/publication/adult-gamt-deficiency-a-literature-review-and-report-of-two-siblings/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/adult-gamt-deficiency-a-literature-review-and-report-of-two-siblings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>To celebrate everyone&#39;s hard work over the last couple of months we took part in a Heist</title>
       <link>/post/21-04-09-escape-room/</link>
       <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
@@ -191,11 +366,27 @@
     </item>
     
     <item>
+      <title>Integrating disease and drug related phenotypes for improved identification of pharmacogenomic variants</title>
+      <link>/publication/integrating-disease-and-drug-related-phenotypes-for-improved-identification-of-pharmacogenomic-variants/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/integrating-disease-and-drug-related-phenotypes-for-improved-identification-of-pharmacogenomic-variants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome to Danielle Johnson, who will be joining the lab as a Mitacs-Globalink UK-Canada PhD exchange student!</title>
       <link>/post/21-02-01-welcome_danielle/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>/post/21-02-01-welcome_danielle/</guid>
       <description>&lt;p&gt;Danielle will be joining us remotely from the UK to perform a systematic review of the use of polygenic risk scores in the field of pharmacogenomics.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>StellarPGx: A nextflow pipeline for calling star alleles in cytochrome P450 genes</title>
+      <link>/publication/stellarpgx-a-nextflow-pipeline-for-calling-star-alleles-in-cytochrome-p450-genes/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/stellarpgx-a-nextflow-pipeline-for-calling-star-alleles-in-cytochrome-p450-genes/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -224,11 +415,364 @@
     </item>
     
     <item>
+      <title>A systematic comparison of pharmacogene star allele calling bioinformatics algorithms: A focus on CYP2D6 genotyping</title>
+      <link>/publication/a-systematic-comparison-of-pharmacogene-star-allele-calling-bioinformatics-algorithms-a-focus-on-cyp2d6-genotyping/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/a-systematic-comparison-of-pharmacogene-star-allele-calling-bioinformatics-algorithms-a-focus-on-cyp2d6-genotyping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome to MacKenzie Sarvis, the lab&#39;s first student!</title>
       <link>/post/20-06-01-first_summer_student/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/post/20-06-01-first_summer_student/</guid>
-      <description>&lt;p&gt;Excited to have MacKenzie Sarvis join the Drögemöller lab as a summer student&lt;/p&gt;</description>
+      <description>&lt;p&gt;Excited to have MacKenzie Sarvis join the Drögemöller lab as a summer student&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CYP2D6 as a treatment decision aid for ER-positive non-metastatic breast cancer patients: a systematic review with accompanying clinical practice guidelines</title>
+      <link>/publication/drogemoller-cyp-2-d-6-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-cyp-2-d-6-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyses of adverse drug reactions-nationwide active surveillance network: Canadian Pharmacogenomics Network for Drug Safety database</title>
+      <link>/publication/tanoshima-analyses-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tanoshima-analyses-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atypical cerebral palsy: genomics analysis enables precision medicine</title>
+      <link>/publication/matthews-atypical-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/matthews-atypical-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bi-allelic GOT2 mutations cause a treatable malate-aspartate shuttle-related encephalopathy</title>
+      <link>/publication/van-karnebeek-bi-allelic-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/van-karnebeek-bi-allelic-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deficiency of perforin and hCNT1, a novel inborn error of pyrimidine metabolism, associated with a rapidly developing lethal phenotype due to multi-organ failure</title>
+      <link>/publication/perez-torras-deficiency-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/perez-torras-deficiency-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-Wide Association Studies of drug-induced liver injury make progress beyond the HLA region</title>
+      <link>/publication/wright-genome-wide-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-genome-wide-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glutaminase deficiency caused by short tandem repeat expansion in GLS</title>
+      <link>/publication/van-kuilenburg-glutaminase-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/van-kuilenburg-glutaminase-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of novel adenosine deaminase 2 gene variants and varied clinical phenotype in pediatric vasculitis</title>
+      <link>/publication/gibson-identification-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/gibson-identification-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Length of uninterrupted CAG, independent of polyglutamine size, results in increased somatic instability, hastening onset of Huntington Disease</title>
+      <link>/publication/wright-length-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-length-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outcome definition influences the relationship between genetic polymorphisms of ERCC1, ERCC2, SLC22A2 and cisplatin nephrotoxicity in adult testicular cancer patients</title>
+      <link>/publication/zazuli-outcome-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/zazuli-outcome-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pharmacogenomics of cisplatin-induced ototoxicity: Successes, shortcomings, and future avenues of research</title>
+      <link>/publication/drogemoller-pharmacogenomics-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-pharmacogenomics-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pharmacogenomics of vincristine-induced peripheral neuropathy implicates pharmacokinetic and inherited neuropathy genes</title>
+      <link>/publication/wright-pharmacogenomics-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-pharmacogenomics-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PLPHP deficiency: clinical, genetic, biochemical, and mechanistic insights</title>
+      <link>/publication/johnstone-plphp-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/johnstone-plphp-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Common variation near IRF6 is associated with IFN-β-induced liver injury in multiple sclerosis</title>
+      <link>/publication/kowalec-common-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/kowalec-common-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Further investigation of the role of ACYP2 and WFS1 pharmacogenomic variants in the development of cisplatin-induced ototoxicity in testicular cancer patients</title>
+      <link>/publication/drogemoller-further-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-further-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gain-of-function KCNJ6 mutation in a severe hyperkinetic movement disorder phenotype</title>
+      <link>/publication/horvath-gain-function-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/horvath-gain-function-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome sequencing reveals a novel genetic mechanism underlying dihydropyrimidine dehydrogenase deficiency: A novel missense variant c.1700G&gt;A and a large intragenic inversion in DPYD spanning intron 8 to intron 12</title>
+      <link>/publication/van-kuilenburg-genome-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/van-kuilenburg-genome-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Germline de novo mutations in ATP1A1 cause renal hypomagnesemia, refractory seizures, and intellectual disability</title>
+      <link>/publication/schlingmann-germline-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/schlingmann-germline-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sialic acid catabolism by N-acetylneuraminate pyruvate lyase is essential for muscle function</title>
+      <link>/publication/wen-sialic-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wen-sialic-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between SLC16A5 genetic variation and cisplatin-induced ototoxic effects in adult patients with testicular cancer</title>
+      <link>/publication/drogemoller-association-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-association-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A de novo mosaic mutation in SPAST with two novel alternative alleles and chromosomal copy number variant in a boy with spastic paraplegia and autism spectrum disorder</title>
+      <link>/publication/a-de-novo-mosaic-mutation-in-spast-with-two-novel-alternative-alleles-and-chromosomal-copy-number-variant-in-a-boy-with-spastic-paraplegia-and-autism-spectrum-disorder/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/a-de-novo-mosaic-mutation-in-spast-with-two-novel-alternative-alleles-and-chromosomal-copy-number-variant-in-a-boy-with-spastic-paraplegia-and-autism-spectrum-disorder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-mapping of antipsychotic response genome-wide association studies reveals novel regulatory mechanisms</title>
+      <link>/publication/ovenden-fine-mapping-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ovenden-fine-mapping-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of a large intronic transposal insertion in SLC17A5 causing sialic acid storage disease</title>
+      <link>/publication/tarailo-graovac-identification-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/tarailo-graovac-identification-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitochondrial complex III deficiency with ketoacidosis and hyperglycemia mimicking neonatal diabetes</title>
+      <link>/publication/anastasio-mitochondrial-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/anastasio-mitochondrial-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Further validation of the SIGMAR1 c.151&#43;1G&gt;T mutation as cause of distal hereditary motor neuropathy</title>
+      <link>/publication/lee-further-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/lee-further-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exome sequencing and the management of neurometabolic disorders</title>
+      <link>/publication/tarailo-graovac-exome-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tarailo-graovac-exome-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cytosolic phosphoenolpyruvate carboxykinase deficiency presenting with acute liver failure following gastroenteritis</title>
+      <link>/publication/santra-cytosolic-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/santra-cytosolic-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The identification of novel genetic variants associated with antipsychotic treatment response outcomes in first-episode schizophrenia patients</title>
+      <link>/publication/drogemoller-identification-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-identification-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CYP2B6*6 and CYP2B6*18 predict long-term efavirenz exposure measured in hair samples in HIV-positive South African women</title>
+      <link>/publication/rohrich-cyp-2-b-66-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rohrich-cyp-2-b-66-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De novo dominant variants affecting the motor domain of KIF1A are a cause of PEHO syndrome</title>
+      <link>/publication/langlois-novo-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/langlois-novo-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of predictive CYP2C19 genotyping assays relative to measured phenotype in a South African cohort</title>
+      <link>/publication/dodgen-evaluation-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dodgen-evaluation-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Considerations for rare variants in drug metabolism genes and the clinical implications</title>
+      <link>/publication/drogemoller-considerations-2014/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-considerations-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patterns of variation influencing antipsychotic treatment outcomes in South African first-episode schizophrenia patients</title>
+      <link>/publication/drogemoller-patterns-2014/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-patterns-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next-generation sequencing of pharmacogenes: a critical analysis focusing on schizophrenia treatment</title>
+      <link>/publication/drogemoller-next-generation-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-next-generation-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of the genetic variation present in CYP3A4 in three South African populations</title>
+      <link>/publication/drogemoller-characterization-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-characterization-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction of the AmpliChip CYP450 test to a South African cohort: a platform comparative prospective cohort study</title>
+      <link>/publication/dodgen-introduction-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/dodgen-introduction-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association of MB-COMT polymorphisms with schizophrenia-susceptibility and symptom severity in an African cohort</title>
+      <link>/publication/wright-association-2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-association-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extended haplotype studies in South African and Dutch variegate porphyria families carrying the recurrent p.R59W mutation confirm a common ancestry</title>
+      <link>/publication/van-tuyll-van-serooskerken-extended-2012/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/van-tuyll-van-serooskerken-extended-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole-genome resequencing in pharmacogenomics: moving away from past disparities to globally representative applications</title>
+      <link>/publication/drogemoller-whole-genome-2011/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-whole-genome-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychiatric genetics in South Africa: cutting a rough diamond</title>
+      <link>/publication/wright-psychiatric-2011/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-psychiatric-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pharmacogenomic research in South Africa: Lessons learned and future opportunities in the rainbow nation</title>
+      <link>/publication/warnich-pharmacogenomic-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/warnich-pharmacogenomic-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of the genetic profile of CYP2C19 in two South African populations</title>
+      <link>/publication/drogemoller-characterization-2010/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/drogemoller-characterization-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elucidation of CYP2D6 genetic diversity in a unique African population: implications for the future application of pharmacogenetics in the Xhosa population</title>
+      <link>/publication/wright-elucidation-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/wright-elucidation-2010/</guid>
+      <description></description>
     </item>
     
   </channel>
