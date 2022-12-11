@@ -63,3 +63,16 @@ user_groups:
 ---
 
 MacKenzie Wilke is a MSc student in the Department of Biochemistry & Medical Genetics at the University of Manitoba. MacKenzie has graduated with her BSc (Hons) in Genetics from the University of Manitoba in 2020. She completed an undergraduate thesis on identifying genes associated with autism spectrum disorder through Hardy-Weinberg disequilibrium and her MSc project will focus on developing a polygenic risk score in order to aid with the prediction and prevention of cisplatin-induced ototoxicity.
+
+**Awards/fellowships:** 
+- CIHR Canada Graduate Scholarships - Masters Award
+- Visual and Automated Disease Analytics Graduate Training Program Studentship
+- Caroline A. Cope Award for Excellence in Oncology Research
+- Faculty of Graduate Studies Research Completion Scholarship
+- PGRN-ASHG Symposium Top Trainee Abstract
+- CHRIM Child Health Research Day Sliver Medal Award
+
+**Current Position:** 
+- Computational and Bioinformatics Biologist at the National Microbiology Laboratory
+
+

@@ -68,5 +68,6 @@ Samah Ahmed is a MSc student in the Department of Biochemistry & Medical Genetic
 - Rady Faculty of Health Sciences Graduate Studentship
 - Visual and Automated Disease Analytics Graduate Training Program Studentship
 - Research Manitoba Masters Studentship (declined)
+- International Graduate Student Entrance Scholarship
 
 

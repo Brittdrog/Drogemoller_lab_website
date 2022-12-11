@@ -60,3 +60,7 @@ user_groups:
 ---
 
 Urim Iyasere performed a summer studentship in the Drögemöller Lab, which focused on using murine scRNAseq data to identify  genes that are relevant to cisplatin-induced ototoxicity.
+
+**Awards/fellowships:** 
+- CancerCare Manitoba Research Institute Summer Studentship 
+
