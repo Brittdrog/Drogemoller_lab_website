@@ -51,6 +51,6 @@ user_groups:
 ---
 Feryal Ladha is an undergraduate student at the University of Manitoba pursuing a BSc in Genetics. Her project focuses on the development of polygenic risk scores to predict cisplatin-induced tinnitus. 
 
-**Awards/fellowships:** 
-- CancerCare Manitoba Research Institute Summer Studentship 
+**Awards:** 
+- CancerCare Manitoba Research Institute Summer Studentship
 

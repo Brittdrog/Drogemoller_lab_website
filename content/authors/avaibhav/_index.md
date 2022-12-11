@@ -55,7 +55,7 @@ user_groups:
 
 Vaibhav performed a summer studentship in the Drögemöller Lab, which was focused on mining cisplatin-induced gene expression and cytotoxicity data to identify genes of relevance to cisplatin-induced ototoxicity.
 
-**Awards/fellowships:** 
+**Awards:** 
 - CHRIM Undergraduate Summer Studentship
 - CancerCare Manitoba Research Institute Summer Studentship (declined)
 

@@ -59,6 +59,6 @@ user_groups:
 Deanne Nixie Miao is a MSc student in the Department of Biochemistry & Medical Genetics at the University of Manitoba. Deanne graduated with a BSc Honors in Genetics at the University of Manitoba in 2021. Her MSc focuses on identifying genetic variants and genes involved in pathways underlying cisplatin-induced ototoxicity through GWAS and scRNAseq analyses.
 
 
-**Awards/fellowships:** 
+**Awards:** 
 - Rady Faculty of Health Sciences Graduate Studentship
 

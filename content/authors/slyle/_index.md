@@ -58,7 +58,7 @@ user_groups:
 
 Sarah was a Genetic Honours Co-op student in the Drögemöller lab, where she focused on identifying genetic variants associated with polycystic ovary syndrome and their role in treatment outcomes of patients. In her current role as a lab technician, she is developing polygenic scores that can be applied in the context of pharmacogenomics.
 
-**Awards/fellowships:** 
+**Awards:** 
 - BioTalent Student Work Placement Program Award
 - PGRN-ASHG Symposium Top Trainee Abstract
 - CSPT Meeting Top Trainee Abstract
