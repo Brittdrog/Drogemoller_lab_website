@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (add your position)
-role: Sarah Lyle <br> Genetics Honors Student > Co-op Student > Lab Technician
+role: Sarah Lyle <br> Genetics Honors Student > <br> Co-op Student > <br> Lab Technician
 
 # Organizations/Affiliations (add your name and web address, if you have one)
 #organizations:

@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Mary McAuley <br> Genetics Honours Co-op Student
+role: Mary McAuley <br> Co-op Student
 
 # Organizations/Affiliations
 #organizations:
