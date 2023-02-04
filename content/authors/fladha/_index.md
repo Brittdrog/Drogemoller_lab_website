@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Feryal Ladha <br> Undergraduate Student
+role: Feryal Ladha <br> Summer Student > <br> Undergraduate Student
 
 # Organizations/Affiliations
 #organizations:
