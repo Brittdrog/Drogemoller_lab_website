@@ -45,9 +45,9 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 #- Principal Investigator
-- Lab members
+#- Lab members
 #- Visitors
-#- Alumni
+- Alumni
 ---
 Feryal Ladha is an undergraduate student at the University of Manitoba pursuing a BSc in Genetics. Her project focuses on the development of polygenic risk scores to predict cisplatin-induced tinnitus. 
 
