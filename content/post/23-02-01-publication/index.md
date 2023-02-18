@@ -1,5 +1,5 @@
 ---
-title: A great start to 2023, with the publication of our transcriptome-wide association study of polycystic ovary syndrome: https://rdcu.be/c4wCo
+title: A great start to 2023, with the publication of our transcriptome-wide association study of polycystic ovary syndrome
 
 date: 2023-01-31
 ---
