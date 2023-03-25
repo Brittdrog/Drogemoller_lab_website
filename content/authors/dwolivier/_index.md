@@ -61,9 +61,9 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 #- Principal Investigator
-- Lab members
+#- Lab members
 #- Visitors
-#- Alumni
+- Alumni
 ---
 
 Niel Olivier is a Postdoctoral Research Fellow at Stellenbosch University, RSA, who has been awarded a Mitacs Globalink internship in the Drögemöller lab. He previously completed his MSc in Biochemistry and PhD in Physiological Sciences at Stellenbosch University, RSA. His main research areas include cancer, immunity, pharmacogenetics, and personalized medicine. 
