@@ -27,11 +27,11 @@ interests:
 - Health & Wellness
 - Animals
 
-education:
-  courses:
-  - course: BSc Hons. Co-op in Genetics
-    institution: University of Manitoba, Canada
-    year: 2018-2024
+#education:
+#  courses:
+#  - course: BSc Hons. Co-op in Genetics
+#    institution: University of Manitoba, Canada
+#    year: 2018-2024
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
