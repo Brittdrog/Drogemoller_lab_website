@@ -61,4 +61,6 @@ Deanne Nixie Miao is a MSc student in the Department of Biochemistry & Medical G
 
 **Awards:** 
 - Rady Faculty of Health Sciences Graduate Studentship
+- Visual and Automated Disease Analytics Graduate Training Program Studentship
+- Research Manitoba Masters Studentship
 

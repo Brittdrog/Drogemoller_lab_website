@@ -1,36 +1,37 @@
+
 ---
 # Display name (add your name here)
-title: Avital Kuznecov
+title: Emily Allan
 
 # Username (this should match the folder name and should be your initial and surname)
 authors:
-- akuznecov
+- eallan
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Avital Kuznecov <br> Genetics Honors Student
+role: Emily Allan <br> Summer Student
 
 # Organizations/Affiliations
 #organizations:
 #- name: Avital Kuznecov
 
 # Short bio (displayed in user profile at end of posts)
-bio: Avital Kuznecov is an undergraduate student at the University of Manitoba pursuing a BSc in Genetics.
+bio: Emily Allan is an undergraduate student at the University of Manitoba pursuing a B.Sc. in Genetics. Her project investigates genetic variants and genes involved in pathways contributing to hidden hearing loss through the use of GWAS, MAGMA, and TWAS.
 
 interests:
-- Epigenetics
-- Evolutionary Genetics
-- Gene Regulation
-- Languages
-- Baking
+- Pharmacogenomics
+- Precision Medicine
+- Bioinformatics
+- Health & Wellness
+- Animals
 
 education:
   courses:
-  - course: BSc in Genetics
+  - course: BSc Hons. Co-op in Genetics
     institution: University of Manitoba, Canada
-    year: 2018-2023
+    year: 2018-2024
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,15 +40,15 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:kuznecoa@myumanitoba.ca"
+  link: "mailto:allane@myumanitoba.ca"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 #- Principal Investigator
-#- Lab members
+- Lab members
 #- Visitors
-- Alumni
+#- Alumni
 ---
 
-Avital Kuznecov is an undergraduate student at the University of Manitoba pursuing a BSc in Genetics. Her project focuses identifying genetic variants influencing hidden hearing loss through the use of GWAS. 
+Emily Allan is an undergraduate student at the University of Manitoba pursuing a B.Sc. in Genetics. Her project investigates genetic variants and genes involved in pathways contributing to hidden hearing loss through the use of GWAS, MAGMA, and TWAS.
