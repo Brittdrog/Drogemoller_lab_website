@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (add your position)
-role: Mackenzie Wilke <br> Summer student > <br> MSc Student
+role: Mackenzie Wilke <br> Summer Student > <br> MSc Student
 
 # Organizations/Affiliations (add your name and web address, if you have one)
 #organizations:
