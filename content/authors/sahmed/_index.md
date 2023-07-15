@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (add your position)
-role: Samah Ahmed <br> MSc Student
+role: Samah Ahmed <br> PhD Student
 
 # Organizations/Affiliations (add your name and web address, if you have one)
 #organizations:
