@@ -46,9 +46,9 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 #- Principal Investigator
-- Lab members
+#- Lab members
 #- Visitors
-#- Alumni
+- Alumni
 ---
 
 Emily Allan is an undergraduate student at the University of Manitoba pursuing a B.Sc. in Genetics. Her project investigates genetic variants and genes involved in pathways contributing to hidden hearing loss through the use of GWAS, MAGMA, and TWAS.

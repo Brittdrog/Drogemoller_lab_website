@@ -46,9 +46,9 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 #- Principal Investigator
-- Lab members
+#- Lab members
 #- Visitors
-#- Alumni
+- Alumni
 ---
 
 Pratyaksh Singhal is an undergraduate student at the University of Manitoba pursuing a B.Sc. Hons. (Co-op) in Genetics and Minor in Psychology. His project focuses on assessing information derived from a genome-wide CRISPRi/a screen in human stem cell-derived neurons.

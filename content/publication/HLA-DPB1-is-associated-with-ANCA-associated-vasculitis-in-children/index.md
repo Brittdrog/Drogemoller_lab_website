@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "HLA-DPB1 is associated with ANCA-associated vasculitis in children"
+title: "Association Between HLA-DPB1 and Antineutrophil Cytoplasmic Antibody-Associated Vasculitis in Children"
 authors: ["Gibson KM", "Drögemöller BI", "Foell D", "Benseler SM", "Graham J", "Hancock REW", "Luqmani RA", "Cabral DA", "Brown KL", "Ross CJ", "PedVas Investigator's Network"]
 date: 2022-12-18
 doi: "10.1002/art.42423"

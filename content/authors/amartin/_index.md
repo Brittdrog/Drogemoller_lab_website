@@ -47,9 +47,9 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 #- Principal Investigator
-- Lab members
+#- Lab members
 #- Visitors
-#- Alumni
+- Alumni
 ---
 
 Alexandria Martin is an undergraduate student at the University of Manitoba pursuing a BSc (Hons) in Biological Sciences with a concentration in Cell, Molecular, and Developmental Biology. Her project focuses on analyzing properties of genes implicated in pediatric-, adult-, and diverse-onset neuromuscular disorders.
