@@ -65,6 +65,9 @@ Samah Ahmed is a MSc student in the Department of Biochemistry & Medical Genetic
 
 
 **Awards:** 
+- Biochemistry and Medical Genetics Human Genetics Endowment Fund Graduate Student Award
+- Centre on Aging Jack MacDonell Scholarship for Research in Aging 
+- Centre on Aging Betty Havens Centre on Aging Graduate Fellowship 
 - Rady Faculty of Health Sciences Graduate Studentship
 - Visual and Automated Disease Analytics Graduate Training Program Studentship
 - Research Manitoba Masters Studentship (declined)
