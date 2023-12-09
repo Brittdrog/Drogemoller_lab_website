@@ -8,7 +8,7 @@ authors:
 - psinghal
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Pratyaksh Singhal <br> Co-op Student <br> (co-supervised)
