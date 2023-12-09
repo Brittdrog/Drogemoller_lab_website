@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (add your position)
-role: Deanne Nixie Miao <br> Lab Technician > <br> MSc Student
+role: Deanne Nixie Miao <br> Lab Technician > <br> PhD Student
 
 # Organizations/Affiliations (add your name and web address, if you have one)
 #organizations:
