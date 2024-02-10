@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-256368389"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-256368389', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -239,7 +277,7 @@
   <meta property="og:description" content="Britt Drögemöller &lt;br&gt; Assistant Professor &lt;br&gt; Canada Research Chair &lt;br&gt; in Pharmacogenomics and Precision Medicine"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-12-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2023-12-04T00:00:00&#43;00:00">
   
 
   
@@ -572,34 +610,34 @@
     
     
       
-      <li><a href="/author/ursula-amstutz/">Ursula Amstutz</a></li>
+      <li><a href="/author/tom-ouellette/">Tom Ouellette</a></li>
     
       
-      <li><a href="/author/abhijat-kitchlu/">Abhijat Kitchlu</a></li>
+      <li><a href="/author/azra-siddiqui/">Azra Siddiqui</a></li>
     
       
-      <li><a href="/author/agnieszka-biala/">Agnieszka Biala</a></li>
+      <li><a href="/author/david-twesigomwe/">David Twesigomwe</a></li>
     
       
-      <li><a href="/author/aida-mata-ventosa/">Aida Mata-Ventosa</a></li>
+      <li><a href="/author/jorge-da-rocha/">Jorge da Rocha</a></li>
     
       
-      <li><a href="/author/alan-rosenberg/">Alan Rosenberg</a></li>
+      <li><a href="/author/scott-hazelhurst/">Scott Hazelhurst</a></li>
     
       
-      <li><a href="/author/albert-viel-oliva/">Albert Viel-Oliva</a></li>
+      <li><a href="/author/zane-lombard/">Zané Lombard</a></li>
     
       
-      <li><a href="/author/alicia-semaka/">Alicia Semaka</a></li>
+      <li><a href="/author/astthese-authors-contributed-equally-to-the-work/">*&amp;ast;These authors contributed equally to the work*</a></li>
     
       
-      <li><a href="/author/alison-elliott/">Alison Elliott</a></li>
+      <li><a href="/author/britt-drogemollerast/">Britt Drögemöller&amp;ast;</a></li>
     
       
-      <li><a href="/author/amber-begtrup/">Amber Begtrup</a></li>
+      <li><a href="/author/cpnds-clinical-recommendations-group/">CPNDS Clinical Recommendations Group</a></li>
     
       
-      <li><a href="/author/amna-al-futaisi/">Amna Al Futaisi</a></li>
+      <li><a href="/author/galen-wrightast/">Galen Wright&amp;ast;</a></li>
     
   </ul>
 

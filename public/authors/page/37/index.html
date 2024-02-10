@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-256368389"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-256368389', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -239,7 +277,7 @@
   <meta property="og:description" content="Britt Drögemöller &lt;br&gt; Assistant Professor &lt;br&gt; Canada Research Chair &lt;br&gt; in Pharmacogenomics and Precision Medicine"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-12-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2023-12-04T00:00:00&#43;00:00">
   
 
   
@@ -572,34 +610,34 @@
     
     
       
-      <li><a href="/author/tuan-bui/">Tuan Bui</a></li>
+      <li><a href="/author/sandra-noble/">Sandra Noble</a></li>
     
       
-      <li><a href="/author/united-for-metabolic-diseases-tide-bc/">United for Metabolic Diseases TIDE BC</a></li>
+      <li><a href="/author/sandra-perez-torras/">Sandra Pérez-Torras</a></li>
     
       
-      <li><a href="/author/wim-kulik/">Wim Kulik</a></li>
+      <li><a href="/author/sara-violante/">Sara Violante</a></li>
     
       
-      <li><a href="/author/wyeth-wassermann/">Wyeth Wassermann</a></li>
+      <li><a href="/author/scott-demarest/">Scott Demarest</a></li>
     
       
-      <li><a href="/author/wyethwasserman/">WyethWasserman</a></li>
+      <li><a href="/author/shahrad-rassekh/">Shahrad Rassekh</a></li>
     
       
-      <li><a href="/author/xiao-yan-wen/">Xiao-Yan Wen</a></li>
+      <li><a href="/author/skye-mcbride/">Skye McBride</a></li>
     
       
-      <li><a href="/author/xiaohong-xu/">Xiaohong Xu</a></li>
+      <li><a href="/author/stephen-scherer/">Stephen Scherer</a></li>
     
       
-      <li><a href="/author/xiaohua-han/">Xiaohua Han</a></li>
+      <li><a href="/author/susan-shenoi/">Susan Shenoi</a></li>
     
       
-      <li><a href="/author/yann-roussel/">Yann Roussel</a></li>
+      <li><a href="/author/susanne-benseler/">Susanne Benseler</a></li>
     
       
-      <li><a href="/author/yoko-ito/">Yoko Ito</a></li>
+      <li><a href="/author/susanne-vijverberg/">Susanne Vijverberg</a></li>
     
   </ul>
 

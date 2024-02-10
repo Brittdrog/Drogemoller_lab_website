@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-256368389"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-256368389', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -552,25 +590,25 @@
   <h2>Latest</h2>
   <ul>
     
-      <li><a href="/publication/characterization-of-cyp2d6-pharmacogenetic-variation-in-sub-saharan-african-populations/">Characterization of CYP2D6 Pharmacogenetic Variation in Sub-Saharan African Populations</a></li>
+      <li><a href="/publication/characterisation-of-cyp2b6-and-cyp2a6-pharmacogenetic-variation-in-sub-saharan-african-populations/">Characterisation of CYP2B6 and CYP2A6 pharmacogenetic variation in sub-Saharan African populations</a></li>
     
-      <li><a href="/post/22-12-01-congrats_deanne/">Congrats to Deanne for being awarded a Rady Faculty of Health Sciences Graduate Studentship!</a></li>
+      <li><a href="/post/23-08-30-summer_students/">We are sad to say goodbye to Lexi, Emily and Prats after spending the summer in the lab!</a></li>
     
-      <li><a href="/post/22-11-16-congrats_mackenzie/">Congratulations to MacKenzie for successfully defending her MSc Thesis!</a></li>
+      <li><a href="/post/23-07-30-samah-bmg/">Congratulations to Samah for being awarded the Human Genetics Endowment Fund Graduate Student Award!</a></li>
     
-      <li><a href="/post/22-10-25-conferences/">Deanne and Feryal represent the Drögemöller Lab at the CancerCare Research Day!</a></li>
+      <li><a href="/post/23-07-01-samah-aging/">Congratulations to Samah for being awarded two Centre on Aging awards!</a></li>
     
-      <li><a href="/post/22-10-19-conferences/">Dr Drögemöller attends the University of Alberta Medical Genetics Research Day!</a></li>
+      <li><a href="/post/23-06-30-conferences/">Deanne attends the bioinformatics.ca RNAseq and scRNAseq workshops!</a></li>
     
-      <li><a href="/post/22-09-07-conferences/">MacKenzie and Sarah represent the Drögemöller Lab at CSPT in Montreal!</a></li>
+      <li><a href="/post/23-06-29-conferences/">It&#39;s been a busy month for everyone in the lab!</a></li>
     
-      <li><a href="/post/22-09-01-welcome_deanne/">It has been a busy start to Deanne&#39;s MSc!</a></li>
+      <li><a href="/post/23-05-26-conferences/">Congrats to Samah who did an awesome job representing us at the Otolaryngology Research Day</a></li>
     
-      <li><a href="/post/22-09-01-welcome_avital/">Welcome to Avital, who will be joining the lab for her Genetics Honours project!</a></li>
+      <li><a href="/post/23-05-19-conferences/">Samah, Deanne, Feryal and Avital represent the Drögemöller Lab at the first BMG Research Day!</a></li>
     
-      <li><a href="/post/22-07-30-sarah-farewell/">After two years of working in the lab, we are really sad to say goodbye to Sarah</a></li>
+      <li><a href="/post/23-05-01-welcome_summer_students/">Welcome to Alexandria Martin, Emily Allan and Pratyaksh Singhal, who will be joining the lab as summer students!</a></li>
     
-      <li><a href="/post/22-06-27-grants/">The Drögemöller Lab is grateful to have received an NSERC Discovery Grant!</a></li>
+      <li><a href="/post/23-04-01-deanne_vada_rady/">Congratulations to Deanne for being awarded a Research Manitoba MSc studentship and for being accepted into the Visual and Automated Disease Analytics Graduate Training Program!</a></li>
     
   </ul>
   

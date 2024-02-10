@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-256368389"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-256368389', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -239,7 +277,7 @@
   <meta property="og:description" content="Britt Drögemöller &lt;br&gt; Assistant Professor &lt;br&gt; Canada Research Chair &lt;br&gt; in Pharmacogenomics and Precision Medicine"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-12-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2023-12-04T00:00:00&#43;00:00">
   
 
   
@@ -572,34 +610,34 @@
     
     
       
-      <li><a href="/author/meaghan-jones/">Meaghan Jones</a></li>
+      <li><a href="/author/mahmoud-pouladi/">Mahmoud Pouladi</a></li>
     
       
-      <li><a href="/author/megan-cho/">Megan Cho</a></li>
+      <li><a href="/author/maja-tarailo-graovacast/">Maja Tarailo-Graovac&amp;ast;</a></li>
     
       
-      <li><a href="/author/meng-li/">Meng Li</a></li>
+      <li><a href="/author/mara-medeiros/">Mara Medeiros</a></li>
     
       
-      <li><a href="/author/michael-eberle/">Michael Eberle</a></li>
+      <li><a href="/author/marc-ekker/">Marc Ekker</a></li>
     
       
-      <li><a href="/author/michael-geraghty/">Michael Geraghty</a></li>
+      <li><a href="/author/marcal-pastor-anglada/">Marçal Pastor-Anglada</a></li>
     
       
-      <li><a href="/author/michael-hayden/">Michael Hayden</a></li>
+      <li><a href="/author/marek-bohm/">Marek Bohm</a></li>
     
       
-      <li><a href="/author/michael-kobor/">Michael Kobor</a></li>
+      <li><a href="/author/margaret-mckinnon/">Margaret McKinnon</a></li>
     
       
-      <li><a href="/author/michel-van-weeghel/">Michel van Weeghel</a></li>
+      <li><a href="/author/marjolein-bosma/">Marjolein Bosma</a></li>
     
       
-      <li><a href="/author/michel-willemsen/">Michel Willemsen</a></li>
+      <li><a href="/author/marjolein-turkenburg/">Marjolein Turkenburg</a></li>
     
       
-      <li><a href="/author/michelle-demos/">Michelle Demos</a></li>
+      <li><a href="/author/marleen-huigen/">Marleen Huigen</a></li>
     
   </ul>
 

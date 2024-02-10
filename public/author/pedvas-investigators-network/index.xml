@@ -5,12 +5,20 @@
     <link>/author/pedvas-investigators-network/</link>
       <atom:link href="/author/pedvas-investigators-network/index.xml" rel="self" type="application/rss+xml" />
     <description>PedVas Investigators Network</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>PedVas Investigators Network</title>
       <link>/author/pedvas-investigators-network/</link>
     </image>
+    
+    <item>
+      <title>Association Between HLA-DPB1 and Antineutrophil Cytoplasmic Antibody-Associated Vasculitis in Children</title>
+      <link>/publication/hla-dpb1-is-associated-with-anca-associated-vasculitis-in-children/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hla-dpb1-is-associated-with-anca-associated-vasculitis-in-children/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Identification of novel adenosine deaminase 2 gene variants and varied clinical phenotype in pediatric vasculitis</title>

@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-256368389"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-256368389', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -572,7 +610,7 @@
 
       <div class="portrait-title">
         <h2></h2>
-        <h3>Sarah Lyle <br> Genetics Honors Student &gt; Co-op Student &gt; Lab Technician</h3>
+        <h3>Sarah Lyle <br> Genetics Honors Student &gt; <br> Co-op Student &gt; <br> Lab Technician</h3>
 
         
       </div>
@@ -604,6 +642,16 @@
     
 
     <p>Sarah was a Genetic Honours Co-op student in the Drögemöller lab, where she focused on identifying genetic variants associated with polycystic ovary syndrome and their role in treatment outcomes of patients. In her current role as a lab technician, she is developing polygenic scores that can be applied in the context of pharmacogenomics.</p>
+<p><strong>Awards:</strong></p>
+<ul>
+<li>BioTalent Student Work Placement Program Award</li>
+<li>PGRN-ASHG Symposium Top Trainee Abstract</li>
+<li>CSPT Meeting Top Trainee Abstract</li>
+</ul>
+<p><strong>Current position:</strong></p>
+<ul>
+<li>MSc Public Health (McGill University)</li>
+</ul>
 
 
     <div class="row">

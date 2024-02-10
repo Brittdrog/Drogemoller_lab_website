@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Feryal Ladha <br> Summer Student > <br> Undergraduate Student <br> Genetics Honors Student
+role: Feryal Ladha <br> Summer Student > <br> Undergraduate Student > <br> Genetics Honors Student
 
 # Organizations/Affiliations
 #organizations:

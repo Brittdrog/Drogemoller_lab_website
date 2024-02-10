@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-256368389"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-256368389', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -239,7 +277,7 @@
   <meta property="og:description" content="Britt Drögemöller &lt;br&gt; Assistant Professor &lt;br&gt; Canada Research Chair &lt;br&gt; in Pharmacogenomics and Precision Medicine"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-12-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2023-12-04T00:00:00&#43;00:00">
   
 
   
@@ -572,6 +610,36 @@
     
     
     <div>
+      <h2><a href="/publication/horvath-gain-function-2018/" >Gain-of-function KCNJ6 mutation in a severe hyperkinetic movement disorder phenotype</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/van-kuilenburg-genome-2018/" >Genome sequencing reveals a novel genetic mechanism underlying dihydropyrimidine dehydrogenase deficiency: A novel missense variant c.1700G&gt;A and a large intragenic inversion in DPYD spanning intron 8 to intron 12</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/schlingmann-germline-2018/" >Germline de novo mutations in ATP1A1 cause renal hypomagnesemia, refractory seizures, and intellectual disability</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/wen-sialic-2018/" >Sialic acid catabolism by N-acetylneuraminate pyruvate lyase is essential for muscle function</a></h2>
       <div class="article-style">
         
@@ -633,36 +701,6 @@
     
     <div>
       <h2><a href="/publication/lee-further-2016/" >Further validation of the SIGMAR1 c.151&#43;1G&gt;T mutation as cause of distal hereditary motor neuropathy</a></h2>
-      <div class="article-style">
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/tarailo-graovac-exome-2016/" >Exome sequencing and the management of neurometabolic disorders</a></h2>
-      <div class="article-style">
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/santra-cytosolic-2016/" >Cytosolic phosphoenolpyruvate carboxykinase deficiency presenting with acute liver failure following gastroenteritis</a></h2>
-      <div class="article-style">
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/drogemoller-identification-2016/" >The identification of novel genetic variants associated with antipsychotic treatment response outcomes in first-episode schizophrenia patients</a></h2>
       <div class="article-style">
         
       </div>

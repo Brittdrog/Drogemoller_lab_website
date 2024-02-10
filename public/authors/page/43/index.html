@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-256368389"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-256368389', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -239,7 +277,7 @@
   <meta property="og:description" content="Britt Drögemöller &lt;br&gt; Assistant Professor &lt;br&gt; Canada Research Chair &lt;br&gt; in Pharmacogenomics and Precision Medicine"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-12-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2023-12-04T00:00:00&#43;00:00">
   
 
   
@@ -572,34 +610,34 @@
     
     
       
-      <li><a href="/author/naga-chalasani/">Naga Chalasani</a></li>
+      <li><a href="/author/karin-huijben/">Karin Huijben</a></li>
     
       
-      <li><a href="/author/par-hallberg/">Pär Hallberg</a></li>
+      <li><a href="/author/karl-schlingmann/">Karl Schlingmann</a></li>
     
       
-      <li><a href="/author/paul-slesinger/">Paul Slesinger</a></li>
+      <li><a href="/author/katheryn-selby/">Katheryn Selby</a></li>
     
       
-      <li><a href="/author/philip-de-jager/">Philip De Jager</a></li>
+      <li><a href="/author/katrin-imminger/">Katrin Imminger</a></li>
     
       
-      <li><a href="/author/pierre-duquette/">Pierre Duquette</a></li>
+      <li><a href="/author/lida-zoetekouw/">Lida Zoetekouw</a></li>
     
       
-      <li><a href="/author/richard-warth/">Richard Warth</a></li>
+      <li><a href="/author/marcelo-kremenchutzky/">Marcelo Kremenchutzky</a></li>
     
       
-      <li><a href="/author/rikke-holm/">Rikke Holm</a></li>
+      <li><a href="/author/martin-hoskings/">Martin Hoskings</a></li>
     
       
-      <li><a href="/author/robert-kleta/">Robert Kleta</a></li>
+      <li><a href="/author/martin-konrad/">Martin Konrad</a></li>
     
       
-      <li><a href="/author/robin-ng/">Robin Ng</a></li>
+      <li><a href="/author/mary-davis/">Mary Davis</a></li>
     
       
-      <li><a href="/author/ruth-ann-marrie/">Ruth Ann Marrie</a></li>
+      <li><a href="/author/matthias-baumann/">Matthias Baumann</a></li>
     
   </ul>
 

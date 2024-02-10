@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-256368389"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-256368389', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -239,7 +277,7 @@
   <meta property="og:description" content="Britt Drögemöller &lt;br&gt; Assistant Professor &lt;br&gt; Canada Research Chair &lt;br&gt; in Pharmacogenomics and Precision Medicine"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-12-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2023-12-04T00:00:00&#43;00:00">
   
 
   
@@ -572,34 +610,34 @@
     
     
       
-      <li><a href="/author/ahmed-s/">Ahmed S</a></li>
+      <li><a href="/author/magda-price/">Magda Price</a></li>
     
       
-      <li><a href="/author/baldwin-s/">Baldwin S</a></li>
+      <li><a href="/author/maja-tarailo-graovac/">Maja Tarailo-Graovac</a></li>
     
       
-      <li><a href="/author/botha-g/">Botha G</a></li>
+      <li><a href="/author/sylvia-stockler/">Sylvia Stöckler</a></li>
     
       
-      <li><a href="/author/chiano-m/">Chiano M</a></li>
+      <li><a href="/author/vladimir-avramovic/">Vladimir Avramovic</a></li>
     
       
-      <li><a href="/author/cottino-l/">Cottino L</a></li>
+      <li><a href="/author/wyeth-wasserman/">Wyeth Wasserman</a></li>
     
       
-      <li><a href="/author/cox-c/">Cox C</a></li>
+      <li><a href="/author/amit-bhavsar/">Amit Bhavsar</a></li>
     
       
-      <li><a href="/author/da-rocha-jeb/">da Rocha JEB</a></li>
+      <li><a href="/author/bruce-carleton/">Bruce Carleton</a></li>
     
       
-      <li><a href="/author/fadlelmola-fm/">Fadlelmola FM</a></li>
+      <li><a href="/author/bryan-schneider/">Bryan Schneider</a></li>
     
       
-      <li><a href="/author/gamo-fj/">Gamo FJ</a></li>
+      <li><a href="/author/erandika-gunaretnam/">Erandika Gunaretnam</a></li>
     
       
-      <li><a href="/author/gross-as/">Gross AS</a></li>
+      <li><a href="/author/erika-scott/">Erika Scott</a></li>
     
   </ul>
 

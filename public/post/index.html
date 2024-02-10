@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-256368389"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-256368389', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -239,7 +277,7 @@
   <meta property="og:description" content="Britt Drögemöller &lt;br&gt; Assistant Professor &lt;br&gt; Canada Research Chair &lt;br&gt; in Pharmacogenomics and Precision Medicine"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-12-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2023-08-30T00:00:00&#43;00:00">
   
 
   
@@ -590,12 +628,13 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/post/22-12-01-congrats_deanne/" >Congrats to Deanne for being awarded a Rady Faculty of Health Sciences Graduate Studentship!</a>
+      <a href="/post/23-08-30-summer_students/" >We are sad to say goodbye to Lexi, Emily and Prats after spending the summer in the lab!</a>
     </h3>
 
     
     <div class="article-style">
-      <p>Deanne will be using scRNAseq to examine cisplatin-induced changes in gene expression that occur in the inner ear</p>
+      <p>It was a pleasure to listen to your final presentations!
+<img src="/img/chrim_lexi.jpg" alt=""> <img src="/img/chrim_prats.jpg" alt=""></p>
     </div>
     
 
@@ -618,7 +657,171 @@
     
       
     
-    Dec 1, 2022
+    Aug 30, 2023
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/23-07-30-samah-bmg/" >Congratulations to Samah for being awarded the Human Genetics Endowment Fund Graduate Student Award!</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jul 30, 2023
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    0 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/23-07-01-samah-aging/" >Congratulations to Samah for being awarded two Centre on Aging awards!</a>
+    </h3>
+
+    
+    <div class="article-style">
+      <p>The Jack MacDonell Scholarship for Research in Aging and Betty Havens Centre on Aging Graduate Fellowship!</p>
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jul 1, 2023
   </span>
   
 
@@ -675,13 +878,12 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/post/22-11-16-congrats_mackenzie/" >Congratulations to MacKenzie for successfully defending her MSc Thesis!</a>
+      <a href="/post/23-06-30-conferences/" >Deanne attends the bioinformatics.ca RNAseq and scRNAseq workshops!</a>
     </h3>
 
     
     <div class="article-style">
-      <p>You did an outstanding job and we are so proud of all the hard work you put into your MSc
-<img src="/img/mackenzie_msc.jpg" alt=""><img src="/img/hat.jpg" alt=""></p>
+      <p>Congratulations on receiving a travel award to attend this course!</p>
     </div>
     
 
@@ -704,7 +906,7 @@
     
       
     
-    Nov 16, 2022
+    Jun 30, 2023
   </span>
   
 
@@ -761,13 +963,13 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/post/22-10-25-conferences/" >Deanne and Feryal represent the Drögemöller Lab at the CancerCare Research Day!</a>
+      <a href="/post/23-06-29-conferences/" >It&#39;s been a busy month for everyone in the lab!</a>
     </h3>
 
     
     <div class="article-style">
-      <p>They did an awesome job presenting on how polygenic risk scores can be used to predict chemotherapy-related adverse drug reactions!
-<img src="/img/CC_Deanne.jpg" alt=""><img src="/img/CC_Feryal.jpg" alt=""></p>
+      <p>Great to see Samah winning the Big Data Challenge at the VADA Summer School and attending the CIHR-IA Summer Program in Aging, Deanne presenting at the Pharmacogenomics Global Research Network Meeting, Deanne and Avital presenting at the Manitoba Neuroscience Network Meeting, Deanne and Feryal presenting at the Canadian Society for Pharmacology and Therapeutics Meeting, and Feryal presenting at Prairie Cancer Research Consortium Conference!
+<img src="/img/June23.jpg" alt=""></p>
     </div>
     
 
@@ -790,7 +992,7 @@
     
       
     
-    Oct 25, 2022
+    Jun 29, 2023
   </span>
   
 
@@ -847,13 +1049,12 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/post/22-10-19-conferences/" >Dr Drögemöller attends the University of Alberta Medical Genetics Research Day!</a>
+      <a href="/post/23-05-26-conferences/" >Congrats to Samah who did an awesome job representing us at the Otolaryngology Research Day</a>
     </h3>
 
     
     <div class="article-style">
-      <p>It was great to give a keynote presentation and have dinner with some of the trainees!
-<img src="/img/UofA.jpg" alt=""></p>
+      <p><img src="/img/ENT_2023.jpg" alt=""></p>
     </div>
     
 
@@ -876,7 +1077,93 @@
     
       
     
-    Oct 19, 2022
+    May 26, 2023
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    0 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/23-05-19-conferences/" >Samah, Deanne, Feryal and Avital represent the Drögemöller Lab at the first BMG Research Day!</a>
+    </h3>
+
+    
+    <div class="article-style">
+      <p>We are so proud of Samah and Feryal for winning the MSc and undergrad categories!
+<img src="/img/bmg_2023a.jpg" alt=""></p>
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 19, 2023
   </span>
   
 
@@ -933,13 +1220,13 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/post/22-09-07-conferences/" >MacKenzie and Sarah represent the Drögemöller Lab at CSPT in Montreal!</a>
+      <a href="/post/23-05-01-welcome_summer_students/" >Welcome to Alexandria Martin, Emily Allan and Pratyaksh Singhal, who will be joining the lab as summer students!</a>
     </h3>
 
     
     <div class="article-style">
-      <p>Great to see them presenting at their first in person conference!
-<img src="/img/CSPT.jpg" alt=""></p>
+      <p>Congrats to Alexandria for receiving an NSERC USRA and CHRIM Summer Studentship and Prats for receiving the Stem Cell Network and CHRIM Summer Studentships.
+<img src="/img/summerstudents_2023.jpg" alt=""></p>
     </div>
     
 
@@ -962,7 +1249,7 @@
     
       
     
-    Sep 7, 2022
+    May 1, 2023
   </span>
   
 
@@ -1019,13 +1306,13 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/post/22-09-01-welcome_deanne/" >It has been a busy start to Deanne&#39;s MSc!</a>
+      <a href="/post/23-04-01-deanne_vada_rady/" >Congratulations to Deanne for being awarded a Research Manitoba MSc studentship and for being accepted into the Visual and Automated Disease Analytics Graduate Training Program!</a>
     </h3>
 
     
     <div class="article-style">
-      <p>Great to see Deanne attend the Jax hearing workshop and spend a week with Drs. Alain Dabdoub and Emilia Luca at Sunnybrook Research Institute. Congrats for receiving funding from the NIH to attend the Jax course!
-<img src="/img/jax_poster.jpg" alt=""></p>
+      <p>Check out the 
+<a href="https://news.umanitoba.ca/rady-grad-student-profile-deanne-nixie-miao-seeks-genetic-clues-to-hearing-loss-caused-by-cancer-drug/?fbclid=IwAR2KVAoupwsehmibWgyGKEulIX3rIEsN0ae8r4vwaTOmeNeE_44g2EubMbQ" target="_blank" rel="noopener">Rady grad student profile</a> related to this award!</p>
     </div>
     
 
@@ -1048,7 +1335,7 @@
     
       
     
-    Sep 1, 2022
+    Apr 5, 2023
   </span>
   
 
@@ -1105,12 +1392,12 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/post/22-09-01-welcome_avital/" >Welcome to Avital, who will be joining the lab for her Genetics Honours project!</a>
+      <a href="/post/23-03-15-clsa_grant/" >The Drögemöller Lab is grateful to have received a CIHR CLSA Catalyst Grant</a>
     </h3>
 
     
     <div class="article-style">
-      <p>Avital will be looking into the genetics of hidden hearing loss</p>
+      <p>Together with co-PI, Galen Wright, we will be using these funds to explore neglected regions of the genome and their link to age-related hearing loss.</p>
     </div>
     
 
@@ -1133,7 +1420,7 @@
     
       
     
-    Sep 1, 2022
+    Mar 14, 2023
   </span>
   
 
@@ -1142,263 +1429,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/22-07-30-sarah-farewell/" >After two years of working in the lab, we are really sad to say goodbye to Sarah</a>
-    </h3>
-
-    
-    <div class="article-style">
-      <p>We wish you all the best for the future! It was great to celebrate together one more time!
-<img src="/img/activate.jpg" alt=""></p>
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Jul 30, 2022
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/22-06-27-grants/" >The Drögemöller Lab is grateful to have received an NSERC Discovery Grant!</a>
-    </h3>
-
-    
-    <div class="article-style">
-      These funds will be used to support work aimed at understanding the genomics of age-related hearing impairment through the use of automated phenotyping strategies and single cell RNA sequencing.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Jun 27, 2022
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/22-06-20-congrats_mackenzie/" >More congratulations to MacKenzie Wilke for being awarded the Caroline A. Cope award for excellence in oncology research!</a>
-    </h3>
-
-    
-    <div class="article-style">
-      <p>We are so proud of the contributions you are making to this field of research!</p>
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Jun 20, 2022
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
+    2 min read
   </span>
   
 

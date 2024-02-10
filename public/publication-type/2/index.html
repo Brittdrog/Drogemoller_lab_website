@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-256368389"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-256368389', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -239,7 +277,7 @@
   <meta property="og:description" content="Britt Drögemöller &lt;br&gt; Assistant Professor &lt;br&gt; Canada Research Chair &lt;br&gt; in Pharmacogenomics and Precision Medicine"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-12-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2023-12-04T00:00:00&#43;00:00">
   
 
   
@@ -572,6 +610,36 @@
     
     
     <div>
+      <h2><a href="/publication/characterisation-of-cyp2b6-and-cyp2a6-pharmacogenetic-variation-in-sub-saharan-african-populations/" >Characterisation of CYP2B6 and CYP2A6 pharmacogenetic variation in sub-Saharan African populations</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/transcriptome-wide-association-analyses-identify-an-association-between-arl14ep-and-polycystic-ovary-syndrome/" >Transcriptome-wide association analyses identify an association between ARL14EP and polycystic ovary syndrome</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/hla-dpb1-is-associated-with-anca-associated-vasculitis-in-children/" >Association Between HLA-DPB1 and Antineutrophil Cytoplasmic Antibody-Associated Vasculitis in Children</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/characterization-of-cyp2d6-pharmacogenetic-variation-in-sub-saharan-african-populations/" >Characterization of CYP2D6 Pharmacogenetic Variation in Sub-Saharan African Populations</a></h2>
       <div class="article-style">
         
@@ -633,36 +701,6 @@
     
     <div>
       <h2><a href="/publication/transcriptome-wide-association-study-uncovers-the-role-of-essential-genes-in-anthracycline-induced-cardiotoxicity/" >Transcriptome-wide association study uncovers the role of essential genes in anthracycline-induced cardiotoxicity</a></h2>
-      <div class="article-style">
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/the-extent-and-impact-of-variation-in-adme-genes-in-sub-saharan-african-populations/" >The Extent and Impact of Variation in ADME Genes in Sub-Saharan African Populations</a></h2>
-      <div class="article-style">
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/adult-gamt-deficiency-a-literature-review-and-report-of-two-siblings/" >Adult GAMT deficiency: A literature review and report of two siblings</a></h2>
-      <div class="article-style">
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/integrating-disease-and-drug-related-phenotypes-for-improved-identification-of-pharmacogenomic-variants/" >Integrating disease and drug related phenotypes for improved identification of pharmacogenomic variants</a></h2>
       <div class="article-style">
         
       </div>

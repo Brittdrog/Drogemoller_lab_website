@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-256368389"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-256368389', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -239,7 +277,7 @@
   <meta property="og:description" content="Britt Drögemöller &lt;br&gt; Assistant Professor &lt;br&gt; Canada Research Chair &lt;br&gt; in Pharmacogenomics and Precision Medicine"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-12-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2023-12-04T00:00:00&#43;00:00">
   
 
   
@@ -932,40 +970,12 @@
     
     
       
-      <a href="/author/avital-kuznecov/"><img class="avatar avatar-circle" src="/author/avital-kuznecov/avatar_hu9071b4e8de0cbf4def1e60a435703cf5_207067_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar"></a>
-    
-
-    <div class="portrait-title">
-      <h2><a href="/author/avital-kuznecov/"></a></h2>
-      <h3>Avital Kuznecov <br> Genetics Honors Student</h3>
-      
-      
-      
-    </div>
-  </div>
-
-  
-
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
       <a href="/author/deanne-nixie-miao/"><img class="avatar avatar-circle" src="/author/deanne-nixie-miao/avatar_hue1a860f835b77524e6a48d8a394d7363_539312_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
       <h2><a href="/author/deanne-nixie-miao/"></a></h2>
-      <h3>Deanne Nixie Miao <br> MSc Student</h3>
+      <h3>Deanne Nixie Miao <br> Lab Technician &gt; <br> PhD Student</h3>
       
       
       
@@ -993,7 +1003,7 @@
 
     <div class="portrait-title">
       <h2><a href="/author/feryal-ladha/"></a></h2>
-      <h3>Feryal Ladha <br> Undergraduate Student</h3>
+      <h3>Feryal Ladha <br> Summer Student &gt; <br> Undergraduate Student <br> Genetics Honors Student</h3>
       
       
       
@@ -1016,12 +1026,12 @@
     
     
       
-      <a href="/author/niel-olivier/"><img class="avatar avatar-circle" src="/author/niel-olivier/avatar_hua423cc4fc2b06d2f313badf20d685057_2415098_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+      <a href="/author/john-pham/"><img class="avatar avatar-circle" src="/author/john-pham/avatar_hu9913eff85a0d5073f66fe6371575c562_491371_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
-      <h2><a href="/author/niel-olivier/"></a></h2>
-      <h3>Niel Olivier <br> Mitacs-Globalink South Africa-Canada visiting Postdoctoral Research Fellow</h3>
+      <h2><a href="/author/john-pham/"></a></h2>
+      <h3>John Pham <br> Biological Technician &gt;</h3>
       
       
       
@@ -1049,7 +1059,7 @@
 
     <div class="portrait-title">
       <h2><a href="/author/samah-ahmed/"></a></h2>
-      <h3>Samah Ahmed <br> MSc Student</h3>
+      <h3>Samah Ahmed <br> PhD Student</h3>
       
       
       
@@ -1063,6 +1073,62 @@
   </div>
 
   
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/alexandria-martin/"><img class="avatar avatar-circle" src="/author/alexandria-martin/avatar_hu6656545d03644ef0f44af830b8e87cc5_484691_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/alexandria-martin/"></a></h2>
+      <h3>Alexandria Martin <br> Summer Student</h3>
+      
+      
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/avital-kuznecov/"><img class="avatar avatar-circle" src="/author/avital-kuznecov/avatar_hu9071b4e8de0cbf4def1e60a435703cf5_207067_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/avital-kuznecov/"></a></h2>
+      <h3>Avital Kuznecov <br> Genetics Honors Student</h3>
+      
+      
+      
+    </div>
+  </div>
+
   
 
   
@@ -1135,12 +1201,124 @@
     
     
       
+      <a href="/author/emily-allan/"><img class="avatar avatar-circle" src="/author/emily-allan/avatar_hu2678fd2ff0be40a000fbf22952aa1ec7_244599_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/emily-allan/"></a></h2>
+      <h3>Emily Allan <br> Summer Student</h3>
+      
+      
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
       <a href="/author/mackenzie-wilke/"><img class="avatar avatar-circle" src="/author/mackenzie-wilke/avatar_hu6b146601f9e8d288b153adc7915e8452_1765938_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
       <h2><a href="/author/mackenzie-wilke/"></a></h2>
-      <h3>Mackenzie Wilke <br> Summer student &gt; MSc Student</h3>
+      <h3>Mackenzie Wilke <br> Summer Student &gt; <br> MSc Student</h3>
+      
+      
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/mary-mcauley/"><img class="avatar avatar-circle" src="/author/mary-mcauley/avatar_huf55bb3ad556d2fa6310887ed679fd5be_1594306_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/mary-mcauley/"></a></h2>
+      <h3>Mary McAuley <br> Co-op Student</h3>
+      
+      
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/niel-olivier/"><img class="avatar avatar-circle" src="/author/niel-olivier/avatar_hua423cc4fc2b06d2f313badf20d685057_2415098_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/niel-olivier/"></a></h2>
+      <h3>Niel Olivier <br> Mitacs-Globalink South Africa-Canada visiting Postdoctoral Research Fellow</h3>
+      
+      
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/pratyaksh-singhal/"><img class="avatar avatar-circle" src="/author/pratyaksh-singhal/avatar_hu76c638d2b0f092142e72401b50448fe2_70748_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/pratyaksh-singhal/"></a></h2>
+      <h3>Pratyaksh Singhal <br> Co-op Student <br> (co-supervised)</h3>
       
       
       
@@ -1168,7 +1346,7 @@
 
     <div class="portrait-title">
       <h2><a href="/author/sarah-lyle/"></a></h2>
-      <h3>Sarah Lyle <br> Genetics Honors Student &gt; Co-op Student &gt; Lab Technician</h3>
+      <h3>Sarah Lyle <br> Genetics Honors Student &gt; <br> Co-op Student &gt; <br> Lab Technician</h3>
       
       
       
@@ -1379,7 +1557,12 @@
     
     <h1>Principal Investigator</h1>
 
-    <p>Dr. Britt Drögemöller is an Assistant Professor in the Department of Biochemistry &amp; Medical Genetics at the University of Manitoba. Dr. Drögemöller holds a Canada Research Chair in Pharmacogenomics and Precision Medicine and is appointed as a Research Scientist at The Children’s Hospital Foundation of Manitoba (CHRIM) and an Adjunct Scientist at the CancerCare Manitoba Research Institute.</p>
+    <p>Dr. Britt Drögemöller is an Assistant Professor in the Department of Biochemistry &amp; Medical Genetics at the University of Manitoba. Dr. Drögemöller holds a Canada Research Chair in Pharmacogenomics and Precision Medicine and is appointed as a Research Scientist at The Children’s Hospital Foundation of Manitoba (CHRIM), an Adjunct Scientist at the CancerCare Manitoba Research Institute and a Research Affiliate at the Centre on Aging.</p>
+<p><strong>Awards:</strong></p>
+<ul>
+<li>Tier 2 CIHR Canada Research Chair</li>
+<li>Carnegie African Diaspora Fellow</li>
+</ul>
 
 
     <div class="row">
@@ -1454,7 +1637,7 @@
 
       <div class="portrait-title">
         <h2></h2>
-        <h3>Samah Ahmed <br> MSc Student</h3>
+        <h3>Samah Ahmed <br> PhD Student</h3>
 
         
       </div>
@@ -1485,8 +1668,17 @@
     
     <h1>MSc student</h1>
 
-    <p>Samah Ahmed is a MSc student in the Department of Biochemistry &amp; Medical Genetics at the University of Manitoba. Samah has graduated with her B.Pharm from the University of Khartoum in 2010. Her MSc project will focus on identifying genetic variants and genes involved in pathways underlying hearing through GWAS and scRNAseq analyses.</p>
-<p><strong>Awards/fellowships:</strong> Rady Faculty of Health Sciences studentship, Visual and Automated Disease Analytics Graduate Training Program, Research Manitoba Masters Studentship (declined)</p>
+    <p>Samah Ahmed is a MSc student in the Department of Biochemistry &amp; Medical Genetics at the University of Manitoba. Samah graduated with her B.Pharm from the University of Khartoum in 2010. Her MSc project focuses on using automated phenotyping strategies and large-scale genomic analyses to uncover genes and pathways invovled in age-related hearing loss.</p>
+<p><strong>Awards:</strong></p>
+<ul>
+<li>Biochemistry and Medical Genetics Human Genetics Endowment Fund Graduate Student Award</li>
+<li>Centre on Aging Jack MacDonell Scholarship for Research in Aging</li>
+<li>Centre on Aging Betty Havens Centre on Aging Graduate Fellowship</li>
+<li>Rady Faculty of Health Sciences Graduate Studentship</li>
+<li>Visual and Automated Disease Analytics Graduate Training Program Studentship</li>
+<li>Research Manitoba Masters Studentship (declined)</li>
+<li>International Graduate Student Entrance Scholarship</li>
+</ul>
 
 
     <div class="row">
@@ -1607,7 +1799,7 @@
 
       <div class="portrait-title">
         <h2></h2>
-        <h3>Deanne Nixie Miao <br> MSc Student</h3>
+        <h3>Deanne Nixie Miao <br> Lab Technician &gt; <br> PhD Student</h3>
 
         
       </div>
@@ -1636,9 +1828,15 @@
   <div class="col-12 col-lg-8">
 
     
-    <h1>Lab technican</h1>
+    <h1>MSc student</h1>
 
-    <p>Deanne Nixie Miao graduated with a BSc Honors in Genetics at the University of Manitoba. She completed an undergraduate thesis on characterizing the development of bones in hyaluronidase-2 KO and CON mouse embryos. She is currently a Lab Technician in the Department of Biochemistry and Medical Genetics in Dr. Triggs-Raine&rsquo;s and Dr. Drögemöller&rsquo;s lab.</p>
+    <p>Deanne Nixie Miao is a MSc student in the Department of Biochemistry &amp; Medical Genetics at the University of Manitoba. Deanne graduated with a BSc Honors in Genetics at the University of Manitoba in 2021. Her MSc focuses on identifying genetic variants and genes involved in pathways underlying cisplatin-induced ototoxicity through GWAS and scRNAseq analyses.</p>
+<p><strong>Awards:</strong></p>
+<ul>
+<li>Rady Faculty of Health Sciences Graduate Studentship</li>
+<li>Visual and Automated Disease Analytics Graduate Training Program Studentship</li>
+<li>Research Manitoba Masters Studentship</li>
+</ul>
 
 
     <div class="row">
@@ -1747,7 +1945,7 @@
 
       <div class="portrait-title">
         <h2></h2>
-        <h3>Feryal Ladha <br> Undergraduate Student</h3>
+        <h3>Feryal Ladha <br> Summer Student &gt; <br> Undergraduate Student <br> Genetics Honors Student</h3>
 
         
       </div>
@@ -1778,7 +1976,11 @@
     
     <h1>Undergraduate Student</h1>
 
-    <p>Feryal Ladha is an undergraduate student at the University of Manitoba pursuing a BSc in Genetics. Her project will focus on the development of polygenic risk scores to predict cisplatin-induced tinnitus.</p>
+    <p>Feryal Ladha is an undergraduate student at the University of Manitoba pursuing a BSc in Genetics. Her project focuses on the development of polygenic risk scores to predict cisplatin-induced tinnitus.</p>
+<p><strong>Awards:</strong></p>
+<ul>
+<li>CancerCare Manitoba Research Institute Summer Studentship</li>
+</ul>
 
 
     <div class="row">
@@ -1808,323 +2010,6 @@
             <div class="description">
               <p class="course">BSc in Genetics, 2020-2024</p>
               <p class="institution">University of Manitoba, Canada</p>
-            </div>
-          </li>
-          
-        </ul>
-      </div>
-      
-
-    </div>
-  </div>
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  <section id="about_akuznecov" class="home-section wg-about   "  >
-    <div class="container">
-      
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-<div class="row">
-  <div class="col-12 col-lg-4">
-    <div id="profile">
-
-      
-      
-      <img class="avatar avatar-circle" src="/author/avital-kuznecov/avatar_hu9071b4e8de0cbf4def1e60a435703cf5_207067_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar">
-      
-
-      <div class="portrait-title">
-        <h2></h2>
-        <h3>Avital Kuznecov <br> Genetics Honors Student</h3>
-
-        
-      </div>
-
-      <ul class="network-icon" aria-hidden="true">
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-        <li>
-          <a href="mailto:kuznecoa@myumanitoba.ca" >
-            <i class="fas fa-envelope big-icon"></i>
-          </a>
-        </li>
-        
-      </ul>
-
-    </div>
-  </div>
-  <div class="col-12 col-lg-8">
-
-    
-    <h1>Honours Student</h1>
-
-    <p>Avital Kuznecov is an undergraduate student at the University of Manitoba pursuing a BSc in Genetics. Her project will focus on preforming a Genome-Wide Association Study to identify genetic factors influencing Hidden Hearing Loss.</p>
-
-
-    <div class="row">
-
-      
-      <div class="col-md-5">
-        <h3>Interests</h3>
-        <ul class="ul-interests">
-          
-          <li>Epigenetics</li>
-          
-          <li>Evolutionary Genetics</li>
-          
-          <li>Gene Regulation</li>
-          
-          <li>Languages</li>
-          
-          <li>Baking</li>
-          
-        </ul>
-      </div>
-      
-
-      
-      <div class="col-md-7">
-        <h3>Education</h3>
-        <ul class="ul-edu fa-ul">
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">BSc in Genetics, 2018-2023</p>
-              <p class="institution">University of Manitoba, Canada</p>
-            </div>
-          </li>
-          
-        </ul>
-      </div>
-      
-
-    </div>
-  </div>
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  <section id="about_dolivier" class="home-section wg-about   "  >
-    <div class="container">
-      
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-<div class="row">
-  <div class="col-12 col-lg-4">
-    <div id="profile">
-
-      
-      
-      <img class="avatar avatar-circle" src="/author/niel-olivier/avatar_hua423cc4fc2b06d2f313badf20d685057_2415098_270x270_fill_q90_lanczos_center.jpg" alt="Avatar">
-      
-
-      <div class="portrait-title">
-        <h2></h2>
-        <h3>Niel Olivier <br> Mitacs-Globalink South Africa-Canada visiting Postdoctoral Research Fellow</h3>
-
-        
-      </div>
-
-      <ul class="network-icon" aria-hidden="true">
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-        <li>
-          <a href="mailto:dwo@sun.ac.za" >
-            <i class="fas fa-envelope big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://scholar.google.com/citations?user=XTGBl4cAAAAJ&amp;hl=en" target="_blank" rel="noopener">
-            <i class="ai ai-google-scholar big-icon"></i>
-          </a>
-        </li>
-        
-      </ul>
-
-    </div>
-  </div>
-  <div class="col-12 col-lg-8">
-
-    
-    <h1>Mitacs-Globalink South Africa-Canada postdoctoral exchange student</h1>
-
-    <p>Niel Olivier is a Postdoctoral Research Fellow at Stellenbosch University, RSA, who has been awarded a Mitacs Globalink internship in the Drögemöller lab. He previously completed his MSc in Biochemistry and PhD in Physiological Sciences at Stellenbosch University, RSA. His main research areas include cancer, immunity, pharmacogenetics, and personalized medicine.</p>
-
-
-    <div class="row">
-
-      
-      <div class="col-md-5">
-        <h3>Interests</h3>
-        <ul class="ul-interests">
-          
-          <li>Cancer</li>
-          
-          <li>Immunity</li>
-          
-          <li>Pharmacogenetics</li>
-          
-          <li>Personalised medicine</li>
-          
-          <li>Adventure motorcycling</li>
-          
-          <li>Hunting/Fishing/Snowboarding</li>
-          
-        </ul>
-      </div>
-      
-
-      
-      <div class="col-md-7">
-        <h3>Education</h3>
-        <ul class="ul-edu fa-ul">
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">PhD in Physiological Sciences, 2017-2021</p>
-              <p class="institution">Stellenbosch University, RSA</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">MSc in Biochemistry, 2015-2016</p>
-              <p class="institution">Stellenbosch University, RSA</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">BSc (Hons) in Biochemistry, 2014</p>
-              <p class="institution">Stellenbosch University, RSA</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">BSc Molecular Biology and Biotechnology, 2011-2013</p>
-              <p class="institution">Stellenbosch University, RSA</p>
             </div>
           </li>
           
@@ -2255,7 +2140,7 @@
     
       
     
-    Dec 1, 2022
+    Aug 30, 2023
   </span>
   
 
@@ -2284,12 +2169,157 @@
   
 
   <h3 class="article-title mb-1 mt-3">
-    <a href="/post/22-12-01-congrats_deanne/">Congrats to Deanne for being awarded a Rady Faculty of Health Sciences Graduate Studentship!</a>
+    <a href="/post/23-08-30-summer_students/">We are sad to say goodbye to Lexi, Emily and Prats after spending the summer in the lab!</a>
   </h3>
 
   
   <div class="article-style">
-    <p><p>Deanne will be using scRNAseq to examine cisplatin-induced changes in gene expression that occur in the inner ear</p></p>
+    <p><p>It was a pleasure to listen to your final presentations!
+<img src="/img/chrim_lexi.jpg" alt=""> <img src="/img/chrim_prats.jpg" alt=""></p></p>
+  </div>
+  
+
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jul 30, 2023
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    0 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/post/23-07-30-samah-bmg/">Congratulations to Samah for being awarded the Human Genetics Endowment Fund Graduate Student Award!</a>
+  </h3>
+
+  
+
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jul 1, 2023
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/post/23-07-01-samah-aging/">Congratulations to Samah for being awarded two Centre on Aging awards!</a>
+  </h3>
+
+  
+  <div class="article-style">
+    <p><p>The Jack MacDonell Scholarship for Research in Aging and Betty Havens Centre on Aging Graduate Fellowship!</p></p>
   </div>
   
 
@@ -2330,7 +2360,7 @@
     
       
     
-    Nov 16, 2022
+    Jun 30, 2023
   </span>
   
 
@@ -2359,13 +2389,12 @@
   
 
   <h3 class="article-title mb-1 mt-3">
-    <a href="/post/22-11-16-congrats_mackenzie/">Congratulations to MacKenzie for successfully defending her MSc Thesis!</a>
+    <a href="/post/23-06-30-conferences/">Deanne attends the bioinformatics.ca RNAseq and scRNAseq workshops!</a>
   </h3>
 
   
   <div class="article-style">
-    <p><p>You did an outstanding job and we are so proud of all the hard work you put into your MSc
-<img src="/img/mackenzie_msc.jpg" alt=""><img src="/img/hat.jpg" alt=""></p></p>
+    <p><p>Congratulations on receiving a travel award to attend this course!</p></p>
   </div>
   
 
@@ -2406,7 +2435,7 @@
     
       
     
-    Oct 25, 2022
+    Jun 29, 2023
   </span>
   
 
@@ -2435,13 +2464,13 @@
   
 
   <h3 class="article-title mb-1 mt-3">
-    <a href="/post/22-10-25-conferences/">Deanne and Feryal represent the Drögemöller Lab at the CancerCare Research Day!</a>
+    <a href="/post/23-06-29-conferences/">It&#39;s been a busy month for everyone in the lab!</a>
   </h3>
 
   
   <div class="article-style">
-    <p><p>They did an awesome job presenting on how polygenic risk scores can be used to predict chemotherapy-related adverse drug reactions!
-<img src="/img/CC_Deanne.jpg" alt=""><img src="/img/CC_Feryal.jpg" alt=""></p></p>
+    <p><p>Great to see Samah winning the Big Data Challenge at the VADA Summer School and attending the CIHR-IA Summer Program in Aging, Deanne presenting at the Pharmacogenomics Global Research Network Meeting, Deanne and Avital presenting at the Manitoba Neuroscience Network Meeting, Deanne and Feryal presenting at the Canadian Society for Pharmacology and Therapeutics Meeting, and Feryal presenting at Prairie Cancer Research Consortium Conference!
+<img src="/img/June23.jpg" alt=""></p></p>
   </div>
   
 
@@ -2482,7 +2511,7 @@
     
       
     
-    Oct 19, 2022
+    May 26, 2023
   </span>
   
 
@@ -2491,7 +2520,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    1 min read
+    0 min read
   </span>
   
 
@@ -2511,13 +2540,12 @@
   
 
   <h3 class="article-title mb-1 mt-3">
-    <a href="/post/22-10-19-conferences/">Dr Drögemöller attends the University of Alberta Medical Genetics Research Day!</a>
+    <a href="/post/23-05-26-conferences/">Congrats to Samah who did an awesome job representing us at the Otolaryngology Research Day</a>
   </h3>
 
   
   <div class="article-style">
-    <p><p>It was great to give a keynote presentation and have dinner with some of the trainees!
-<img src="/img/UofA.jpg" alt=""></p></p>
+    <p><p><img src="/img/ENT_2023.jpg" alt=""></p></p>
   </div>
   
 
@@ -2558,7 +2586,7 @@
     
       
     
-    Sep 7, 2022
+    May 19, 2023
   </span>
   
 
@@ -2587,164 +2615,13 @@
   
 
   <h3 class="article-title mb-1 mt-3">
-    <a href="/post/22-09-07-conferences/">MacKenzie and Sarah represent the Drögemöller Lab at CSPT in Montreal!</a>
+    <a href="/post/23-05-19-conferences/">Samah, Deanne, Feryal and Avital represent the Drögemöller Lab at the first BMG Research Day!</a>
   </h3>
 
   
   <div class="article-style">
-    <p><p>Great to see them presenting at their first in person conference!
-<img src="/img/CSPT.jpg" alt=""></p></p>
-  </div>
-  
-
-  
-
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-    
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Sep 1, 2022
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/post/22-09-01-welcome_deanne/">It has been a busy start to Deanne&#39;s MSc!</a>
-  </h3>
-
-  
-  <div class="article-style">
-    <p><p>Great to see Deanne attend the Jax hearing workshop and spend a week with Drs. Alain Dabdoub and Emilia Luca at Sunnybrook Research Institute. Congrats for receiving funding from the NIH to attend the Jax course!
-<img src="/img/jax_poster.jpg" alt=""></p></p>
-  </div>
-  
-
-  
-
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-    
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Sep 1, 2022
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/post/22-09-01-welcome_avital/">Welcome to Avital, who will be joining the lab for her Genetics Honours project!</a>
-  </h3>
-
-  
-  <div class="article-style">
-    <p><p>Avital will be looking into the genetics of hidden hearing loss</p></p>
+    <p><p>We are so proud of Samah and Feryal for winning the MSc and undergrad categories!
+<img src="/img/bmg_2023a.jpg" alt=""></p></p>
   </div>
   
 
@@ -2854,6 +2731,363 @@
 
     
 
+    
+      
+        
+
+
+
+
+
+  
+
+
+
+
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span><a href="/author/twesigomwe-d/">Twesigomwe D</a></span>, <span><a href="/author/drogemoller-bi/">Drögemöller BI</a></span>, <span><a href="/author/wright-geb/">Wright GEB</a></span>, <span><a href="/author/adebamowo-c/">Adebamowo C</a></span>, <span><a href="/author/agongo-g/">Agongo G</a></span>, <span><a href="/author/boua-pr/">Boua PR</a></span>, <span><a href="/author/matshaba-m/">Matshaba M</a></span>, <span><a href="/author/paximadis-m/">Paximadis M</a></span>, <span><a href="/author/ramsay-m/">Ramsay M</a></span>, <span><a href="/author/simo-g/">Simo G</a></span>, <span><a href="/author/simuunza-mc/">Simuunza MC</a></span>, <span><a href="/author/tiemessen-ct/">Tiemessen CT</a></span>, <span><a href="/author/lombard-z/">Lombard Z</a></span>, <span><a href="/author/hazelhurst-s/">Hazelhurst S</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    December 2023
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      <em>Clin Pharmacol Ther</em>
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/characterisation-of-cyp2b6-and-cyp2a6-pharmacogenetic-variation-in-sub-saharan-african-populations/">Characterisation of CYP2B6 and CYP2A6 pharmacogenetic variation in sub-Saharan African populations</a>
+  </h3>
+
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1002/cpt.3124" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+  
+
+
+
+
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span><a href="/author/lyle-sm/">Lyle SM</a></span>, <span><a href="/author/ahmed-s/">Ahmed S</a></span>, <span><a href="/author/elliott-je/">Elliott JE</a></span>, <span><a href="/author/stener-victorin-e/">Stener-Victorin E</a></span>, <span><a href="/author/nachtigal-mw/">Nachtigal MW</a></span>, <span><a href="/author/drogemoller-bi/">Drögemöller BI</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    January 2023
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      <em>J Hum Genet</em>
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/transcriptome-wide-association-analyses-identify-an-association-between-arl14ep-and-polycystic-ovary-syndrome/">Transcriptome-wide association analyses identify an association between ARL14EP and polycystic ovary syndrome</a>
+  </h3>
+
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1038/s10038-023-01120-w" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+  
+
+
+
+
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span><a href="/author/gibson-km/">Gibson KM</a></span>, <span><a href="/author/drogemoller-bi/">Drögemöller BI</a></span>, <span><a href="/author/foell-d/">Foell D</a></span>, <span><a href="/author/benseler-sm/">Benseler SM</a></span>, <span><a href="/author/graham-j/">Graham J</a></span>, <span><a href="/author/hancock-rew/">Hancock REW</a></span>, <span><a href="/author/luqmani-ra/">Luqmani RA</a></span>, <span><a href="/author/cabral-da/">Cabral DA</a></span>, <span><a href="/author/brown-kl/">Brown KL</a></span>, <span><a href="/author/ross-cj/">Ross CJ</a></span>, <span><a href="/author/pedvas-investigators-network/">PedVas Investigator&rsquo;s Network</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    December 2022
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      <em>Arthritis Rheumatol</em>
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/hla-dpb1-is-associated-with-anca-associated-vasculitis-in-children/">Association Between HLA-DPB1 and Antineutrophil Cytoplasmic Antibody-Associated Vasculitis in Children</a>
+  </h3>
+
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1002/art.42423" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+</div>
+
+      
     
       
         
@@ -3081,363 +3315,6 @@
 
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1002/cpt.2563" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-  </div>
-  
-
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-  
-
-
-
-
-
-
-<div class="card-simple">
-
-  
-    
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-  
-  <span><a href="/author/drogemoller-bi/">Drögemöller BI</a></span>, <span><a href="/author/wright-geb/">Wright GEB</a></span>, <span><a href="/author/trueman-j/">Trueman J</a></span>, <span><a href="/author/shaw-k/">Shaw K</a></span>, <span><a href="/author/staub-m/">Staub M</a></span>, <span><a href="/author/chaudhry-s/">Chaudhry S</a></span>, <span><a href="/author/miao-f/">Miao F</a></span>, <span><a href="/author/higginson-m/">Higginson M</a></span>, <span><a href="/author/groeneweg-gss/">Groeneweg GSS</a></span>, <span><a href="/author/brown-j/">Brown J</a></span>, <span><a href="/author/magee-la/">Magee LA</a></span>, <span><a href="/author/whyte-sd/">Whyte SD</a></span>, <span><a href="/author/west-n/">West N</a></span>, <span><a href="/author/brodie-sm/">Brodie SM</a></span>, <span><a href="/author/t-ong-g/">&rsquo;t ong G</a></span>, <span><a href="/author/israels-s/">Israels S</a></span>, <span><a href="/author/berger-h/">Berger H</a></span>, <span><a href="/author/ito-s/">Ito S</a></span>, <span><a href="/author/rassekh-sr/">Rassekh SR</a></span>, <span><a href="/author/sanatani-s/">Sanatani S</a></span>, <span><a href="/author/ross-cjd/">Ross CJD</a></span>, <span><a href="/author/carleton-bc/">Carleton BC</a></span>
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    February 2022
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    
-      <em>Biomed Pharmacother</em>
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/a-pharmacogenomic-investigation-of-the-cardiac-safety-profile-of-ondansetron-in-children-and-pregnant-women/">A pharmacogenomic investigation of the cardiac safety profile of ondansetron in children and pregnant women</a>
-  </h3>
-
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.biopha.2022.112684" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-  </div>
-  
-
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-  
-
-
-
-
-
-
-<div class="card-simple">
-
-  
-    
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-  
-  <span><a href="/author/loucks-cm/">Loucks CM</a></span>, <span><a href="/author/lin-jj/">Lin JJ</a></span>, <span><a href="/author/trueman-jn/">Trueman JN</a></span>, <span><a href="/author/drogemoller-bi/">Drögemöller BI</a></span>, <span><a href="/author/wright-geb/">Wright GEB</a></span>, <span><a href="/author/chang-wc/">Chang WC</a></span>, <span><a href="/author/li-kh/">Li KH</a></span>, <span><a href="/author/yoshida-em/">Yoshida EM</a></span>, <span><a href="/author/ford-ja/">Ford JA</a></span>, <span><a href="/author/lee-ss/">Lee SS</a></span>, <span><a href="/author/crotty-p/">Crotty P</a></span>, <span><a href="/author/kim-rb/">Kim RB</a></span>, <span><a href="/author/al-judaibi-b/">Al-Judaibi B</a></span>, <span><a href="/author/schwarz-ui/">Schwarz UI</a></span>, <span><a href="/author/ramji-a/">Ramji A</a></span>, <span><a href="/author/farivar-jf/">Farivar JF</a></span>, <span><a href="/author/tam-e/">Tam E</a></span>, <span><a href="/author/walston-ll/">Walston LL</a></span>, <span><a href="/author/ross-cjd/">Ross CJD</a></span>, <span><a href="/author/carleton-bc/">Carleton BC</a></span>
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    February 2022
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    
-      <em>Liver Int</em>
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/patient-specific-genetic-factors-predict-treatment-failure-in-sofosbuvir-treated-patients-with-chronic-hepatitis-c/">Patient-specific genetic factors predict treatment failure in sofosbuvir-treated patients with chronic hepatitis C</a>
-  </h3>
-
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/liv.15175" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-  </div>
-  
-
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-  
-
-
-
-
-
-
-<div class="card-simple">
-
-  
-    
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-  
-  <span><a href="/author/johnson-d/">Johnson D</a></span>, <span><a href="/author/wilke-map/">Wilke MAP</a></span>, <span><a href="/author/lyle-sm/">Lyle SM</a></span>, <span><a href="/author/kowalec-k/">Kowalec K</a></span>, <span><a href="/author/jorgensen-a/">Jorgensen A</a></span>, <span><a href="/author/wright-geb/">Wright GEB</a></span>, <span><a href="/author/drogemoller-bi/">Drögemöller BI</a></span>
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    December 2021
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    
-      <em>Clin Pharmacol Ther</em>
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/a-systematic-review-and-analysis-of-the-use-of-polygenic-scores-in-pharmacogenomics/">A systematic review and analysis of the use of polygenic scores in pharmacogenomics</a>
-  </h3>
-
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1002/cpt.2520" target="_blank" rel="noopener">
   DOI
 </a>
 

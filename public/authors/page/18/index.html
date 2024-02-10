@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-256368389"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-256368389', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -239,7 +277,7 @@
   <meta property="og:description" content="Britt Drögemöller &lt;br&gt; Assistant Professor &lt;br&gt; Canada Research Chair &lt;br&gt; in Pharmacogenomics and Precision Medicine"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-12-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2023-12-04T00:00:00&#43;00:00">
   
 
   
@@ -572,34 +610,34 @@
     
     
       
-      <li><a href="/author/machanick-p/">Machanick P</a></li>
+      <li><a href="/author/fei-shen/">Fei Shen</a></li>
     
       
-      <li><a href="/author/mbiyavanga-m/">Mbiyavanga M</a></li>
+      <li><a href="/author/fudan-miao/">Fudan Miao</a></li>
     
       
-      <li><a href="/author/othman-h/">Othman H</a></li>
+      <li><a href="/author/galen-wright/">Galen Wright</a></li>
     
       
-      <li><a href="/author/panji-s/">Panji S</a></li>
+      <li><a href="/author/jafar-hasbullah/">Jafar Hasbullah</a></li>
     
       
-      <li><a href="/author/thomas-p/">Thomas P</a></li>
+      <li><a href="/author/baldwin-s/">Baldwin S</a></li>
     
       
-      <li><a href="/author/bhavi-modi/">Bhavi Modi</a></li>
+      <li><a href="/author/botha-g/">Botha G</a></li>
     
       
-      <li><a href="/author/charlotte-haaxma/">Charlotte Haaxma</a></li>
+      <li><a href="/author/chiano-m/">Chiano M</a></li>
     
       
-      <li><a href="/author/fazli-rabbi-awan/">Fazli Rabbi Awan</a></li>
+      <li><a href="/author/cottino-l/">Cottino L</a></li>
     
       
-      <li><a href="/author/frans-van-der-kloet/">Frans van der Kloet</a></li>
+      <li><a href="/author/cox-c/">Cox C</a></li>
     
       
-      <li><a href="/author/fred-vaz/">Fred Vaz</a></li>
+      <li><a href="/author/da-rocha-jeb/">da Rocha JEB</a></li>
     
   </ul>
 

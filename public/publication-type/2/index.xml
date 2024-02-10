@@ -5,12 +5,36 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>2</title>
       <link>/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Characterisation of CYP2B6 and CYP2A6 pharmacogenetic variation in sub-Saharan African populations</title>
+      <link>/publication/characterisation-of-cyp2b6-and-cyp2a6-pharmacogenetic-variation-in-sub-saharan-african-populations/</link>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/characterisation-of-cyp2b6-and-cyp2a6-pharmacogenetic-variation-in-sub-saharan-african-populations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptome-wide association analyses identify an association between ARL14EP and polycystic ovary syndrome</title>
+      <link>/publication/transcriptome-wide-association-analyses-identify-an-association-between-arl14ep-and-polycystic-ovary-syndrome/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/transcriptome-wide-association-analyses-identify-an-association-between-arl14ep-and-polycystic-ovary-syndrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association Between HLA-DPB1 and Antineutrophil Cytoplasmic Antibody-Associated Vasculitis in Children</title>
+      <link>/publication/hla-dpb1-is-associated-with-anca-associated-vasculitis-in-children/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hla-dpb1-is-associated-with-anca-associated-vasculitis-in-children/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Characterization of CYP2D6 Pharmacogenetic Variation in Sub-Saharan African Populations</title>
