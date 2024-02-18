@@ -65,6 +65,8 @@ Samah Ahmed is a MSc student in the Department of Biochemistry & Medical Genetic
 
 
 **Awards:** 
+- Judy and Gerry McDole Graduate Entrance Scholarship
+- Dr. Forough Khadem Scholarship
 - Biochemistry and Medical Genetics Human Genetics Endowment Fund Graduate Student Award
 - Centre on Aging Jack MacDonell Scholarship for Research in Aging 
 - Centre on Aging Betty Havens Centre on Aging Graduate Fellowship 
